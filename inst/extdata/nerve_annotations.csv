@@ -1,0 +1,67 @@
+nerve_name,spinal_levels,type,body_region,plexus
+Accessory Nerve (XI),C3-C4,cranial,neck,cranial_nerves
+Thoracodorsal Nerve,C6-C8,motor,trunk,brachial_plexus
+Intercostal Nerves,T1-T12,mixed,thorax,thoracic_nerves
+Dorsal Scapular Nerve,C4-C5,motor,trunk,brachial_plexus
+Long Thoracic Nerve,C5-C7,motor,trunk,brachial_plexus
+Axillary Nerve,C5-C6,mixed,upper_limb,brachial_plexus
+Suprascapular Nerve,C5-C6,motor,upper_limb,brachial_plexus
+Lower Subscapular Nerve,C5-C7,motor,upper_limb,brachial_plexus
+Subscapular Nerves,C5-C7,motor,upper_limb,brachial_plexus
+Nerve to Subclavius,C5-C6,motor,trunk,brachial_plexus
+Medial and Lateral Pectoral Nerves,C5-T1,motor,trunk,brachial_plexus
+Medial Pectoral Nerve,C8-T1,motor,trunk,brachial_plexus
+Musculocutaneous Nerve,C5-C7,mixed,upper_limb,brachial_plexus
+Radial Nerve,C5-T1,mixed,upper_limb,brachial_plexus
+Median Nerve,C6-T1,mixed,upper_limb,brachial_plexus
+Ulnar Nerve,C8-T1,mixed,upper_limb,brachial_plexus
+Anterior Interosseous Nerve,C8-T1,motor,upper_limb,brachial_plexus
+Posterior Interosseous Nerve,C7-C8,motor,upper_limb,brachial_plexus
+Posterior Rami Cervical Nerves,C1-C6,mixed,neck,cervical_nerves
+Posterior Rami Spinal Nerves,C3-S4,mixed,trunk,spinal_nerves
+Anterior Rami Spinal Nerves,C1-L4,mixed,trunk,spinal_nerves
+Anterior Rami Cervical Nerves,C1-C6,mixed,neck,cervical_plexus
+Suboccipital Nerve,C1,motor,neck,cervical_nerves
+Ansa Cervicalis,C1-C3,motor,neck,cervical_plexus
+C1 via Hypoglossal Nerve,C1,motor,neck,cervical_plexus
+Facial Nerve (VII),C2-C3,cranial,head,cranial_nerves
+Trigeminal (V3),C2-C3,cranial,head,cranial_nerves
+Oculomotor Nerve (III),midbrain,cranial,head,cranial_nerves
+Abducens Nerve (VI),pons,cranial,head,cranial_nerves
+Trochlear Nerve (IV),midbrain,cranial,head,cranial_nerves
+Superior Gluteal Nerve,L4-S1,motor,lower_limb,sacral_plexus
+Inferior Gluteal Nerve,L5-S2,motor,lower_limb,sacral_plexus
+Nerve to Piriformis,S1-S2,motor,lower_limb,sacral_plexus
+Nerve to Obturator Internus,L5-S2,motor,lower_limb,sacral_plexus
+Nerve to Quadratus Femoris,L4-S1,motor,lower_limb,sacral_plexus
+Tibial Division Sciatic Nerve,L5-S2,mixed,lower_limb,sacral_plexus
+Sciatic Nerve,L4-S3,mixed,lower_limb,sacral_plexus
+Obturator Nerve,L2-L4,mixed,lower_limb,lumbar_plexus
+Femoral Nerve,L2-L4,mixed,lower_limb,lumbar_plexus
+Lumbar Plexus,L1-L4,mixed,lower_limb,lumbar_plexus
+Tibial Nerve,L4-S3,mixed,lower_limb,sacral_plexus
+Superficial Peroneal Nerve,L5-S1,mixed,lower_limb,sacral_plexus
+Deep Peroneal Nerve,L4-S1,mixed,lower_limb,sacral_plexus
+Medial Plantar Nerve,S1-S2,mixed,lower_limb,sacral_plexus
+Lateral Plantar Nerve,S1-S3,mixed,lower_limb,sacral_plexus
+External Laryngeal Nerve,C3-C4,motor,neck,vagus
+Recurrent Laryngeal Nerve,C5-T1,motor,neck,vagus
+Phrenic Nerve,C3-C5,motor,thorax,cervical_plexus
+Subcostal Nerve,T12,mixed,trunk,thoracic_nerves
+Iliohypogastric Nerve,T12-L1,mixed,trunk,lumbar_plexus
+Intercostal Nerve T1,T1,mixed,thorax,thoracic_nerves
+Intercostal Nerve T2,T2,mixed,thorax,thoracic_nerves
+Intercostal Nerve T3,T3,mixed,thorax,thoracic_nerves
+Intercostal Nerve T4,T4,mixed,thorax,thoracic_nerves
+Intercostal Nerve T5,T5,mixed,thorax,thoracic_nerves
+Intercostal Nerve T6,T6,mixed,thorax,thoracic_nerves
+Intercostal Nerve T7,T7,mixed,thorax,thoracic_nerves
+Intercostal Nerve T8,T8,mixed,thorax,thoracic_nerves
+Intercostal Nerve T9,T9,mixed,thorax,thoracic_nerves
+Intercostal Nerve T10,T10,mixed,thorax,thoracic_nerves
+Intercostal Nerve T11,T11,mixed,thorax,thoracic_nerves
+Median Nerve; Ulnar Nerve,C8-T1,mixed,upper_limb,brachial_plexus
+Obturator Nerve; Tibial Division Sciatic Nerve,L2-S2,mixed,lower_limb,lumbar_sacral_plexus
+Intercostal Nerves; Subcostal Nerve,T7-T12,mixed,trunk,thoracic_nerves
+Intercostal Nerves; Iliohypogastric Nerve,T7-L1,mixed,trunk,thoracic_lumbar_nerves
+Femoral Nerve; Obturator Nerve,L2-L3,mixed,lower_limb,lumbar_plexus

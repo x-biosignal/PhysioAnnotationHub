@@ -1,0 +1,15 @@
+Package: PhysioAnnotationHub
+Type: Package
+Title: Anatomical and Clinical Knowledge Graph for Physiological Data
+Version: 0.1.0
+Authors@R: person("Matsui Lab", role = c("aut", "cre"), email = "matsui@example.com")
+Description: Centralized annotation hub providing anatomical ontology,
+    muscle/bone metadata, nerve innervation, clinical codes (ICD-10, ICF),
+    and knowledge graph queries for the physio-ecosystem.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
+Depends: R (>= 4.1.0)
+Suggests: testthat (>= 3.0.0), PhysioMSKNet
+Config/testthat/edition: 3

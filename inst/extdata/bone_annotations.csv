@@ -1,0 +1,174 @@
+bone_name,body_region,sub_region,bone_type,parent_structure
+External Occipital Protuberance,head,cranium,landmark,Occipital Bone
+Occipital Bone,head,cranium,flat,cranium
+Ligamentum Nuchae,neck,posterior,ligament,cervical_spine
+C1 (Atlas),neck,cervical_spine,irregular,cervical_spine
+C2 (Axis),neck,cervical_spine,irregular,cervical_spine
+C3,neck,cervical_spine,irregular,cervical_spine
+C4,neck,cervical_spine,irregular,cervical_spine
+C5,neck,cervical_spine,irregular,cervical_spine
+C6,neck,cervical_spine,irregular,cervical_spine
+C7,neck,cervical_spine,irregular,cervical_spine
+T1,trunk,thoracic_spine,irregular,thoracic_spine
+T2,trunk,thoracic_spine,irregular,thoracic_spine
+T3,trunk,thoracic_spine,irregular,thoracic_spine
+T4,trunk,thoracic_spine,irregular,thoracic_spine
+T5,trunk,thoracic_spine,irregular,thoracic_spine
+T6,trunk,thoracic_spine,irregular,thoracic_spine
+T7,trunk,thoracic_spine,irregular,thoracic_spine
+T8,trunk,thoracic_spine,irregular,thoracic_spine
+T9,trunk,thoracic_spine,irregular,thoracic_spine
+T10,trunk,thoracic_spine,irregular,thoracic_spine
+T11,trunk,thoracic_spine,irregular,thoracic_spine
+T12,trunk,thoracic_spine,irregular,thoracic_spine
+L1,trunk,lumbar_spine,irregular,lumbar_spine
+L2,trunk,lumbar_spine,irregular,lumbar_spine
+L3,trunk,lumbar_spine,irregular,lumbar_spine
+L4,trunk,lumbar_spine,irregular,lumbar_spine
+L5,trunk,lumbar_spine,irregular,lumbar_spine
+Clavicle,upper_limb,shoulder_girdle,long,shoulder_girdle
+Acromion,upper_limb,shoulder_girdle,landmark,Scapula
+Scapula,upper_limb,shoulder_girdle,flat,shoulder_girdle
+Iliac Crest,lower_limb,pelvis,landmark,Ilium
+Sternum,trunk,thorax,flat,thorax
+Ribs 1,trunk,thorax,flat,rib_cage
+Ribs 2,trunk,thorax,flat,rib_cage
+Ribs 3,trunk,thorax,flat,rib_cage
+Ribs 4,trunk,thorax,flat,rib_cage
+Ribs 5,trunk,thorax,flat,rib_cage
+Ribs 6,trunk,thorax,flat,rib_cage
+Ribs 7,trunk,thorax,flat,rib_cage
+Ribs 8,trunk,thorax,flat,rib_cage
+Ribs 9,trunk,thorax,flat,rib_cage
+Ribs 10,trunk,thorax,flat,rib_cage
+Ribs 11,trunk,thorax,flat,rib_cage
+Ribs 12,trunk,thorax,flat,rib_cage
+Humerus,upper_limb,arm,long,arm
+Common Flexor Tendon,upper_limb,arm,tendon,Humerus
+Common Extensor Tendon,upper_limb,arm,tendon,Humerus
+Aponeurosis of External Oblique,trunk,abdomen,aponeurosis,abdominal_wall
+Bicipital Aponeurosis,upper_limb,arm,aponeurosis,Biceps Brachii
+Radius,upper_limb,forearm,long,forearm
+Ulna,upper_limb,forearm,long,forearm
+Annular Ligament,upper_limb,forearm,ligament,elbow
+Radial Collateral Ligament,upper_limb,forearm,ligament,elbow
+Interosseous Membrane of Forearm,upper_limb,forearm,membrane,forearm
+Hand Metacarpal 1,upper_limb,hand,long,hand
+Hand Metacarpal 2,upper_limb,hand,long,hand
+Hand Metacarpal 3,upper_limb,hand,long,hand
+Hand Metacarpal 4,upper_limb,hand,long,hand
+Hand Metacarpal 5,upper_limb,hand,long,hand
+Hand Flexor Retinaculum,upper_limb,hand,ligament,wrist
+Antebrachial Fascia,upper_limb,forearm,fascia,forearm
+Palmar Aponeurosis,upper_limb,hand,aponeurosis,hand
+Pisiform,upper_limb,hand,sesamoid,wrist
+Hamate,upper_limb,hand,short,wrist
+Trapezium,upper_limb,hand,short,wrist
+Trapezoid,upper_limb,hand,short,wrist
+Capitate,upper_limb,hand,short,wrist
+Hand Proximal Phalanx 1,upper_limb,hand,long,hand
+Hand Proximal Phalanx 2,upper_limb,hand,long,hand
+Hand Proximal Phalanx 3,upper_limb,hand,long,hand
+Hand Proximal Phalanx 4,upper_limb,hand,long,hand
+Hand Proximal Phalanx 5,upper_limb,hand,long,hand
+Hand Middle Phalanx 2,upper_limb,hand,long,hand
+Hand Middle Phalanx 3,upper_limb,hand,long,hand
+Hand Middle Phalanx 4,upper_limb,hand,long,hand
+Hand Middle Phalanx 5,upper_limb,hand,long,hand
+Hand Distal Phalanx 1,upper_limb,hand,long,hand
+Hand Distal Phalanx 2,upper_limb,hand,long,hand
+Hand Distal Phalanx 3,upper_limb,hand,long,hand
+Hand Distal Phalanx 4,upper_limb,hand,long,hand
+Hand Distal Phalanx 5,upper_limb,hand,long,hand
+Hand Extensor Hood 2,upper_limb,hand,tendon,hand
+Hand Extensor Hood 3,upper_limb,hand,tendon,hand
+Hand Extensor Hood 4,upper_limb,hand,tendon,hand
+Hand Extensor Hood 5,upper_limb,hand,tendon,hand
+Flexor Digitorum Profundus Tendon,upper_limb,hand,tendon,hand
+Temporal Bone,head,cranium,flat,cranium
+Sacrum,trunk,pelvis,irregular,pelvis
+Mandible,head,face,irregular,skull
+Pectoralis Major/Deltoid Fascia,upper_limb,shoulder,fascia,shoulder
+Hyoid Bone,neck,anterior,irregular,neck
+Thyroid Cartilage,neck,larynx,cartilage,larynx
+Galea Aponeurosis,head,scalp,aponeurosis,scalp
+Skin Above Eyes and Nose,head,face,soft_tissue,face
+Frontal Bone,head,cranium,flat,cranium
+Palpebral Ligament,head,orbit,ligament,orbit
+Lacrimal Bone,head,face,flat,skull
+Lateral Palpebral Raphe,head,orbit,ligament,orbit
+Maxilla,head,face,irregular,skull
+Skin Around Mouth,head,face,soft_tissue,face
+Upper Lip Muscles,head,face,soft_tissue,face
+Nasal Cartilage,head,face,cartilage,nose
+Infraorbital Margin,head,face,landmark,Maxilla
+Skin of Upper Lip,head,face,soft_tissue,face
+Zygomatic Bone,head,face,flat,skull
+Modiolus of Mouth,head,face,landmark,face
+Pterygomandibular Raphe,head,face,ligament,face
+Palatine bone,head,face,irregular,skull
+Pterygoid Fossa,head,cranium,landmark,Sphenoid
+Sphenoid,head,cranium,irregular,cranium
+Tarsus,head,orbit,cartilage,orbit
+Annulus of Zinn,head,orbit,tendon,orbit
+Limbus,head,orbit,landmark,orbit
+Margins of Optic Canal,head,cranium,landmark,Sphenoid
+Sclera,head,orbit,soft_tissue,orbit
+Orbit,head,orbit,landmark,skull
+Iliotibial Band,lower_limb,thigh,fascia,thigh
+Ilium,lower_limb,pelvis,flat,pelvis
+Sacrotuberous Ligament,lower_limb,pelvis,ligament,pelvis
+Coccyx,trunk,pelvis,irregular,pelvis
+Femur,lower_limb,thigh,long,thigh
+Gluteal Aponeurosis,lower_limb,hip,fascia,hip
+Ischium,lower_limb,pelvis,irregular,pelvis
+Obturator Membrane,lower_limb,pelvis,membrane,pelvis
+Tibia,lower_limb,leg,long,leg
+Pes Anserinus,lower_limb,leg,tendon,knee
+Fibula,lower_limb,leg,long,leg
+Pubis,lower_limb,pelvis,irregular,pelvis
+Patella,lower_limb,knee,sesamoid,knee
+Synovial Membrane,lower_limb,knee,membrane,knee
+Calcaneus,lower_limb,foot,short,tarsus
+Meniscus,lower_limb,knee,cartilage,knee
+Crural Fascia,lower_limb,leg,fascia,leg
+Foot Distal Phalanx 1 (Hallux),lower_limb,foot,long,foot
+Foot Distal Phalanx 2,lower_limb,foot,long,foot
+Foot Distal Phalanx 3,lower_limb,foot,long,foot
+Foot Distal Phalanx 4,lower_limb,foot,long,foot
+Foot Distal Phalanx 5,lower_limb,foot,long,foot
+Navicular,lower_limb,foot,short,tarsus
+Interosseous Membrane of Fibula/Tibia,lower_limb,leg,membrane,leg
+Medial Cuneiform 1,lower_limb,foot,short,tarsus
+Medial Cuneiform 2,lower_limb,foot,short,tarsus
+Medial Cuneiform 3,lower_limb,foot,short,tarsus
+Cuboid,lower_limb,foot,short,tarsus
+Metatarsal 1,lower_limb,foot,long,metatarsus
+Metatarsal 2,lower_limb,foot,long,metatarsus
+Metatarsal 3,lower_limb,foot,long,metatarsus
+Metatarsal 4,lower_limb,foot,long,metatarsus
+Metatarsal 5,lower_limb,foot,long,metatarsus
+Foot Proximal Phalanx 1,lower_limb,foot,long,foot
+Foot Proximal Phalanx 2,lower_limb,foot,long,foot
+Foot Proximal Phalanx 3,lower_limb,foot,long,foot
+Foot Proximal Phalanx 4,lower_limb,foot,long,foot
+Foot Proximal Phalanx 5,lower_limb,foot,long,foot
+Foot Middle Phalanx 1,lower_limb,foot,long,foot
+Foot Middle Phalanx 2,lower_limb,foot,long,foot
+Foot Middle Phalanx 3,lower_limb,foot,long,foot
+Foot Middle Phalanx 4,lower_limb,foot,long,foot
+Foot Middle Phalanx 5,lower_limb,foot,long,foot
+Foot Flexor Retinaculum,lower_limb,foot,ligament,ankle
+Plantar Aponeurosis,lower_limb,foot,aponeurosis,foot
+Abductor Digit Minimi,lower_limb,foot,tendon,foot
+Flexor Digitorum Longus Tendon,lower_limb,foot,tendon,foot
+Extensor Digitorum Longus Tendon,lower_limb,foot,tendon,foot
+Cricoid Cartilage,neck,larynx,cartilage,larynx
+Arytenoid Cartilage,neck,larynx,cartilage,larynx
+Epiglottis,neck,larynx,cartilage,larynx
+Central Tendon of Diaphragm,thorax,chest_wall,tendon,diaphragm
+Inguinal Ligament,trunk,abdomen,ligament,pelvis
+Rectus Sheath,trunk,abdomen,fascia,abdominal_wall
+Thoracolumbar Fascia,trunk,back,fascia,trunk
+Linea Alba,trunk,abdomen,fascia,abdominal_wall
+Iliolumbar Ligament,trunk,pelvis,ligament,pelvis

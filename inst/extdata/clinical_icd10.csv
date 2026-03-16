@@ -1,0 +1,83 @@
+icd10_code,description,affected_muscles,body_region,severity_class
+M62.0,Diastasis of muscle - general,Rectus abdominis,trunk,moderate
+M62.10,Other rupture of muscle - shoulder,Supraspinatus;Infraspinatus;Teres Minor;Subscapularis;Deltoid,upper_limb,severe
+M62.11,Other rupture of muscle - upper arm,Biceps Brachii;Triceps Brachii;Brachialis,upper_limb,severe
+M62.12,Other rupture of muscle - forearm,Flexor Digitorum Profundus;Extensor Digitorum;Flexor Carpi Radialis,upper_limb,severe
+M62.15,Other rupture of muscle - thigh,Rectus Femoris;Vastus Lateralis;Biceps Femoris;Semitendinosus,lower_limb,severe
+M62.16,Other rupture of muscle - lower leg,Gastrocnemius;Soleus;Tibialis Anterior,lower_limb,severe
+M62.40,Contracture of muscle - shoulder,Subscapularis;Pectoralis Major;Deltoid,upper_limb,moderate
+M62.41,Contracture of muscle - upper arm,Biceps Brachii;Triceps Brachii,upper_limb,moderate
+M62.45,Contracture of muscle - thigh,Rectus Femoris;Biceps Femoris;Adductor Longus,lower_limb,moderate
+M62.46,Contracture of muscle - lower leg,Gastrocnemius;Soleus,lower_limb,moderate
+M62.50,Muscle wasting - shoulder,Supraspinatus;Infraspinatus;Deltoid,upper_limb,moderate
+M62.51,Muscle wasting - upper arm,Biceps Brachii;Triceps Brachii;Brachialis,upper_limb,moderate
+M62.55,Muscle wasting - thigh,Rectus Femoris;Vastus Lateralis;Vastus Medialis;Vastus Intermedius,lower_limb,moderate
+M62.56,Muscle wasting - lower leg,Gastrocnemius;Soleus;Tibialis Anterior,lower_limb,moderate
+M62.81,Muscle weakness - generalized,Deltoid;Biceps Brachii;Triceps Brachii;Rectus Femoris;Gluteus Maximus,general,mild
+M75.0,Adhesive capsulitis of shoulder,Subscapularis;Supraspinatus;Infraspinatus;Teres Minor,upper_limb,moderate
+M75.1,Rotator cuff syndrome,Supraspinatus;Infraspinatus;Teres Minor;Subscapularis,upper_limb,moderate
+M75.2,Bicipital tendinitis,Biceps Brachii,upper_limb,mild
+M75.3,Calcific tendinitis of shoulder,Supraspinatus;Infraspinatus,upper_limb,moderate
+M75.4,Impingement syndrome of shoulder,Supraspinatus;Infraspinatus;Biceps Brachii,upper_limb,moderate
+M75.5,Bursitis of shoulder,Supraspinatus;Deltoid,upper_limb,mild
+M76.0,Gluteal tendinitis,Gluteus Medius;Gluteus Minimus,lower_limb,mild
+M76.1,Psoas tendinitis,Psoas Major;Iliacus,lower_limb,mild
+M76.2,Iliac crest spur,Tensor Fascia Lata;Gluteus Medius,lower_limb,mild
+M76.3,Iliotibial band syndrome,Tensor Fascia Lata;Gluteus Maximus,lower_limb,mild
+M76.4,Tibial collateral bursitis,Sartorius;Gracilis;Semitendinosus,lower_limb,mild
+M76.5,Patellar tendinitis,Rectus Femoris;Vastus Lateralis;Vastus Medialis;Vastus Intermedius,lower_limb,moderate
+M76.6,Achilles tendinitis,Gastrocnemius;Soleus,lower_limb,moderate
+M76.7,Peroneal tendinitis,Peroneus Longus;Peroneus Brevis,lower_limb,mild
+M76.8,Tibialis posterior tendinitis,Tibialis Posterior,lower_limb,moderate
+M77.0,Medial epicondylitis,Flexor Carpi Radialis;Palmaris Longus;Flexor Carpi Ulnaris;Pronator Teres,upper_limb,mild
+M77.1,Lateral epicondylitis,Extensor Carpi Radialis Brevis;Extensor Digitorum;Extensor Carpi Ulnaris,upper_limb,mild
+M79.1,Myalgia - general,Trapezius;Sternocleidomastoid;Rectus abdominis,general,mild
+M54.2,Cervicalgia,Trapezius;Sternocleidomastoid;Splenius Capitis;Levator Scapulae,neck,mild
+M54.5,Low back pain,Multifidus;Iliocostalis Lumborum;Longissimus Thoracis;Quadratus lumborum;Psoas Major,trunk,moderate
+M54.6,Pain in thoracic spine,Longissimus Thoracis;Iliocostalis Thoracis;Spinalis Thoracis;Semispinalis Thoracis,trunk,mild
+S46.0,Injury of muscle of shoulder - rotator cuff,Supraspinatus;Infraspinatus;Teres Minor;Subscapularis,upper_limb,severe
+S46.1,Injury of long head of biceps,Biceps Brachii,upper_limb,moderate
+S46.2,Injury of muscle of shoulder and upper arm,Deltoid;Pectoralis Major;Triceps Brachii,upper_limb,moderate
+S46.3,Injury of triceps,Triceps Brachii;Anconeus,upper_limb,moderate
+S56.0,Injury of flexor muscle of forearm,Flexor Carpi Radialis;Flexor Digitorum Superficialis;Flexor Digitorum Profundus,upper_limb,moderate
+S56.1,Injury of flexor pollicis longus,Flexor Pollicis Longus,upper_limb,moderate
+S56.2,Injury of extensor muscle of forearm,Extensor Digitorum;Extensor Carpi Radialis Longus;Extensor Carpi Ulnaris,upper_limb,moderate
+S66.0,Injury of muscle of thumb at hand level,Abductor Pollicis Brevis;Flexor Pollicis Brevis;Opponens Pollicis;Adductor Pollicis,upper_limb,moderate
+S66.1,Injury of muscle of finger at hand level,Lumbrical 1;Lumbrical 2;Dorsal Interossei 1;Palmar Interossei 1,upper_limb,moderate
+S76.0,Injury of muscle of hip,Psoas Major;Iliacus;Gluteus Maximus;Gluteus Medius,lower_limb,moderate
+S76.1,Injury of quadriceps muscle,Rectus Femoris;Vastus Lateralis;Vastus Medialis;Vastus Intermedius,lower_limb,severe
+S76.2,Injury of adductor muscle of thigh,Adductor Longus;Adductor Brevis;Adductor Magnus;Gracilis,lower_limb,moderate
+S76.3,Injury of hamstring muscles,Semitendinosus;Semimembranosus;Biceps Femoris,lower_limb,severe
+S86.0,Injury of Achilles tendon,Gastrocnemius;Soleus,lower_limb,severe
+S86.1,Injury of muscle of lower leg posterior,Gastrocnemius;Soleus;Plantaris;Popliteus;Tibialis Posterior,lower_limb,moderate
+S86.2,Injury of muscle of lower leg anterior,Tibialis Anterior;Extensor Digitorum Longus;Extensor Hallucis Longus,lower_limb,moderate
+S86.3,Injury of peroneal muscle,Peroneus Longus;Peroneus Brevis;Peroneus Tertius,lower_limb,moderate
+S96.0,Injury of muscle of ankle and foot,Abductor Hallucis;Flexor Digitorum Brevis;Extensor Digitorum Brevis,lower_limb,mild
+G56.0,Carpal tunnel syndrome,Abductor Pollicis Brevis;Opponens Pollicis;Flexor Pollicis Brevis;Lumbrical 1;Lumbrical 2,upper_limb,moderate
+G56.2,Ulnar nerve lesion,Abductor Digiti Minimi;Flexor Digiti Minimi Brevis;Adductor Pollicis;Dorsal Interossei 1;Palmar Interossei 1,upper_limb,moderate
+G57.0,Sciatic nerve lesion,Semitendinosus;Semimembranosus;Biceps Femoris;Gastrocnemius;Soleus;Tibialis Anterior,lower_limb,severe
+G57.3,Common peroneal nerve lesion,Tibialis Anterior;Extensor Digitorum Longus;Extensor Hallucis Longus;Peroneus Longus;Peroneus Brevis,lower_limb,moderate
+G57.6,Tibial nerve lesion,Gastrocnemius;Soleus;Tibialis Posterior;Flexor Digitorum Longus;Flexor Hallucis Longus,lower_limb,moderate
+M60.0,Infective myositis,Quadratus lumborum;Psoas Major;Gluteus Maximus,general,severe
+M60.1,Interstitial myositis,Trapezius;Latissimus Dorsi;Deltoid,general,moderate
+M61.0,Myositis ossificans traumatica,Brachialis;Quadriceps;Adductor Longus,general,severe
+M62.89,Other specified muscle disorders,Trapezius;Deltoid;Gluteus Maximus;Rectus Femoris,general,mild
+M79.0,Rheumatism unspecified,Trapezius;Sternocleidomastoid;Levator Scapulae;Multifidus,general,mild
+M79.7,Fibromyalgia,Trapezius;Supraspinatus;Gluteus Maximus;Rectus Femoris;Gastrocnemius,general,moderate
+G70.0,Myasthenia gravis - ocular,Levator Palpebrae Superioris;Lateral Rectus;Medial Rectus;Superior Rectus;Inferior Rectus,head,severe
+G70.1,Myasthenia gravis - generalized,Deltoid;Biceps Brachii;Triceps Brachii;Rectus Femoris;Diaphragm,general,severe
+G71.0,Muscular dystrophy,Deltoid;Biceps Brachii;Gluteus Maximus;Rectus Femoris;Gastrocnemius,general,severe
+G71.2,Congenital myopathy,Diaphragm;Deltoid;Biceps Brachii;Rectus Femoris;Tibialis Anterior,general,severe
+G72.0,Drug-induced myopathy,Rectus Femoris;Vastus Lateralis;Deltoid;Biceps Brachii,general,moderate
+G72.3,Periodic paralysis,Rectus Femoris;Biceps Brachii;Deltoid;Gastrocnemius,general,severe
+M35.3,Polymyalgia rheumatica,Deltoid;Gluteus Medius;Trapezius;Biceps Brachii,general,moderate
+M33.0,Juvenile dermatomyositis,Deltoid;Rectus Femoris;Biceps Brachii;Psoas Major,general,severe
+M33.2,Polymyositis,Deltoid;Biceps Brachii;Psoas Major;Rectus Femoris;Gluteus Maximus,general,severe
+R25.2,Cramp and spasm,Gastrocnemius;Soleus;Biceps Femoris;Rectus Femoris,lower_limb,mild
+M72.0,Palmar fascial fibromatosis (Dupuytren),Palmaris Longus;Flexor Digitorum Superficialis,upper_limb,moderate
+M72.2,Plantar fascial fibromatosis,Flexor Digitorum Brevis;Abductor Hallucis,lower_limb,moderate
+M65.4,Radial styloid tenosynovitis (de Quervain),Abductor Pollicis Longus;Extensor Pollicis Brevis,upper_limb,mild
+M67.4,Ganglion - wrist,Extensor Carpi Radialis Brevis;Flexor Carpi Radialis,upper_limb,mild
+J38.0,Paralysis of vocal cords,Posterior cricoarytenoid;Lateral cricoarytenoid;Thyroarytenoid;Vocalis,neck,severe
+J38.3,Other diseases of vocal cords,Cricothryoid;Thyroarytenoid;Vocalis,neck,moderate
+M47.8,Other spondylosis,Multifidus;Longissimus Thoracis;Iliocostalis Lumborum;Semispinalis Thoracis,trunk,moderate
