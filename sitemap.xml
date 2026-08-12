@@ -1,0 +1,25 @@
+<urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
+<url><loc>https://x-biosignal.github.io/PhysioAnnotationHub/404.html</loc></url>
+<url><loc>https://x-biosignal.github.io/PhysioAnnotationHub/CODE_OF_CONDUCT.html</loc></url>
+<url><loc>https://x-biosignal.github.io/PhysioAnnotationHub/CONTRIBUTING.html</loc></url>
+<url><loc>https://x-biosignal.github.io/PhysioAnnotationHub/LICENSE-text.html</loc></url>
+<url><loc>https://x-biosignal.github.io/PhysioAnnotationHub/authors.html</loc></url>
+<url><loc>https://x-biosignal.github.io/PhysioAnnotationHub/index.html</loc></url>
+<url><loc>https://x-biosignal.github.io/PhysioAnnotationHub/news/index.html</loc></url>
+<url><loc>https://x-biosignal.github.io/PhysioAnnotationHub/reference/getBoneAnnotation.html</loc></url>
+<url><loc>https://x-biosignal.github.io/PhysioAnnotationHub/reference/getClinicalCodes.html</loc></url>
+<url><loc>https://x-biosignal.github.io/PhysioAnnotationHub/reference/getCoreSet.html</loc></url>
+<url><loc>https://x-biosignal.github.io/PhysioAnnotationHub/reference/getMuscleAnnotation.html</loc></url>
+<url><loc>https://x-biosignal.github.io/PhysioAnnotationHub/reference/getNerveAnnotation.html</loc></url>
+<url><loc>https://x-biosignal.github.io/PhysioAnnotationHub/reference/icfCategories.html</loc></url>
+<url><loc>https://x-biosignal.github.io/PhysioAnnotationHub/reference/index.html</loc></url>
+<url><loc>https://x-biosignal.github.io/PhysioAnnotationHub/reference/kgEnrichment.html</loc></url>
+<url><loc>https://x-biosignal.github.io/PhysioAnnotationHub/reference/kgNeighbors.html</loc></url>
+<url><loc>https://x-biosignal.github.io/PhysioAnnotationHub/reference/kgShortestPath.html</loc></url>
+<url><loc>https://x-biosignal.github.io/PhysioAnnotationHub/reference/linkInstrumentToICF.html</loc></url>
+<url><loc>https://x-biosignal.github.io/PhysioAnnotationHub/reference/loadAnnotationHub.html</loc></url>
+<url><loc>https://x-biosignal.github.io/PhysioAnnotationHub/reference/print.PhysioAnnotationHub.html</loc></url>
+<url><loc>https://x-biosignal.github.io/PhysioAnnotationHub/reference/queryKG.html</loc></url>
+<url><loc>https://x-biosignal.github.io/PhysioAnnotationHub/reference/tagICF.html</loc></url>
+</urlset>
+
