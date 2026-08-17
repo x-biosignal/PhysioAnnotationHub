@@ -1,5 +1,14 @@
 # Changelog
 
+## PhysioAnnotationHub 0.2.0
+
+- Add free-living physical-behaviour metric -\> ICF Activities &
+  Participation mappings (`steps_per_day` -\> d450, `mvpa_min` /
+  `sedentary_min` / `physical_activity_volume` -\> d570, `walking_bouts`
+  -\> d455) so
+  [`tagICF()`](https://x-biosignal.github.io/PhysioAnnotationHub/reference/tagICF.md)
+  resolves accelerometry-derived measures.
+
 ## PhysioAnnotationHub 0.1.0
 
 Initial release as a standalone package in the physio-ecosystem.
