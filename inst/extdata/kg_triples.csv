@@ -1,0 +1,2006 @@
+subject,predicate,object,evidence_type
+Trapezius,attaches_to,External Occipital Protuberance,anatomy_textbook
+Trapezius,attaches_to,Ligamentum Nuchae,anatomy_textbook
+Trapezius,attaches_to,C7,anatomy_textbook
+Trapezius,attaches_to,T1,anatomy_textbook
+Trapezius,attaches_to,T2,anatomy_textbook
+Trapezius,attaches_to,T3,anatomy_textbook
+Trapezius,attaches_to,T4,anatomy_textbook
+Trapezius,attaches_to,T5,anatomy_textbook
+Trapezius,attaches_to,T6,anatomy_textbook
+Trapezius,attaches_to,T7,anatomy_textbook
+Trapezius,attaches_to,T8,anatomy_textbook
+Trapezius,attaches_to,T9,anatomy_textbook
+Trapezius,attaches_to,T10,anatomy_textbook
+Trapezius,attaches_to,T11,anatomy_textbook
+Trapezius,attaches_to,T12,anatomy_textbook
+Trapezius,attaches_to,Clavicle,anatomy_textbook
+Trapezius,attaches_to,Acromion,anatomy_textbook
+Trapezius,attaches_to,Scapula,anatomy_textbook
+Trapezius,innervated_by,Accessory Nerve (XI),anatomy_textbook
+Trapezius,has_action,scapular_elevation,anatomy_textbook
+Trapezius,has_action,scapular_retraction,anatomy_textbook
+Trapezius,synergist_of,Levator Scapulae,anatomy_textbook
+Trapezius,synergist_of,Rhomboid Major,anatomy_textbook
+Trapezius,synergist_of,Rhomboid Minor,anatomy_textbook
+Latissimus Dorsi,attaches_to,T7,anatomy_textbook
+Latissimus Dorsi,attaches_to,T8,anatomy_textbook
+Latissimus Dorsi,attaches_to,T9,anatomy_textbook
+Latissimus Dorsi,attaches_to,T10,anatomy_textbook
+Latissimus Dorsi,attaches_to,T11,anatomy_textbook
+Latissimus Dorsi,attaches_to,T12,anatomy_textbook
+Latissimus Dorsi,attaches_to,L1,anatomy_textbook
+Latissimus Dorsi,attaches_to,L2,anatomy_textbook
+Latissimus Dorsi,attaches_to,L3,anatomy_textbook
+Latissimus Dorsi,attaches_to,L4,anatomy_textbook
+Latissimus Dorsi,attaches_to,L5,anatomy_textbook
+Latissimus Dorsi,attaches_to,Iliac Crest,anatomy_textbook
+Latissimus Dorsi,attaches_to,Sacrum,anatomy_textbook
+Latissimus Dorsi,attaches_to,Humerus,anatomy_textbook
+Latissimus Dorsi,innervated_by,Thoracodorsal Nerve,anatomy_textbook
+Latissimus Dorsi,has_action,shoulder_extension,anatomy_textbook
+Latissimus Dorsi,has_action,shoulder_adduction,anatomy_textbook
+Latissimus Dorsi,synergist_of,Teres Major,anatomy_textbook
+Latissimus Dorsi,antagonist_of,Deltoid,anatomy_textbook
+Serratus Posterior Superior,attaches_to,Ligamentum Nuchae,anatomy_textbook
+Serratus Posterior Superior,attaches_to,C7,anatomy_textbook
+Serratus Posterior Superior,attaches_to,T1,anatomy_textbook
+Serratus Posterior Superior,attaches_to,T2,anatomy_textbook
+Serratus Posterior Superior,attaches_to,T3,anatomy_textbook
+Serratus Posterior Superior,attaches_to,Ribs 2,anatomy_textbook
+Serratus Posterior Superior,attaches_to,Ribs 3,anatomy_textbook
+Serratus Posterior Superior,attaches_to,Ribs 4,anatomy_textbook
+Serratus Posterior Superior,attaches_to,Ribs 5,anatomy_textbook
+Serratus Posterior Superior,innervated_by,Intercostal Nerves,anatomy_textbook
+Serratus Posterior Superior,has_action,rib_elevation,anatomy_textbook
+Serratus Posterior Inferior,attaches_to,T11,anatomy_textbook
+Serratus Posterior Inferior,attaches_to,T12,anatomy_textbook
+Serratus Posterior Inferior,attaches_to,L1,anatomy_textbook
+Serratus Posterior Inferior,attaches_to,L2,anatomy_textbook
+Serratus Posterior Inferior,attaches_to,Ribs 9,anatomy_textbook
+Serratus Posterior Inferior,attaches_to,Ribs 10,anatomy_textbook
+Serratus Posterior Inferior,attaches_to,Ribs 11,anatomy_textbook
+Serratus Posterior Inferior,attaches_to,Ribs 12,anatomy_textbook
+Serratus Posterior Inferior,innervated_by,Intercostal Nerves,anatomy_textbook
+Serratus Posterior Inferior,has_action,rib_depression,anatomy_textbook
+Levator Scapulae,attaches_to,C1 (Atlas),anatomy_textbook
+Levator Scapulae,attaches_to,C2 (Axis),anatomy_textbook
+Levator Scapulae,attaches_to,C3,anatomy_textbook
+Levator Scapulae,attaches_to,C4,anatomy_textbook
+Levator Scapulae,attaches_to,Scapula,anatomy_textbook
+Levator Scapulae,innervated_by,Dorsal Scapular Nerve,anatomy_textbook
+Levator Scapulae,has_action,scapular_elevation,anatomy_textbook
+Levator Scapulae,synergist_of,Trapezius,anatomy_textbook
+Rhomboid Minor,attaches_to,C7,anatomy_textbook
+Rhomboid Minor,attaches_to,T1,anatomy_textbook
+Rhomboid Minor,attaches_to,Ligamentum Nuchae,anatomy_textbook
+Rhomboid Minor,attaches_to,Scapula,anatomy_textbook
+Rhomboid Minor,innervated_by,Dorsal Scapular Nerve,anatomy_textbook
+Rhomboid Minor,has_action,scapular_retraction,anatomy_textbook
+Rhomboid Minor,synergist_of,Rhomboid Major,anatomy_textbook
+Rhomboid Major,attaches_to,T2,anatomy_textbook
+Rhomboid Major,attaches_to,T3,anatomy_textbook
+Rhomboid Major,attaches_to,T4,anatomy_textbook
+Rhomboid Major,attaches_to,T5,anatomy_textbook
+Rhomboid Major,attaches_to,Scapula,anatomy_textbook
+Rhomboid Major,innervated_by,Dorsal Scapular Nerve,anatomy_textbook
+Rhomboid Major,has_action,scapular_retraction,anatomy_textbook
+Rhomboid Major,antagonist_of,Serratus Anterior,anatomy_textbook
+Serratus Anterior,attaches_to,Ribs 1,anatomy_textbook
+Serratus Anterior,attaches_to,Ribs 2,anatomy_textbook
+Serratus Anterior,attaches_to,Ribs 3,anatomy_textbook
+Serratus Anterior,attaches_to,Ribs 4,anatomy_textbook
+Serratus Anterior,attaches_to,Ribs 5,anatomy_textbook
+Serratus Anterior,attaches_to,Ribs 6,anatomy_textbook
+Serratus Anterior,attaches_to,Ribs 7,anatomy_textbook
+Serratus Anterior,attaches_to,Ribs 8,anatomy_textbook
+Serratus Anterior,attaches_to,Scapula,anatomy_textbook
+Serratus Anterior,innervated_by,Long Thoracic Nerve,anatomy_textbook
+Serratus Anterior,has_action,scapular_protraction,anatomy_textbook
+Serratus Anterior,antagonist_of,Rhomboid Major,anatomy_textbook
+Deltoid,attaches_to,Clavicle,anatomy_textbook
+Deltoid,attaches_to,Acromion,anatomy_textbook
+Deltoid,attaches_to,Scapula,anatomy_textbook
+Deltoid,attaches_to,Humerus,anatomy_textbook
+Deltoid,innervated_by,Axillary Nerve,anatomy_textbook
+Deltoid,has_action,shoulder_abduction,anatomy_textbook
+Deltoid,has_action,shoulder_flexion,anatomy_textbook
+Deltoid,synergist_of,Supraspinatus,anatomy_textbook
+Deltoid,antagonist_of,Latissimus Dorsi,anatomy_textbook
+Deltoid,crosses_joint,shoulder,anatomy_textbook
+Supraspinatus,attaches_to,Scapula,anatomy_textbook
+Supraspinatus,attaches_to,Humerus,anatomy_textbook
+Supraspinatus,innervated_by,Suprascapular Nerve,anatomy_textbook
+Supraspinatus,has_action,shoulder_abduction,anatomy_textbook
+Supraspinatus,crosses_joint,shoulder,anatomy_textbook
+Supraspinatus,synergist_of,Deltoid,anatomy_textbook
+Infraspinatus,attaches_to,Scapula,anatomy_textbook
+Infraspinatus,attaches_to,Humerus,anatomy_textbook
+Infraspinatus,innervated_by,Suprascapular Nerve,anatomy_textbook
+Infraspinatus,has_action,shoulder_external_rotation,anatomy_textbook
+Infraspinatus,crosses_joint,shoulder,anatomy_textbook
+Infraspinatus,synergist_of,Teres Minor,anatomy_textbook
+Teres Minor,attaches_to,Scapula,anatomy_textbook
+Teres Minor,attaches_to,Humerus,anatomy_textbook
+Teres Minor,innervated_by,Axillary Nerve,anatomy_textbook
+Teres Minor,has_action,shoulder_external_rotation,anatomy_textbook
+Teres Minor,crosses_joint,shoulder,anatomy_textbook
+Teres Minor,synergist_of,Infraspinatus,anatomy_textbook
+Teres Major,attaches_to,Scapula,anatomy_textbook
+Teres Major,attaches_to,Humerus,anatomy_textbook
+Teres Major,innervated_by,Lower Subscapular Nerve,anatomy_textbook
+Teres Major,has_action,shoulder_internal_rotation,anatomy_textbook
+Teres Major,crosses_joint,shoulder,anatomy_textbook
+Teres Major,synergist_of,Latissimus Dorsi,anatomy_textbook
+Subscapularis,attaches_to,Scapula,anatomy_textbook
+Subscapularis,attaches_to,Humerus,anatomy_textbook
+Subscapularis,innervated_by,Subscapular Nerves,anatomy_textbook
+Subscapularis,has_action,shoulder_internal_rotation,anatomy_textbook
+Subscapularis,crosses_joint,shoulder,anatomy_textbook
+Subscapularis,antagonist_of,Infraspinatus,anatomy_textbook
+Subclavius,attaches_to,Clavicle,anatomy_textbook
+Subclavius,attaches_to,Ribs 1,anatomy_textbook
+Subclavius,innervated_by,Nerve to Subclavius,anatomy_textbook
+Subclavius,has_action,clavicle_depression,anatomy_textbook
+Pectoralis Major,attaches_to,Clavicle,anatomy_textbook
+Pectoralis Major,attaches_to,Sternum,anatomy_textbook
+Pectoralis Major,attaches_to,Ribs 1,anatomy_textbook
+Pectoralis Major,attaches_to,Ribs 2,anatomy_textbook
+Pectoralis Major,attaches_to,Ribs 3,anatomy_textbook
+Pectoralis Major,attaches_to,Ribs 4,anatomy_textbook
+Pectoralis Major,attaches_to,Ribs 5,anatomy_textbook
+Pectoralis Major,attaches_to,Ribs 6,anatomy_textbook
+Pectoralis Major,attaches_to,Humerus,anatomy_textbook
+Pectoralis Major,innervated_by,Medial and Lateral Pectoral Nerves,anatomy_textbook
+Pectoralis Major,has_action,shoulder_flexion,anatomy_textbook
+Pectoralis Major,has_action,shoulder_adduction,anatomy_textbook
+Pectoralis Major,crosses_joint,shoulder,anatomy_textbook
+Pectoralis Major,antagonist_of,Trapezius,anatomy_textbook
+Pectoralis Minor,attaches_to,Ribs 3,anatomy_textbook
+Pectoralis Minor,attaches_to,Ribs 4,anatomy_textbook
+Pectoralis Minor,attaches_to,Ribs 5,anatomy_textbook
+Pectoralis Minor,attaches_to,Scapula,anatomy_textbook
+Pectoralis Minor,innervated_by,Medial Pectoral Nerve,anatomy_textbook
+Pectoralis Minor,has_action,scapular_depression,anatomy_textbook
+Coracobrachialis,attaches_to,Scapula,anatomy_textbook
+Coracobrachialis,attaches_to,Humerus,anatomy_textbook
+Coracobrachialis,innervated_by,Musculocutaneous Nerve,anatomy_textbook
+Coracobrachialis,has_action,shoulder_flexion,anatomy_textbook
+Coracobrachialis,crosses_joint,shoulder,anatomy_textbook
+Biceps Brachii,attaches_to,Scapula,anatomy_textbook
+Biceps Brachii,attaches_to,Radius,anatomy_textbook
+Biceps Brachii,attaches_to,Bicipital Aponeurosis,anatomy_textbook
+Biceps Brachii,innervated_by,Musculocutaneous Nerve,anatomy_textbook
+Biceps Brachii,has_action,elbow_flexion,anatomy_textbook
+Biceps Brachii,has_action,forearm_supination,anatomy_textbook
+Biceps Brachii,crosses_joint,elbow,anatomy_textbook
+Biceps Brachii,crosses_joint,shoulder,anatomy_textbook
+Biceps Brachii,synergist_of,Brachialis,anatomy_textbook
+Biceps Brachii,synergist_of,Brachioradialis,anatomy_textbook
+Biceps Brachii,antagonist_of,Triceps Brachii,anatomy_textbook
+Brachialis,attaches_to,Humerus,anatomy_textbook
+Brachialis,attaches_to,Ulna,anatomy_textbook
+Brachialis,innervated_by,Musculocutaneous Nerve,anatomy_textbook
+Brachialis,has_action,elbow_flexion,anatomy_textbook
+Brachialis,crosses_joint,elbow,anatomy_textbook
+Brachialis,synergist_of,Biceps Brachii,anatomy_textbook
+Triceps Brachii,attaches_to,Scapula,anatomy_textbook
+Triceps Brachii,attaches_to,Humerus,anatomy_textbook
+Triceps Brachii,attaches_to,Ulna,anatomy_textbook
+Triceps Brachii,innervated_by,Radial Nerve,anatomy_textbook
+Triceps Brachii,has_action,elbow_extension,anatomy_textbook
+Triceps Brachii,crosses_joint,elbow,anatomy_textbook
+Triceps Brachii,synergist_of,Anconeus,anatomy_textbook
+Triceps Brachii,antagonist_of,Biceps Brachii,anatomy_textbook
+Anconeus,attaches_to,Humerus,anatomy_textbook
+Anconeus,attaches_to,Ulna,anatomy_textbook
+Anconeus,innervated_by,Radial Nerve,anatomy_textbook
+Anconeus,has_action,elbow_extension,anatomy_textbook
+Anconeus,crosses_joint,elbow,anatomy_textbook
+Anconeus,synergist_of,Triceps Brachii,anatomy_textbook
+Pronator Teres,attaches_to,Humerus,anatomy_textbook
+Pronator Teres,attaches_to,Common Flexor Tendon,anatomy_textbook
+Pronator Teres,attaches_to,Radius,anatomy_textbook
+Pronator Teres,innervated_by,Median Nerve,anatomy_textbook
+Pronator Teres,has_action,forearm_pronation,anatomy_textbook
+Pronator Teres,antagonist_of,Supinator,anatomy_textbook
+Flexor Carpi Radialis,attaches_to,Common Flexor Tendon,anatomy_textbook
+Flexor Carpi Radialis,attaches_to,Hand Metacarpal 2,anatomy_textbook
+Flexor Carpi Radialis,innervated_by,Median Nerve,anatomy_textbook
+Flexor Carpi Radialis,has_action,wrist_flexion,anatomy_textbook
+Flexor Carpi Radialis,crosses_joint,wrist,anatomy_textbook
+Flexor Carpi Radialis,synergist_of,Flexor Carpi Ulnaris,anatomy_textbook
+Flexor Carpi Radialis,antagonist_of,Extensor Carpi Radialis Longus,anatomy_textbook
+Palmaris Longus,attaches_to,Common Flexor Tendon,anatomy_textbook
+Palmaris Longus,attaches_to,Palmar Aponeurosis,anatomy_textbook
+Palmaris Longus,innervated_by,Median Nerve,anatomy_textbook
+Palmaris Longus,has_action,wrist_flexion,anatomy_textbook
+Palmaris Longus,crosses_joint,wrist,anatomy_textbook
+Flexor Carpi Ulnaris,attaches_to,Common Flexor Tendon,anatomy_textbook
+Flexor Carpi Ulnaris,attaches_to,Ulna,anatomy_textbook
+Flexor Carpi Ulnaris,attaches_to,Pisiform,anatomy_textbook
+Flexor Carpi Ulnaris,attaches_to,Hamate,anatomy_textbook
+Flexor Carpi Ulnaris,attaches_to,Hand Metacarpal 5,anatomy_textbook
+Flexor Carpi Ulnaris,innervated_by,Ulnar Nerve,anatomy_textbook
+Flexor Carpi Ulnaris,has_action,wrist_flexion,anatomy_textbook
+Flexor Carpi Ulnaris,crosses_joint,wrist,anatomy_textbook
+Flexor Carpi Ulnaris,synergist_of,Flexor Carpi Radialis,anatomy_textbook
+Flexor Carpi Ulnaris,antagonist_of,Extensor Carpi Ulnaris,anatomy_textbook
+Flexor Digitorum Superficialis,attaches_to,Common Flexor Tendon,anatomy_textbook
+Flexor Digitorum Superficialis,attaches_to,Radius,anatomy_textbook
+Flexor Digitorum Superficialis,attaches_to,Hand Middle Phalanx 2,anatomy_textbook
+Flexor Digitorum Superficialis,attaches_to,Hand Middle Phalanx 3,anatomy_textbook
+Flexor Digitorum Superficialis,attaches_to,Hand Middle Phalanx 4,anatomy_textbook
+Flexor Digitorum Superficialis,attaches_to,Hand Middle Phalanx 5,anatomy_textbook
+Flexor Digitorum Superficialis,innervated_by,Median Nerve,anatomy_textbook
+Flexor Digitorum Superficialis,has_action,finger_flexion,anatomy_textbook
+Flexor Digitorum Superficialis,crosses_joint,wrist,anatomy_textbook
+Flexor Digitorum Profundus,attaches_to,Ulna,anatomy_textbook
+Flexor Digitorum Profundus,attaches_to,Interosseous Membrane of Forearm,anatomy_textbook
+Flexor Digitorum Profundus,attaches_to,Hand Distal Phalanx 2,anatomy_textbook
+Flexor Digitorum Profundus,attaches_to,Hand Distal Phalanx 3,anatomy_textbook
+Flexor Digitorum Profundus,attaches_to,Hand Distal Phalanx 4,anatomy_textbook
+Flexor Digitorum Profundus,attaches_to,Hand Distal Phalanx 5,anatomy_textbook
+Flexor Digitorum Profundus,innervated_by,Median Nerve; Ulnar Nerve,anatomy_textbook
+Flexor Digitorum Profundus,has_action,finger_flexion,anatomy_textbook
+Flexor Pollicis Longus,attaches_to,Radius,anatomy_textbook
+Flexor Pollicis Longus,attaches_to,Interosseous Membrane of Forearm,anatomy_textbook
+Flexor Pollicis Longus,attaches_to,Hand Distal Phalanx 1,anatomy_textbook
+Flexor Pollicis Longus,innervated_by,Anterior Interosseous Nerve,anatomy_textbook
+Flexor Pollicis Longus,has_action,thumb_flexion,anatomy_textbook
+Pronator Quadratus,attaches_to,Ulna,anatomy_textbook
+Pronator Quadratus,attaches_to,Radius,anatomy_textbook
+Pronator Quadratus,innervated_by,Anterior Interosseous Nerve,anatomy_textbook
+Pronator Quadratus,has_action,forearm_pronation,anatomy_textbook
+Pronator Quadratus,synergist_of,Pronator Teres,anatomy_textbook
+Brachioradialis,attaches_to,Humerus,anatomy_textbook
+Brachioradialis,attaches_to,Radius,anatomy_textbook
+Brachioradialis,innervated_by,Radial Nerve,anatomy_textbook
+Brachioradialis,has_action,elbow_flexion,anatomy_textbook
+Brachioradialis,crosses_joint,elbow,anatomy_textbook
+Brachioradialis,synergist_of,Biceps Brachii,anatomy_textbook
+Extensor Carpi Radialis Longus,attaches_to,Humerus,anatomy_textbook
+Extensor Carpi Radialis Longus,attaches_to,Hand Metacarpal 2,anatomy_textbook
+Extensor Carpi Radialis Longus,innervated_by,Radial Nerve,anatomy_textbook
+Extensor Carpi Radialis Longus,has_action,wrist_extension,anatomy_textbook
+Extensor Carpi Radialis Longus,crosses_joint,wrist,anatomy_textbook
+Extensor Carpi Radialis Longus,synergist_of,Extensor Carpi Radialis Brevis,anatomy_textbook
+Extensor Carpi Radialis Longus,antagonist_of,Flexor Carpi Radialis,anatomy_textbook
+Extensor Carpi Radialis Brevis,attaches_to,Common Extensor Tendon,anatomy_textbook
+Extensor Carpi Radialis Brevis,attaches_to,Hand Metacarpal 3,anatomy_textbook
+Extensor Carpi Radialis Brevis,innervated_by,Posterior Interosseous Nerve,anatomy_textbook
+Extensor Carpi Radialis Brevis,has_action,wrist_extension,anatomy_textbook
+Extensor Carpi Radialis Brevis,crosses_joint,wrist,anatomy_textbook
+Extensor Digitorum,attaches_to,Common Extensor Tendon,anatomy_textbook
+Extensor Digitorum,attaches_to,Hand Extensor Hood 2,anatomy_textbook
+Extensor Digitorum,attaches_to,Hand Extensor Hood 3,anatomy_textbook
+Extensor Digitorum,attaches_to,Hand Extensor Hood 4,anatomy_textbook
+Extensor Digitorum,attaches_to,Hand Extensor Hood 5,anatomy_textbook
+Extensor Digitorum,innervated_by,Posterior Interosseous Nerve,anatomy_textbook
+Extensor Digitorum,has_action,finger_extension,anatomy_textbook
+Extensor Digitorum,antagonist_of,Flexor Digitorum Superficialis,anatomy_textbook
+Extensor Digiti Minimi,attaches_to,Common Extensor Tendon,anatomy_textbook
+Extensor Digiti Minimi,attaches_to,Hand Extensor Hood 5,anatomy_textbook
+Extensor Digiti Minimi,innervated_by,Posterior Interosseous Nerve,anatomy_textbook
+Extensor Digiti Minimi,has_action,little_finger_extension,anatomy_textbook
+Extensor Carpi Ulnaris,attaches_to,Common Extensor Tendon,anatomy_textbook
+Extensor Carpi Ulnaris,attaches_to,Hand Metacarpal 5,anatomy_textbook
+Extensor Carpi Ulnaris,innervated_by,Posterior Interosseous Nerve,anatomy_textbook
+Extensor Carpi Ulnaris,has_action,wrist_extension,anatomy_textbook
+Extensor Carpi Ulnaris,crosses_joint,wrist,anatomy_textbook
+Extensor Carpi Ulnaris,antagonist_of,Flexor Carpi Ulnaris,anatomy_textbook
+Supinator,attaches_to,Common Extensor Tendon,anatomy_textbook
+Supinator,attaches_to,Ulna,anatomy_textbook
+Supinator,attaches_to,Annular Ligament,anatomy_textbook
+Supinator,attaches_to,Radial Collateral Ligament,anatomy_textbook
+Supinator,attaches_to,Radius,anatomy_textbook
+Supinator,innervated_by,Posterior Interosseous Nerve,anatomy_textbook
+Supinator,has_action,forearm_supination,anatomy_textbook
+Supinator,antagonist_of,Pronator Teres,anatomy_textbook
+Abductor Pollicis Longus,attaches_to,Radius,anatomy_textbook
+Abductor Pollicis Longus,attaches_to,Ulna,anatomy_textbook
+Abductor Pollicis Longus,attaches_to,Interosseous Membrane of Forearm,anatomy_textbook
+Abductor Pollicis Longus,attaches_to,Hand Metacarpal 1,anatomy_textbook
+Abductor Pollicis Longus,innervated_by,Posterior Interosseous Nerve,anatomy_textbook
+Abductor Pollicis Longus,has_action,thumb_abduction,anatomy_textbook
+Extensor Pollicis Brevis,attaches_to,Radius,anatomy_textbook
+Extensor Pollicis Brevis,attaches_to,Interosseous Membrane of Forearm,anatomy_textbook
+Extensor Pollicis Brevis,attaches_to,Hand Proximal Phalanx 1,anatomy_textbook
+Extensor Pollicis Brevis,innervated_by,Posterior Interosseous Nerve,anatomy_textbook
+Extensor Pollicis Brevis,has_action,thumb_extension,anatomy_textbook
+Extensor Pollicis Longus,attaches_to,Ulna,anatomy_textbook
+Extensor Pollicis Longus,attaches_to,Interosseous Membrane of Forearm,anatomy_textbook
+Extensor Pollicis Longus,attaches_to,Hand Distal Phalanx 1,anatomy_textbook
+Extensor Pollicis Longus,innervated_by,Posterior Interosseous Nerve,anatomy_textbook
+Extensor Pollicis Longus,has_action,thumb_extension,anatomy_textbook
+Extensor Indicis,attaches_to,Ulna,anatomy_textbook
+Extensor Indicis,attaches_to,Interosseous Membrane of Forearm,anatomy_textbook
+Extensor Indicis,attaches_to,Hand Extensor Hood 2,anatomy_textbook
+Extensor Indicis,innervated_by,Posterior Interosseous Nerve,anatomy_textbook
+Extensor Indicis,has_action,index_finger_extension,anatomy_textbook
+Abductor Pollicis Brevis,attaches_to,Hand Flexor Retinaculum,anatomy_textbook
+Abductor Pollicis Brevis,attaches_to,Trapezium,anatomy_textbook
+Abductor Pollicis Brevis,attaches_to,Hand Proximal Phalanx 1,anatomy_textbook
+Abductor Pollicis Brevis,innervated_by,Median Nerve,anatomy_textbook
+Abductor Pollicis Brevis,has_action,thumb_abduction,anatomy_textbook
+Flexor Pollicis Brevis,attaches_to,Hand Flexor Retinaculum,anatomy_textbook
+Flexor Pollicis Brevis,attaches_to,Trapezium,anatomy_textbook
+Flexor Pollicis Brevis,attaches_to,Hand Proximal Phalanx 1,anatomy_textbook
+Flexor Pollicis Brevis,innervated_by,Median Nerve; Ulnar Nerve,anatomy_textbook
+Flexor Pollicis Brevis,has_action,thumb_flexion,anatomy_textbook
+Opponens Pollicis,attaches_to,Hand Flexor Retinaculum,anatomy_textbook
+Opponens Pollicis,attaches_to,Trapezium,anatomy_textbook
+Opponens Pollicis,attaches_to,Hand Metacarpal 1,anatomy_textbook
+Opponens Pollicis,innervated_by,Median Nerve,anatomy_textbook
+Opponens Pollicis,has_action,thumb_opposition,anatomy_textbook
+Adductor Pollicis,attaches_to,Capitate,anatomy_textbook
+Adductor Pollicis,attaches_to,Hand Metacarpal 2,anatomy_textbook
+Adductor Pollicis,attaches_to,Hand Metacarpal 3,anatomy_textbook
+Adductor Pollicis,attaches_to,Hand Proximal Phalanx 1,anatomy_textbook
+Adductor Pollicis,innervated_by,Ulnar Nerve,anatomy_textbook
+Adductor Pollicis,has_action,thumb_adduction,anatomy_textbook
+Adductor Pollicis,antagonist_of,Abductor Pollicis Brevis,anatomy_textbook
+Gluteus Maximus,attaches_to,Ilium,anatomy_textbook
+Gluteus Maximus,attaches_to,Sacrum,anatomy_textbook
+Gluteus Maximus,attaches_to,Coccyx,anatomy_textbook
+Gluteus Maximus,attaches_to,Sacrotuberous Ligament,anatomy_textbook
+Gluteus Maximus,attaches_to,Iliotibial Band,anatomy_textbook
+Gluteus Maximus,attaches_to,Femur,anatomy_textbook
+Gluteus Maximus,attaches_to,Gluteal Aponeurosis,anatomy_textbook
+Gluteus Maximus,innervated_by,Inferior Gluteal Nerve,anatomy_textbook
+Gluteus Maximus,has_action,hip_extension,anatomy_textbook
+Gluteus Maximus,has_action,hip_external_rotation,anatomy_textbook
+Gluteus Maximus,crosses_joint,hip,anatomy_textbook
+Gluteus Maximus,antagonist_of,Psoas Major,anatomy_textbook
+Gluteus Maximus,antagonist_of,Iliacus,anatomy_textbook
+Gluteus Medius,attaches_to,Ilium,anatomy_textbook
+Gluteus Medius,attaches_to,Femur,anatomy_textbook
+Gluteus Medius,innervated_by,Superior Gluteal Nerve,anatomy_textbook
+Gluteus Medius,has_action,hip_abduction,anatomy_textbook
+Gluteus Medius,crosses_joint,hip,anatomy_textbook
+Gluteus Medius,synergist_of,Gluteus Minimus,anatomy_textbook
+Gluteus Minimus,attaches_to,Ilium,anatomy_textbook
+Gluteus Minimus,attaches_to,Femur,anatomy_textbook
+Gluteus Minimus,innervated_by,Superior Gluteal Nerve,anatomy_textbook
+Gluteus Minimus,has_action,hip_abduction,anatomy_textbook
+Gluteus Minimus,crosses_joint,hip,anatomy_textbook
+Gluteus Minimus,synergist_of,Gluteus Medius,anatomy_textbook
+Tensor Fascia Lata,attaches_to,Iliac Crest,anatomy_textbook
+Tensor Fascia Lata,attaches_to,Iliotibial Band,anatomy_textbook
+Tensor Fascia Lata,innervated_by,Superior Gluteal Nerve,anatomy_textbook
+Tensor Fascia Lata,has_action,hip_flexion,anatomy_textbook
+Tensor Fascia Lata,has_action,hip_abduction,anatomy_textbook
+Tensor Fascia Lata,crosses_joint,hip,anatomy_textbook
+Piriformis,attaches_to,Sacrum,anatomy_textbook
+Piriformis,attaches_to,Femur,anatomy_textbook
+Piriformis,innervated_by,Nerve to Piriformis,anatomy_textbook
+Piriformis,has_action,hip_external_rotation,anatomy_textbook
+Piriformis,crosses_joint,hip,anatomy_textbook
+Superior Gemellus,attaches_to,Ischium,anatomy_textbook
+Superior Gemellus,attaches_to,Femur,anatomy_textbook
+Superior Gemellus,innervated_by,Nerve to Obturator Internus,anatomy_textbook
+Superior Gemellus,has_action,hip_external_rotation,anatomy_textbook
+Inferior Gemellus,attaches_to,Ischium,anatomy_textbook
+Inferior Gemellus,attaches_to,Femur,anatomy_textbook
+Inferior Gemellus,innervated_by,Nerve to Quadratus Femoris,anatomy_textbook
+Inferior Gemellus,has_action,hip_external_rotation,anatomy_textbook
+Obturator Internus,attaches_to,Obturator Membrane,anatomy_textbook
+Obturator Internus,attaches_to,Ischium,anatomy_textbook
+Obturator Internus,attaches_to,Femur,anatomy_textbook
+Obturator Internus,innervated_by,Nerve to Obturator Internus,anatomy_textbook
+Obturator Internus,has_action,hip_external_rotation,anatomy_textbook
+Quadratus Femoris,attaches_to,Ischium,anatomy_textbook
+Quadratus Femoris,attaches_to,Femur,anatomy_textbook
+Quadratus Femoris,innervated_by,Nerve to Quadratus Femoris,anatomy_textbook
+Quadratus Femoris,has_action,hip_external_rotation,anatomy_textbook
+Semitendinosus,attaches_to,Ischium,anatomy_textbook
+Semitendinosus,attaches_to,Tibia,anatomy_textbook
+Semitendinosus,attaches_to,Pes Anserinus,anatomy_textbook
+Semitendinosus,innervated_by,Tibial Division Sciatic Nerve,anatomy_textbook
+Semitendinosus,has_action,knee_flexion,anatomy_textbook
+Semitendinosus,has_action,hip_extension,anatomy_textbook
+Semitendinosus,crosses_joint,knee,anatomy_textbook
+Semitendinosus,crosses_joint,hip,anatomy_textbook
+Semitendinosus,synergist_of,Semimembranosus,anatomy_textbook
+Semitendinosus,synergist_of,Biceps Femoris,anatomy_textbook
+Semitendinosus,antagonist_of,Rectus Femoris,anatomy_textbook
+Semimembranosus,attaches_to,Ischium,anatomy_textbook
+Semimembranosus,attaches_to,Tibia,anatomy_textbook
+Semimembranosus,innervated_by,Tibial Division Sciatic Nerve,anatomy_textbook
+Semimembranosus,has_action,knee_flexion,anatomy_textbook
+Semimembranosus,has_action,hip_extension,anatomy_textbook
+Semimembranosus,crosses_joint,knee,anatomy_textbook
+Semimembranosus,synergist_of,Semitendinosus,anatomy_textbook
+Biceps Femoris,attaches_to,Ischium,anatomy_textbook
+Biceps Femoris,attaches_to,Femur,anatomy_textbook
+Biceps Femoris,attaches_to,Fibula,anatomy_textbook
+Biceps Femoris,innervated_by,Sciatic Nerve,anatomy_textbook
+Biceps Femoris,has_action,knee_flexion,anatomy_textbook
+Biceps Femoris,has_action,hip_extension,anatomy_textbook
+Biceps Femoris,crosses_joint,knee,anatomy_textbook
+Biceps Femoris,synergist_of,Semitendinosus,anatomy_textbook
+Biceps Femoris,antagonist_of,Rectus Femoris,anatomy_textbook
+Adductor Longus,attaches_to,Pubis,anatomy_textbook
+Adductor Longus,attaches_to,Femur,anatomy_textbook
+Adductor Longus,innervated_by,Obturator Nerve,anatomy_textbook
+Adductor Longus,has_action,hip_adduction,anatomy_textbook
+Adductor Longus,crosses_joint,hip,anatomy_textbook
+Adductor Longus,synergist_of,Adductor Brevis,anatomy_textbook
+Adductor Longus,synergist_of,Adductor Magnus,anatomy_textbook
+Adductor Brevis,attaches_to,Pubis,anatomy_textbook
+Adductor Brevis,attaches_to,Femur,anatomy_textbook
+Adductor Brevis,innervated_by,Obturator Nerve,anatomy_textbook
+Adductor Brevis,has_action,hip_adduction,anatomy_textbook
+Adductor Brevis,synergist_of,Adductor Longus,anatomy_textbook
+Adductor Magnus,attaches_to,Pubis,anatomy_textbook
+Adductor Magnus,attaches_to,Ischium,anatomy_textbook
+Adductor Magnus,attaches_to,Femur,anatomy_textbook
+Adductor Magnus,innervated_by,Obturator Nerve; Tibial Division Sciatic Nerve,anatomy_textbook
+Adductor Magnus,has_action,hip_adduction,anatomy_textbook
+Adductor Magnus,has_action,hip_extension,anatomy_textbook
+Adductor Magnus,crosses_joint,hip,anatomy_textbook
+Gracilis,attaches_to,Pubis,anatomy_textbook
+Gracilis,attaches_to,Tibia,anatomy_textbook
+Gracilis,attaches_to,Pes Anserinus,anatomy_textbook
+Gracilis,innervated_by,Obturator Nerve,anatomy_textbook
+Gracilis,has_action,hip_adduction,anatomy_textbook
+Gracilis,has_action,knee_flexion,anatomy_textbook
+Gracilis,crosses_joint,hip,anatomy_textbook
+Gracilis,crosses_joint,knee,anatomy_textbook
+Obturator Externus,attaches_to,Obturator Membrane,anatomy_textbook
+Obturator Externus,attaches_to,Pubis,anatomy_textbook
+Obturator Externus,attaches_to,Femur,anatomy_textbook
+Obturator Externus,innervated_by,Obturator Nerve,anatomy_textbook
+Obturator Externus,has_action,hip_external_rotation,anatomy_textbook
+Sartorius,attaches_to,Ilium,anatomy_textbook
+Sartorius,attaches_to,Tibia,anatomy_textbook
+Sartorius,attaches_to,Pes Anserinus,anatomy_textbook
+Sartorius,innervated_by,Femoral Nerve,anatomy_textbook
+Sartorius,has_action,hip_flexion,anatomy_textbook
+Sartorius,has_action,knee_flexion,anatomy_textbook
+Sartorius,crosses_joint,hip,anatomy_textbook
+Sartorius,crosses_joint,knee,anatomy_textbook
+Rectus Femoris,attaches_to,Ilium,anatomy_textbook
+Rectus Femoris,attaches_to,Patella,anatomy_textbook
+Rectus Femoris,attaches_to,Tibia,anatomy_textbook
+Rectus Femoris,innervated_by,Femoral Nerve,anatomy_textbook
+Rectus Femoris,has_action,knee_extension,anatomy_textbook
+Rectus Femoris,has_action,hip_flexion,anatomy_textbook
+Rectus Femoris,crosses_joint,knee,anatomy_textbook
+Rectus Femoris,crosses_joint,hip,anatomy_textbook
+Rectus Femoris,synergist_of,Vastus Lateralis,anatomy_textbook
+Rectus Femoris,synergist_of,Vastus Medialis,anatomy_textbook
+Rectus Femoris,synergist_of,Vastus Intermedius,anatomy_textbook
+Rectus Femoris,antagonist_of,Semitendinosus,anatomy_textbook
+Rectus Femoris,antagonist_of,Biceps Femoris,anatomy_textbook
+Vastus Lateralis,attaches_to,Femur,anatomy_textbook
+Vastus Lateralis,attaches_to,Patella,anatomy_textbook
+Vastus Lateralis,attaches_to,Tibia,anatomy_textbook
+Vastus Lateralis,innervated_by,Femoral Nerve,anatomy_textbook
+Vastus Lateralis,has_action,knee_extension,anatomy_textbook
+Vastus Lateralis,crosses_joint,knee,anatomy_textbook
+Vastus Lateralis,synergist_of,Rectus Femoris,anatomy_textbook
+Vastus Intermedius,attaches_to,Femur,anatomy_textbook
+Vastus Intermedius,attaches_to,Patella,anatomy_textbook
+Vastus Intermedius,attaches_to,Tibia,anatomy_textbook
+Vastus Intermedius,innervated_by,Femoral Nerve,anatomy_textbook
+Vastus Intermedius,has_action,knee_extension,anatomy_textbook
+Vastus Intermedius,crosses_joint,knee,anatomy_textbook
+Vastus Medialis,attaches_to,Femur,anatomy_textbook
+Vastus Medialis,attaches_to,Patella,anatomy_textbook
+Vastus Medialis,attaches_to,Tibia,anatomy_textbook
+Vastus Medialis,innervated_by,Femoral Nerve,anatomy_textbook
+Vastus Medialis,has_action,knee_extension,anatomy_textbook
+Vastus Medialis,crosses_joint,knee,anatomy_textbook
+Vastus Medialis,synergist_of,Vastus Lateralis,anatomy_textbook
+Articularis Genus,attaches_to,Femur,anatomy_textbook
+Articularis Genus,attaches_to,Synovial Membrane,anatomy_textbook
+Articularis Genus,innervated_by,Femoral Nerve,anatomy_textbook
+Articularis Genus,has_action,knee_stabilization,anatomy_textbook
+Psoas Major,attaches_to,T12,anatomy_textbook
+Psoas Major,attaches_to,L1,anatomy_textbook
+Psoas Major,attaches_to,L2,anatomy_textbook
+Psoas Major,attaches_to,L3,anatomy_textbook
+Psoas Major,attaches_to,L4,anatomy_textbook
+Psoas Major,attaches_to,L5,anatomy_textbook
+Psoas Major,attaches_to,Femur,anatomy_textbook
+Psoas Major,innervated_by,Lumbar Plexus,anatomy_textbook
+Psoas Major,has_action,hip_flexion,anatomy_textbook
+Psoas Major,crosses_joint,hip,anatomy_textbook
+Psoas Major,synergist_of,Iliacus,anatomy_textbook
+Psoas Major,antagonist_of,Gluteus Maximus,anatomy_textbook
+Iliacus,attaches_to,Ilium,anatomy_textbook
+Iliacus,attaches_to,Femur,anatomy_textbook
+Iliacus,innervated_by,Femoral Nerve,anatomy_textbook
+Iliacus,has_action,hip_flexion,anatomy_textbook
+Iliacus,crosses_joint,hip,anatomy_textbook
+Iliacus,synergist_of,Psoas Major,anatomy_textbook
+Pectineus,attaches_to,Pubis,anatomy_textbook
+Pectineus,attaches_to,Femur,anatomy_textbook
+Pectineus,innervated_by,Femoral Nerve; Obturator Nerve,anatomy_textbook
+Pectineus,has_action,hip_adduction,anatomy_textbook
+Pectineus,has_action,hip_flexion,anatomy_textbook
+Gastrocnemius,attaches_to,Femur,anatomy_textbook
+Gastrocnemius,attaches_to,Calcaneus,anatomy_textbook
+Gastrocnemius,innervated_by,Tibial Nerve,anatomy_textbook
+Gastrocnemius,has_action,ankle_plantarflexion,anatomy_textbook
+Gastrocnemius,has_action,knee_flexion,anatomy_textbook
+Gastrocnemius,crosses_joint,ankle,anatomy_textbook
+Gastrocnemius,crosses_joint,knee,anatomy_textbook
+Gastrocnemius,synergist_of,Soleus,anatomy_textbook
+Gastrocnemius,antagonist_of,Tibialis Anterior,anatomy_textbook
+Soleus,attaches_to,Tibia,anatomy_textbook
+Soleus,attaches_to,Fibula,anatomy_textbook
+Soleus,attaches_to,Calcaneus,anatomy_textbook
+Soleus,innervated_by,Tibial Nerve,anatomy_textbook
+Soleus,has_action,ankle_plantarflexion,anatomy_textbook
+Soleus,crosses_joint,ankle,anatomy_textbook
+Soleus,synergist_of,Gastrocnemius,anatomy_textbook
+Plantaris,attaches_to,Femur,anatomy_textbook
+Plantaris,attaches_to,Calcaneus,anatomy_textbook
+Plantaris,innervated_by,Tibial Nerve,anatomy_textbook
+Plantaris,has_action,ankle_plantarflexion,anatomy_textbook
+Popliteus,attaches_to,Femur,anatomy_textbook
+Popliteus,attaches_to,Tibia,anatomy_textbook
+Popliteus,attaches_to,Meniscus,anatomy_textbook
+Popliteus,innervated_by,Tibial Nerve,anatomy_textbook
+Popliteus,has_action,knee_flexion,anatomy_textbook
+Popliteus,crosses_joint,knee,anatomy_textbook
+Flexor Digitorum Longus,attaches_to,Tibia,anatomy_textbook
+Flexor Digitorum Longus,attaches_to,Foot Distal Phalanx 2,anatomy_textbook
+Flexor Digitorum Longus,attaches_to,Foot Distal Phalanx 3,anatomy_textbook
+Flexor Digitorum Longus,attaches_to,Foot Distal Phalanx 4,anatomy_textbook
+Flexor Digitorum Longus,attaches_to,Foot Distal Phalanx 5,anatomy_textbook
+Flexor Digitorum Longus,innervated_by,Tibial Nerve,anatomy_textbook
+Flexor Digitorum Longus,has_action,toe_flexion,anatomy_textbook
+Flexor Digitorum Longus,crosses_joint,ankle,anatomy_textbook
+Tibialis Posterior,attaches_to,Tibia,anatomy_textbook
+Tibialis Posterior,attaches_to,Fibula,anatomy_textbook
+Tibialis Posterior,attaches_to,Interosseous Membrane of Fibula/Tibia,anatomy_textbook
+Tibialis Posterior,attaches_to,Navicular,anatomy_textbook
+Tibialis Posterior,attaches_to,Medial Cuneiform 1,anatomy_textbook
+Tibialis Posterior,innervated_by,Tibial Nerve,anatomy_textbook
+Tibialis Posterior,has_action,ankle_plantarflexion,anatomy_textbook
+Tibialis Posterior,has_action,foot_inversion,anatomy_textbook
+Tibialis Posterior,crosses_joint,ankle,anatomy_textbook
+Flexor Hallucis Longus,attaches_to,Fibula,anatomy_textbook
+Flexor Hallucis Longus,attaches_to,Interosseous Membrane of Fibula/Tibia,anatomy_textbook
+Flexor Hallucis Longus,attaches_to,Foot Distal Phalanx 1 (Hallux),anatomy_textbook
+Flexor Hallucis Longus,innervated_by,Tibial Nerve,anatomy_textbook
+Flexor Hallucis Longus,has_action,great_toe_flexion,anatomy_textbook
+Flexor Hallucis Longus,crosses_joint,ankle,anatomy_textbook
+Peroneus Longus,attaches_to,Fibula,anatomy_textbook
+Peroneus Longus,attaches_to,Metatarsal 1,anatomy_textbook
+Peroneus Longus,attaches_to,Medial Cuneiform 1,anatomy_textbook
+Peroneus Longus,innervated_by,Superficial Peroneal Nerve,anatomy_textbook
+Peroneus Longus,has_action,ankle_plantarflexion,anatomy_textbook
+Peroneus Longus,has_action,foot_eversion,anatomy_textbook
+Peroneus Longus,crosses_joint,ankle,anatomy_textbook
+Peroneus Longus,synergist_of,Peroneus Brevis,anatomy_textbook
+Peroneus Brevis,attaches_to,Fibula,anatomy_textbook
+Peroneus Brevis,attaches_to,Metatarsal 5,anatomy_textbook
+Peroneus Brevis,innervated_by,Superficial Peroneal Nerve,anatomy_textbook
+Peroneus Brevis,has_action,foot_eversion,anatomy_textbook
+Peroneus Brevis,crosses_joint,ankle,anatomy_textbook
+Peroneus Brevis,synergist_of,Peroneus Longus,anatomy_textbook
+Tibialis Anterior,attaches_to,Tibia,anatomy_textbook
+Tibialis Anterior,attaches_to,Interosseous Membrane of Fibula/Tibia,anatomy_textbook
+Tibialis Anterior,attaches_to,Medial Cuneiform 1,anatomy_textbook
+Tibialis Anterior,attaches_to,Metatarsal 1,anatomy_textbook
+Tibialis Anterior,innervated_by,Deep Peroneal Nerve,anatomy_textbook
+Tibialis Anterior,has_action,ankle_dorsiflexion,anatomy_textbook
+Tibialis Anterior,has_action,foot_inversion,anatomy_textbook
+Tibialis Anterior,crosses_joint,ankle,anatomy_textbook
+Tibialis Anterior,antagonist_of,Gastrocnemius,anatomy_textbook
+Tibialis Anterior,antagonist_of,Soleus,anatomy_textbook
+Extensor Hallucis Longus,attaches_to,Fibula,anatomy_textbook
+Extensor Hallucis Longus,attaches_to,Interosseous Membrane of Fibula/Tibia,anatomy_textbook
+Extensor Hallucis Longus,attaches_to,Foot Distal Phalanx 1 (Hallux),anatomy_textbook
+Extensor Hallucis Longus,innervated_by,Deep Peroneal Nerve,anatomy_textbook
+Extensor Hallucis Longus,has_action,great_toe_extension,anatomy_textbook
+Extensor Hallucis Longus,crosses_joint,ankle,anatomy_textbook
+Extensor Digitorum Longus,attaches_to,Tibia,anatomy_textbook
+Extensor Digitorum Longus,attaches_to,Fibula,anatomy_textbook
+Extensor Digitorum Longus,attaches_to,Interosseous Membrane of Fibula/Tibia,anatomy_textbook
+Extensor Digitorum Longus,innervated_by,Deep Peroneal Nerve,anatomy_textbook
+Extensor Digitorum Longus,has_action,toe_extension,anatomy_textbook
+Extensor Digitorum Longus,crosses_joint,ankle,anatomy_textbook
+Peroneus Tertius,attaches_to,Fibula,anatomy_textbook
+Peroneus Tertius,attaches_to,Metatarsal 5,anatomy_textbook
+Peroneus Tertius,innervated_by,Deep Peroneal Nerve,anatomy_textbook
+Peroneus Tertius,has_action,ankle_dorsiflexion,anatomy_textbook
+Peroneus Tertius,has_action,foot_eversion,anatomy_textbook
+Sternocleidomastoid,attaches_to,Sternum,anatomy_textbook
+Sternocleidomastoid,attaches_to,Clavicle,anatomy_textbook
+Sternocleidomastoid,attaches_to,Temporal Bone,anatomy_textbook
+Sternocleidomastoid,attaches_to,Occipital Bone,anatomy_textbook
+Sternocleidomastoid,innervated_by,Accessory Nerve (XI),anatomy_textbook
+Sternocleidomastoid,has_action,head_flexion,anatomy_textbook
+Sternocleidomastoid,has_action,head_rotation,anatomy_textbook
+Sternocleidomastoid,crosses_joint,cervical,anatomy_textbook
+Masseter,attaches_to,Zygomatic Bone,anatomy_textbook
+Masseter,attaches_to,Mandible,anatomy_textbook
+Masseter,innervated_by,Trigeminal (V3),anatomy_textbook
+Masseter,has_action,mandible_elevation,anatomy_textbook
+Masseter,has_action,mastication,anatomy_textbook
+Masseter,crosses_joint,temporomandibular,anatomy_textbook
+Masseter,synergist_of,Medial Pterygoid,anatomy_textbook
+Masseter,antagonist_of,Lateral Pterygoid,anatomy_textbook
+Medial Pterygoid,attaches_to,Pterygoid Fossa,anatomy_textbook
+Medial Pterygoid,attaches_to,Mandible,anatomy_textbook
+Medial Pterygoid,innervated_by,Trigeminal (V3),anatomy_textbook
+Medial Pterygoid,has_action,mandible_elevation,anatomy_textbook
+Medial Pterygoid,synergist_of,Masseter,anatomy_textbook
+Lateral Pterygoid,attaches_to,Sphenoid,anatomy_textbook
+Lateral Pterygoid,attaches_to,Mandible,anatomy_textbook
+Lateral Pterygoid,innervated_by,Trigeminal (V3),anatomy_textbook
+Lateral Pterygoid,has_action,mandible_protrusion,anatomy_textbook
+Lateral Pterygoid,antagonist_of,Masseter,anatomy_textbook
+Digastric,attaches_to,Mandible,anatomy_textbook
+Digastric,attaches_to,Temporal Bone,anatomy_textbook
+Digastric,attaches_to,Hyoid Bone,anatomy_textbook
+Digastric,innervated_by,Trigeminal (V3); Facial Nerve (VII),anatomy_textbook
+Digastric,has_action,mandible_depression,anatomy_textbook
+Digastric,has_action,hyoid_elevation,anatomy_textbook
+Mylohyoid,attaches_to,Mandible,anatomy_textbook
+Mylohyoid,attaches_to,Hyoid Bone,anatomy_textbook
+Mylohyoid,innervated_by,Trigeminal (V3),anatomy_textbook
+Mylohyoid,has_action,hyoid_elevation,anatomy_textbook
+Geniohyoid,attaches_to,Mandible,anatomy_textbook
+Geniohyoid,attaches_to,Hyoid Bone,anatomy_textbook
+Geniohyoid,innervated_by,C1 via Hypoglossal Nerve,anatomy_textbook
+Geniohyoid,has_action,hyoid_elevation,anatomy_textbook
+Sternohyoid,attaches_to,Sternum,anatomy_textbook
+Sternohyoid,attaches_to,Hyoid Bone,anatomy_textbook
+Sternohyoid,innervated_by,Ansa Cervicalis,anatomy_textbook
+Sternohyoid,has_action,hyoid_depression,anatomy_textbook
+Sternohyoid,synergist_of,Omohyoid,anatomy_textbook
+Omohyoid,attaches_to,Scapula,anatomy_textbook
+Omohyoid,attaches_to,Hyoid Bone,anatomy_textbook
+Omohyoid,innervated_by,Ansa Cervicalis,anatomy_textbook
+Omohyoid,has_action,hyoid_depression,anatomy_textbook
+Omohyoid,synergist_of,Sternohyoid,anatomy_textbook
+Sternothyroid,attaches_to,Sternum,anatomy_textbook
+Sternothyroid,attaches_to,Thyroid Cartilage,anatomy_textbook
+Sternothyroid,innervated_by,Ansa Cervicalis,anatomy_textbook
+Sternothyroid,has_action,larynx_depression,anatomy_textbook
+Thryohyoid,attaches_to,Thyroid Cartilage,anatomy_textbook
+Thryohyoid,attaches_to,Hyoid Bone,anatomy_textbook
+Thryohyoid,innervated_by,C1 via Hypoglossal Nerve,anatomy_textbook
+Thryohyoid,has_action,hyoid_depression,anatomy_textbook
+Stylohyoid,attaches_to,Temporal Bone,anatomy_textbook
+Stylohyoid,attaches_to,Hyoid Bone,anatomy_textbook
+Stylohyoid,innervated_by,Facial Nerve (VII),anatomy_textbook
+Stylohyoid,has_action,hyoid_elevation,anatomy_textbook
+Diaphragm,attaches_to,Sternum,anatomy_textbook
+Diaphragm,attaches_to,Ribs 7,anatomy_textbook
+Diaphragm,attaches_to,Ribs 8,anatomy_textbook
+Diaphragm,attaches_to,Ribs 9,anatomy_textbook
+Diaphragm,attaches_to,Ribs 10,anatomy_textbook
+Diaphragm,attaches_to,Ribs 11,anatomy_textbook
+Diaphragm,attaches_to,Ribs 12,anatomy_textbook
+Diaphragm,attaches_to,L1,anatomy_textbook
+Diaphragm,attaches_to,L2,anatomy_textbook
+Diaphragm,attaches_to,L3,anatomy_textbook
+Diaphragm,attaches_to,Central Tendon of Diaphragm,anatomy_textbook
+Diaphragm,innervated_by,Phrenic Nerve,anatomy_textbook
+Diaphragm,has_action,respiration_inspiration,anatomy_textbook
+Rectus abdominis,attaches_to,Pubis,anatomy_textbook
+Rectus abdominis,attaches_to,Ribs 5,anatomy_textbook
+Rectus abdominis,attaches_to,Ribs 6,anatomy_textbook
+Rectus abdominis,attaches_to,Ribs 7,anatomy_textbook
+Rectus abdominis,attaches_to,Sternum,anatomy_textbook
+Rectus abdominis,attaches_to,Rectus Sheath,anatomy_textbook
+Rectus abdominis,innervated_by,Intercostal Nerves,anatomy_textbook
+Rectus abdominis,has_action,trunk_flexion,anatomy_textbook
+Rectus abdominis,antagonist_of,Multifidus,anatomy_textbook
+External oblique,attaches_to,Ribs 5,anatomy_textbook
+External oblique,attaches_to,Ribs 6,anatomy_textbook
+External oblique,attaches_to,Ribs 7,anatomy_textbook
+External oblique,attaches_to,Ribs 8,anatomy_textbook
+External oblique,attaches_to,Ribs 9,anatomy_textbook
+External oblique,attaches_to,Ribs 10,anatomy_textbook
+External oblique,attaches_to,Ribs 11,anatomy_textbook
+External oblique,attaches_to,Ribs 12,anatomy_textbook
+External oblique,attaches_to,Iliac Crest,anatomy_textbook
+External oblique,attaches_to,Aponeurosis of External Oblique,anatomy_textbook
+External oblique,attaches_to,Linea Alba,anatomy_textbook
+External oblique,innervated_by,Intercostal Nerves; Subcostal Nerve,anatomy_textbook
+External oblique,has_action,trunk_flexion,anatomy_textbook
+External oblique,has_action,trunk_rotation,anatomy_textbook
+External oblique,synergist_of,Internal oblique,anatomy_textbook
+Internal oblique,attaches_to,Thoracolumbar Fascia,anatomy_textbook
+Internal oblique,attaches_to,Iliac Crest,anatomy_textbook
+Internal oblique,attaches_to,Inguinal Ligament,anatomy_textbook
+Internal oblique,attaches_to,Ribs 10,anatomy_textbook
+Internal oblique,attaches_to,Ribs 11,anatomy_textbook
+Internal oblique,attaches_to,Ribs 12,anatomy_textbook
+Internal oblique,attaches_to,Linea Alba,anatomy_textbook
+Internal oblique,innervated_by,Intercostal Nerves; Iliohypogastric Nerve,anatomy_textbook
+Internal oblique,has_action,trunk_flexion,anatomy_textbook
+Internal oblique,has_action,trunk_rotation,anatomy_textbook
+Internal oblique,synergist_of,External oblique,anatomy_textbook
+Transversus abdominis,attaches_to,Ribs 7,anatomy_textbook
+Transversus abdominis,attaches_to,Ribs 8,anatomy_textbook
+Transversus abdominis,attaches_to,Ribs 9,anatomy_textbook
+Transversus abdominis,attaches_to,Ribs 10,anatomy_textbook
+Transversus abdominis,attaches_to,Ribs 11,anatomy_textbook
+Transversus abdominis,attaches_to,Ribs 12,anatomy_textbook
+Transversus abdominis,attaches_to,Thoracolumbar Fascia,anatomy_textbook
+Transversus abdominis,attaches_to,Iliac Crest,anatomy_textbook
+Transversus abdominis,attaches_to,Inguinal Ligament,anatomy_textbook
+Transversus abdominis,attaches_to,Linea Alba,anatomy_textbook
+Transversus abdominis,innervated_by,Intercostal Nerves; Iliohypogastric Nerve,anatomy_textbook
+Transversus abdominis,has_action,abdominal_compression,anatomy_textbook
+Quadratus lumborum,attaches_to,Iliac Crest,anatomy_textbook
+Quadratus lumborum,attaches_to,Iliolumbar Ligament,anatomy_textbook
+Quadratus lumborum,attaches_to,L1,anatomy_textbook
+Quadratus lumborum,attaches_to,L2,anatomy_textbook
+Quadratus lumborum,attaches_to,L3,anatomy_textbook
+Quadratus lumborum,attaches_to,L4,anatomy_textbook
+Quadratus lumborum,attaches_to,Ribs 12,anatomy_textbook
+Quadratus lumborum,innervated_by,Lumbar Plexus,anatomy_textbook
+Quadratus lumborum,has_action,trunk_lateral_flexion,anatomy_textbook
+Multifidus,attaches_to,Sacrum,anatomy_textbook
+Multifidus,attaches_to,L1,anatomy_textbook
+Multifidus,attaches_to,L2,anatomy_textbook
+Multifidus,attaches_to,L3,anatomy_textbook
+Multifidus,attaches_to,L4,anatomy_textbook
+Multifidus,attaches_to,L5,anatomy_textbook
+Multifidus,innervated_by,Posterior Rami Spinal Nerves,anatomy_textbook
+Multifidus,has_action,spinal_stabilization,anatomy_textbook
+Multifidus,has_action,spinal_rotation,anatomy_textbook
+Multifidus,antagonist_of,Rectus abdominis,anatomy_textbook
+Splenius Capitis,attaches_to,Ligamentum Nuchae,anatomy_textbook
+Splenius Capitis,attaches_to,C7,anatomy_textbook
+Splenius Capitis,attaches_to,T1,anatomy_textbook
+Splenius Capitis,attaches_to,T2,anatomy_textbook
+Splenius Capitis,attaches_to,T3,anatomy_textbook
+Splenius Capitis,attaches_to,Temporal Bone,anatomy_textbook
+Splenius Capitis,attaches_to,Occipital Bone,anatomy_textbook
+Splenius Capitis,innervated_by,Posterior Rami Cervical Nerves,anatomy_textbook
+Splenius Capitis,has_action,head_extension,anatomy_textbook
+Splenius Capitis,has_action,head_rotation,anatomy_textbook
+Splenius Cervicis,attaches_to,T3,anatomy_textbook
+Splenius Cervicis,attaches_to,T4,anatomy_textbook
+Splenius Cervicis,attaches_to,T5,anatomy_textbook
+Splenius Cervicis,attaches_to,T6,anatomy_textbook
+Splenius Cervicis,attaches_to,C1 (Atlas),anatomy_textbook
+Splenius Cervicis,attaches_to,C2 (Axis),anatomy_textbook
+Splenius Cervicis,attaches_to,C3,anatomy_textbook
+Splenius Cervicis,innervated_by,Posterior Rami Cervical Nerves,anatomy_textbook
+Splenius Cervicis,has_action,cervical_extension,anatomy_textbook
+Splenius Cervicis,has_action,cervical_rotation,anatomy_textbook
+Longus Colli,attaches_to,C1 (Atlas),anatomy_textbook
+Longus Colli,attaches_to,C2 (Axis),anatomy_textbook
+Longus Colli,attaches_to,C3,anatomy_textbook
+Longus Colli,attaches_to,C4,anatomy_textbook
+Longus Colli,attaches_to,C5,anatomy_textbook
+Longus Colli,attaches_to,C6,anatomy_textbook
+Longus Colli,attaches_to,T1,anatomy_textbook
+Longus Colli,attaches_to,T2,anatomy_textbook
+Longus Colli,attaches_to,T3,anatomy_textbook
+Longus Colli,innervated_by,Anterior Rami Cervical Nerves,anatomy_textbook
+Longus Colli,has_action,cervical_flexion,anatomy_textbook
+Anterior Scalene,attaches_to,C3,anatomy_textbook
+Anterior Scalene,attaches_to,C4,anatomy_textbook
+Anterior Scalene,attaches_to,C5,anatomy_textbook
+Anterior Scalene,attaches_to,C6,anatomy_textbook
+Anterior Scalene,attaches_to,Ribs 1,anatomy_textbook
+Anterior Scalene,innervated_by,Anterior Rami Cervical Nerves,anatomy_textbook
+Anterior Scalene,has_action,cervical_flexion,anatomy_textbook
+Anterior Scalene,has_action,rib_elevation,anatomy_textbook
+Middle Scalene,attaches_to,C2 (Axis),anatomy_textbook
+Middle Scalene,attaches_to,C3,anatomy_textbook
+Middle Scalene,attaches_to,C4,anatomy_textbook
+Middle Scalene,attaches_to,C5,anatomy_textbook
+Middle Scalene,attaches_to,C6,anatomy_textbook
+Middle Scalene,attaches_to,C7,anatomy_textbook
+Middle Scalene,attaches_to,Ribs 1,anatomy_textbook
+Middle Scalene,innervated_by,Anterior Rami Cervical Nerves,anatomy_textbook
+Middle Scalene,has_action,cervical_lateral_flexion,anatomy_textbook
+Posterior Scalene,attaches_to,C5,anatomy_textbook
+Posterior Scalene,attaches_to,C6,anatomy_textbook
+Posterior Scalene,attaches_to,C7,anatomy_textbook
+Posterior Scalene,attaches_to,Ribs 2,anatomy_textbook
+Posterior Scalene,innervated_by,Anterior Rami Cervical Nerves,anatomy_textbook
+Posterior Scalene,has_action,cervical_lateral_flexion,anatomy_textbook
+Occipitalis,attaches_to,Occipital Bone,anatomy_textbook
+Occipitalis,attaches_to,Galea Aponeurosis,anatomy_textbook
+Occipitalis,innervated_by,Facial Nerve (VII),anatomy_textbook
+Occipitalis,has_action,scalp_retraction,anatomy_textbook
+Frontalis,attaches_to,Galea Aponeurosis,anatomy_textbook
+Frontalis,attaches_to,Skin Above Eyes and Nose,anatomy_textbook
+Frontalis,innervated_by,Facial Nerve (VII),anatomy_textbook
+Frontalis,has_action,eyebrow_elevation,anatomy_textbook
+Orbicularis Oculi,attaches_to,Palpebral Ligament,anatomy_textbook
+Orbicularis Oculi,attaches_to,Frontal Bone,anatomy_textbook
+Orbicularis Oculi,attaches_to,Maxilla,anatomy_textbook
+Orbicularis Oculi,attaches_to,Lacrimal Bone,anatomy_textbook
+Orbicularis Oculi,innervated_by,Facial Nerve (VII),anatomy_textbook
+Orbicularis Oculi,has_action,eyelid_closure,anatomy_textbook
+Corrugator Supercilii,attaches_to,Frontal Bone,anatomy_textbook
+Corrugator Supercilii,attaches_to,Skin Above Eyes and Nose,anatomy_textbook
+Corrugator Supercilii,innervated_by,Facial Nerve (VII),anatomy_textbook
+Corrugator Supercilii,has_action,eyebrow_depression,anatomy_textbook
+Orbicularis Oris,attaches_to,Maxilla,anatomy_textbook
+Orbicularis Oris,attaches_to,Mandible,anatomy_textbook
+Orbicularis Oris,attaches_to,Skin Around Mouth,anatomy_textbook
+Orbicularis Oris,innervated_by,Facial Nerve (VII),anatomy_textbook
+Orbicularis Oris,has_action,lip_closure,anatomy_textbook
+Zygomaticus Major,attaches_to,Zygomatic Bone,anatomy_textbook
+Zygomaticus Major,attaches_to,Modiolus of Mouth,anatomy_textbook
+Zygomaticus Major,innervated_by,Facial Nerve (VII),anatomy_textbook
+Zygomaticus Major,has_action,mouth_corner_elevation,anatomy_textbook
+Zygomaticus Minor,attaches_to,Zygomatic Bone,anatomy_textbook
+Zygomaticus Minor,attaches_to,Upper Lip Muscles,anatomy_textbook
+Zygomaticus Minor,innervated_by,Facial Nerve (VII),anatomy_textbook
+Zygomaticus Minor,has_action,upper_lip_elevation,anatomy_textbook
+Buccinator,attaches_to,Maxilla,anatomy_textbook
+Buccinator,attaches_to,Mandible,anatomy_textbook
+Buccinator,attaches_to,Pterygomandibular Raphe,anatomy_textbook
+Buccinator,attaches_to,Modiolus of Mouth,anatomy_textbook
+Buccinator,innervated_by,Facial Nerve (VII),anatomy_textbook
+Buccinator,has_action,cheek_compression,anatomy_textbook
+Depressor Anguli Oris,attaches_to,Mandible,anatomy_textbook
+Depressor Anguli Oris,attaches_to,Modiolus of Mouth,anatomy_textbook
+Depressor Anguli Oris,innervated_by,Facial Nerve (VII),anatomy_textbook
+Depressor Anguli Oris,has_action,mouth_corner_depression,anatomy_textbook
+Depressor Anguli Oris,antagonist_of,Zygomaticus Major,anatomy_textbook
+Levator Labii Superioris,attaches_to,Infraorbital Margin,anatomy_textbook
+Levator Labii Superioris,attaches_to,Skin of Upper Lip,anatomy_textbook
+Levator Labii Superioris,innervated_by,Facial Nerve (VII),anatomy_textbook
+Levator Labii Superioris,has_action,upper_lip_elevation,anatomy_textbook
+Levator Labii Superioris Alaeque Nasi,attaches_to,Maxilla,anatomy_textbook
+Levator Labii Superioris Alaeque Nasi,attaches_to,Nasal Cartilage,anatomy_textbook
+Levator Labii Superioris Alaeque Nasi,attaches_to,Skin of Upper Lip,anatomy_textbook
+Levator Labii Superioris Alaeque Nasi,innervated_by,Facial Nerve (VII),anatomy_textbook
+Levator Labii Superioris Alaeque Nasi,has_action,upper_lip_elevation,anatomy_textbook
+Levator Anguli Oris,attaches_to,Maxilla,anatomy_textbook
+Levator Anguli Oris,attaches_to,Modiolus of Mouth,anatomy_textbook
+Levator Anguli Oris,innervated_by,Facial Nerve (VII),anatomy_textbook
+Levator Anguli Oris,has_action,mouth_corner_elevation,anatomy_textbook
+Platysma,attaches_to,Mandible,anatomy_textbook
+Platysma,attaches_to,Pectoralis Major/Deltoid Fascia,anatomy_textbook
+Platysma,innervated_by,Facial Nerve (VII),anatomy_textbook
+Platysma,has_action,mandible_depression,anatomy_textbook
+Levator Palpebrae Superioris,attaches_to,Margins of Optic Canal,anatomy_textbook
+Levator Palpebrae Superioris,attaches_to,Tarsus,anatomy_textbook
+Levator Palpebrae Superioris,innervated_by,Oculomotor Nerve (III),anatomy_textbook
+Levator Palpebrae Superioris,has_action,eyelid_elevation,anatomy_textbook
+Lateral Rectus,attaches_to,Annulus of Zinn,anatomy_textbook
+Lateral Rectus,attaches_to,Sclera,anatomy_textbook
+Lateral Rectus,innervated_by,Abducens Nerve (VI),anatomy_textbook
+Lateral Rectus,has_action,eye_abduction,anatomy_textbook
+Lateral Rectus,antagonist_of,Medial Rectus,anatomy_textbook
+Medial Rectus,attaches_to,Annulus of Zinn,anatomy_textbook
+Medial Rectus,attaches_to,Sclera,anatomy_textbook
+Medial Rectus,innervated_by,Oculomotor Nerve (III),anatomy_textbook
+Medial Rectus,has_action,eye_adduction,anatomy_textbook
+Medial Rectus,antagonist_of,Lateral Rectus,anatomy_textbook
+Superior Rectus,attaches_to,Annulus of Zinn,anatomy_textbook
+Superior Rectus,attaches_to,Sclera,anatomy_textbook
+Superior Rectus,innervated_by,Oculomotor Nerve (III),anatomy_textbook
+Superior Rectus,has_action,eye_elevation,anatomy_textbook
+Superior Rectus,antagonist_of,Inferior Rectus,anatomy_textbook
+Inferior Rectus,attaches_to,Annulus of Zinn,anatomy_textbook
+Inferior Rectus,attaches_to,Sclera,anatomy_textbook
+Inferior Rectus,innervated_by,Oculomotor Nerve (III),anatomy_textbook
+Inferior Rectus,has_action,eye_depression,anatomy_textbook
+Inferior Rectus,antagonist_of,Superior Rectus,anatomy_textbook
+Superior Oblique,attaches_to,Annulus of Zinn,anatomy_textbook
+Superior Oblique,attaches_to,Sclera,anatomy_textbook
+Superior Oblique,innervated_by,Trochlear Nerve (IV),anatomy_textbook
+Superior Oblique,has_action,eye_intorsion,anatomy_textbook
+Inferior Oblique,attaches_to,Orbit,anatomy_textbook
+Inferior Oblique,attaches_to,Sclera,anatomy_textbook
+Inferior Oblique,innervated_by,Oculomotor Nerve (III),anatomy_textbook
+Inferior Oblique,has_action,eye_extorsion,anatomy_textbook
+Cricothryoid,attaches_to,Cricoid Cartilage,anatomy_textbook
+Cricothryoid,attaches_to,Thyroid Cartilage,anatomy_textbook
+Cricothryoid,innervated_by,External Laryngeal Nerve,anatomy_textbook
+Cricothryoid,has_action,vocal_cord_tensioning,anatomy_textbook
+Posterior cricoarytenoid,attaches_to,Cricoid Cartilage,anatomy_textbook
+Posterior cricoarytenoid,attaches_to,Arytenoid Cartilage,anatomy_textbook
+Posterior cricoarytenoid,innervated_by,Recurrent Laryngeal Nerve,anatomy_textbook
+Posterior cricoarytenoid,has_action,vocal_cord_abduction,anatomy_textbook
+Lateral cricoarytenoid,attaches_to,Cricoid Cartilage,anatomy_textbook
+Lateral cricoarytenoid,attaches_to,Arytenoid Cartilage,anatomy_textbook
+Lateral cricoarytenoid,innervated_by,Recurrent Laryngeal Nerve,anatomy_textbook
+Lateral cricoarytenoid,has_action,vocal_cord_adduction,anatomy_textbook
+Lateral cricoarytenoid,antagonist_of,Posterior cricoarytenoid,anatomy_textbook
+Transversus arytenoid,attaches_to,Arytenoid Cartilage,anatomy_textbook
+Transversus arytenoid,innervated_by,Recurrent Laryngeal Nerve,anatomy_textbook
+Transversus arytenoid,has_action,vocal_cord_adduction,anatomy_textbook
+Vocalis,attaches_to,Thyroid Cartilage,anatomy_textbook
+Vocalis,attaches_to,Arytenoid Cartilage,anatomy_textbook
+Vocalis,innervated_by,Recurrent Laryngeal Nerve,anatomy_textbook
+Vocalis,has_action,vocal_cord_tensioning,anatomy_textbook
+Thyroarytenoid,attaches_to,Thyroid Cartilage,anatomy_textbook
+Thyroarytenoid,attaches_to,Arytenoid Cartilage,anatomy_textbook
+Thyroarytenoid,innervated_by,Recurrent Laryngeal Nerve,anatomy_textbook
+Thyroarytenoid,has_action,vocal_cord_relaxation,anatomy_textbook
+Oblique arytenoid,attaches_to,Arytenoid Cartilage,anatomy_textbook
+Oblique arytenoid,innervated_by,Recurrent Laryngeal Nerve,anatomy_textbook
+Oblique arytenoid,has_action,vocal_cord_adduction,anatomy_textbook
+Aryepiglottic,attaches_to,Arytenoid Cartilage,anatomy_textbook
+Aryepiglottic,attaches_to,Epiglottis,anatomy_textbook
+Aryepiglottic,innervated_by,Recurrent Laryngeal Nerve,anatomy_textbook
+Aryepiglottic,has_action,epiglottis_closure,anatomy_textbook
+Thyroepiglottic,attaches_to,Thyroid Cartilage,anatomy_textbook
+Thyroepiglottic,attaches_to,Epiglottis,anatomy_textbook
+Thyroepiglottic,innervated_by,Recurrent Laryngeal Nerve,anatomy_textbook
+Thyroepiglottic,has_action,epiglottis_opening,anatomy_textbook
+Pyramidalis,attaches_to,Pubis,anatomy_textbook
+Pyramidalis,attaches_to,Linea Alba,anatomy_textbook
+Pyramidalis,innervated_by,Subcostal Nerve,anatomy_textbook
+Pyramidalis,has_action,linea_alba_tensioning,anatomy_textbook
+Abductor Hallucis,attaches_to,Calcaneus,anatomy_textbook
+Abductor Hallucis,attaches_to,Foot Proximal Phalanx 1,anatomy_textbook
+Abductor Hallucis,innervated_by,Medial Plantar Nerve,anatomy_textbook
+Abductor Hallucis,has_action,great_toe_abduction,anatomy_textbook
+Flexor Digitorum Brevis,attaches_to,Calcaneus,anatomy_textbook
+Flexor Digitorum Brevis,attaches_to,Plantar Aponeurosis,anatomy_textbook
+Flexor Digitorum Brevis,attaches_to,Foot Middle Phalanx 2,anatomy_textbook
+Flexor Digitorum Brevis,attaches_to,Foot Middle Phalanx 3,anatomy_textbook
+Flexor Digitorum Brevis,attaches_to,Foot Middle Phalanx 4,anatomy_textbook
+Flexor Digitorum Brevis,attaches_to,Foot Middle Phalanx 5,anatomy_textbook
+Flexor Digitorum Brevis,innervated_by,Medial Plantar Nerve,anatomy_textbook
+Flexor Digitorum Brevis,has_action,toe_flexion,anatomy_textbook
+Quadratus Plantae,attaches_to,Calcaneus,anatomy_textbook
+Quadratus Plantae,attaches_to,Flexor Digitorum Longus Tendon,anatomy_textbook
+Quadratus Plantae,innervated_by,Lateral Plantar Nerve,anatomy_textbook
+Quadratus Plantae,has_action,toe_flexion,anatomy_textbook
+Flexor Hallucis Brevis,attaches_to,Cuboid,anatomy_textbook
+Flexor Hallucis Brevis,attaches_to,Medial Cuneiform 3,anatomy_textbook
+Flexor Hallucis Brevis,attaches_to,Foot Proximal Phalanx 1,anatomy_textbook
+Flexor Hallucis Brevis,innervated_by,Medial Plantar Nerve,anatomy_textbook
+Flexor Hallucis Brevis,has_action,great_toe_flexion,anatomy_textbook
+Adductor Hallucis,attaches_to,Metatarsal 2,anatomy_textbook
+Adductor Hallucis,attaches_to,Metatarsal 3,anatomy_textbook
+Adductor Hallucis,attaches_to,Metatarsal 4,anatomy_textbook
+Adductor Hallucis,attaches_to,Foot Proximal Phalanx 1,anatomy_textbook
+Adductor Hallucis,innervated_by,Lateral Plantar Nerve,anatomy_textbook
+Adductor Hallucis,has_action,great_toe_adduction,anatomy_textbook
+Adductor Hallucis,antagonist_of,Abductor Hallucis,anatomy_textbook
+Extensor Hallucis Brevis,attaches_to,Calcaneus,anatomy_textbook
+Extensor Hallucis Brevis,attaches_to,Foot Proximal Phalanx 1,anatomy_textbook
+Extensor Hallucis Brevis,innervated_by,Deep Peroneal Nerve,anatomy_textbook
+Extensor Hallucis Brevis,has_action,great_toe_extension,anatomy_textbook
+Extensor Digitorum Brevis,attaches_to,Calcaneus,anatomy_textbook
+Extensor Digitorum Brevis,attaches_to,Extensor Digitorum Longus Tendon,anatomy_textbook
+Extensor Digitorum Brevis,innervated_by,Deep Peroneal Nerve,anatomy_textbook
+Extensor Digitorum Brevis,has_action,toe_extension,anatomy_textbook
+Abductor Ossis Metatarsi Quinti,attaches_to,Calcaneus,anatomy_textbook
+Abductor Ossis Metatarsi Quinti,attaches_to,Metatarsal 5,anatomy_textbook
+Abductor Ossis Metatarsi Quinti,innervated_by,Lateral Plantar Nerve,anatomy_textbook
+Abductor Ossis Metatarsi Quinti,has_action,fifth_metatarsal_abduction,anatomy_textbook
+Iliocostalis Lumborum,attaches_to,Sacrum,anatomy_textbook
+Iliocostalis Lumborum,attaches_to,Iliac Crest,anatomy_textbook
+Iliocostalis Lumborum,attaches_to,Ribs 6,anatomy_textbook
+Iliocostalis Lumborum,attaches_to,Ribs 7,anatomy_textbook
+Iliocostalis Lumborum,attaches_to,Ribs 8,anatomy_textbook
+Iliocostalis Lumborum,attaches_to,Ribs 9,anatomy_textbook
+Iliocostalis Lumborum,attaches_to,Ribs 10,anatomy_textbook
+Iliocostalis Lumborum,attaches_to,Ribs 11,anatomy_textbook
+Iliocostalis Lumborum,attaches_to,Ribs 12,anatomy_textbook
+Iliocostalis Lumborum,innervated_by,Posterior Rami Spinal Nerves,anatomy_textbook
+Iliocostalis Lumborum,has_action,trunk_extension,anatomy_textbook
+Iliocostalis Thoracis,attaches_to,Ribs 1,anatomy_textbook
+Iliocostalis Thoracis,attaches_to,Ribs 2,anatomy_textbook
+Iliocostalis Thoracis,attaches_to,Ribs 3,anatomy_textbook
+Iliocostalis Thoracis,attaches_to,Ribs 4,anatomy_textbook
+Iliocostalis Thoracis,attaches_to,Ribs 5,anatomy_textbook
+Iliocostalis Thoracis,attaches_to,Ribs 6,anatomy_textbook
+Iliocostalis Thoracis,innervated_by,Posterior Rami Spinal Nerves,anatomy_textbook
+Iliocostalis Thoracis,has_action,trunk_extension,anatomy_textbook
+Iliocostalis Cervicis,attaches_to,Ribs 3,anatomy_textbook
+Iliocostalis Cervicis,attaches_to,Ribs 4,anatomy_textbook
+Iliocostalis Cervicis,attaches_to,Ribs 5,anatomy_textbook
+Iliocostalis Cervicis,attaches_to,Ribs 6,anatomy_textbook
+Iliocostalis Cervicis,attaches_to,C4,anatomy_textbook
+Iliocostalis Cervicis,attaches_to,C5,anatomy_textbook
+Iliocostalis Cervicis,attaches_to,C6,anatomy_textbook
+Iliocostalis Cervicis,innervated_by,Posterior Rami Spinal Nerves,anatomy_textbook
+Iliocostalis Cervicis,has_action,cervical_extension,anatomy_textbook
+Longissimus Thoracis,attaches_to,Sacrum,anatomy_textbook
+Longissimus Thoracis,attaches_to,L1,anatomy_textbook
+Longissimus Thoracis,attaches_to,L2,anatomy_textbook
+Longissimus Thoracis,attaches_to,L3,anatomy_textbook
+Longissimus Thoracis,attaches_to,L4,anatomy_textbook
+Longissimus Thoracis,attaches_to,L5,anatomy_textbook
+Longissimus Thoracis,attaches_to,T1,anatomy_textbook
+Longissimus Thoracis,attaches_to,T2,anatomy_textbook
+Longissimus Thoracis,attaches_to,T3,anatomy_textbook
+Longissimus Thoracis,attaches_to,T4,anatomy_textbook
+Longissimus Thoracis,attaches_to,T5,anatomy_textbook
+Longissimus Thoracis,attaches_to,T6,anatomy_textbook
+Longissimus Thoracis,attaches_to,T7,anatomy_textbook
+Longissimus Thoracis,attaches_to,T8,anatomy_textbook
+Longissimus Thoracis,attaches_to,T9,anatomy_textbook
+Longissimus Thoracis,attaches_to,T10,anatomy_textbook
+Longissimus Thoracis,attaches_to,T11,anatomy_textbook
+Longissimus Thoracis,attaches_to,T12,anatomy_textbook
+Longissimus Thoracis,innervated_by,Posterior Rami Spinal Nerves,anatomy_textbook
+Longissimus Thoracis,has_action,trunk_extension,anatomy_textbook
+Longissimus Cervicis,attaches_to,T1,anatomy_textbook
+Longissimus Cervicis,attaches_to,T2,anatomy_textbook
+Longissimus Cervicis,attaches_to,T3,anatomy_textbook
+Longissimus Cervicis,attaches_to,T4,anatomy_textbook
+Longissimus Cervicis,attaches_to,T5,anatomy_textbook
+Longissimus Cervicis,attaches_to,C2 (Axis),anatomy_textbook
+Longissimus Cervicis,attaches_to,C3,anatomy_textbook
+Longissimus Cervicis,attaches_to,C4,anatomy_textbook
+Longissimus Cervicis,attaches_to,C5,anatomy_textbook
+Longissimus Cervicis,attaches_to,C6,anatomy_textbook
+Longissimus Cervicis,innervated_by,Posterior Rami Spinal Nerves,anatomy_textbook
+Longissimus Cervicis,has_action,cervical_extension,anatomy_textbook
+Longissimus Capitis,attaches_to,T1,anatomy_textbook
+Longissimus Capitis,attaches_to,T2,anatomy_textbook
+Longissimus Capitis,attaches_to,T3,anatomy_textbook
+Longissimus Capitis,attaches_to,Temporal Bone,anatomy_textbook
+Longissimus Capitis,innervated_by,Posterior Rami Spinal Nerves,anatomy_textbook
+Longissimus Capitis,has_action,head_extension,anatomy_textbook
+Humerus,articulates_with,Scapula,anatomy_textbook
+Humerus,articulates_with,Radius,anatomy_textbook
+Humerus,articulates_with,Ulna,anatomy_textbook
+Humerus,part_of,upper_limb,anatomy_textbook
+Radius,articulates_with,Humerus,anatomy_textbook
+Radius,articulates_with,Ulna,anatomy_textbook
+Radius,part_of,upper_limb,anatomy_textbook
+Ulna,articulates_with,Humerus,anatomy_textbook
+Ulna,articulates_with,Radius,anatomy_textbook
+Ulna,part_of,upper_limb,anatomy_textbook
+Femur,articulates_with,Ilium,anatomy_textbook
+Femur,articulates_with,Tibia,anatomy_textbook
+Femur,articulates_with,Patella,anatomy_textbook
+Femur,part_of,lower_limb,anatomy_textbook
+Tibia,articulates_with,Femur,anatomy_textbook
+Tibia,articulates_with,Fibula,anatomy_textbook
+Tibia,articulates_with,Calcaneus,anatomy_textbook
+Tibia,part_of,lower_limb,anatomy_textbook
+Fibula,articulates_with,Tibia,anatomy_textbook
+Fibula,part_of,lower_limb,anatomy_textbook
+Scapula,articulates_with,Humerus,anatomy_textbook
+Scapula,articulates_with,Clavicle,anatomy_textbook
+Scapula,part_of,upper_limb,anatomy_textbook
+Clavicle,articulates_with,Scapula,anatomy_textbook
+Clavicle,articulates_with,Sternum,anatomy_textbook
+Clavicle,part_of,upper_limb,anatomy_textbook
+Sternum,articulates_with,Clavicle,anatomy_textbook
+Sternum,articulates_with,Ribs 1,anatomy_textbook
+Sternum,articulates_with,Ribs 2,anatomy_textbook
+Sternum,articulates_with,Ribs 3,anatomy_textbook
+Sternum,articulates_with,Ribs 4,anatomy_textbook
+Sternum,articulates_with,Ribs 5,anatomy_textbook
+Sternum,articulates_with,Ribs 6,anatomy_textbook
+Sternum,articulates_with,Ribs 7,anatomy_textbook
+Sternum,part_of,trunk,anatomy_textbook
+Ilium,articulates_with,Sacrum,anatomy_textbook
+Ilium,articulates_with,Femur,anatomy_textbook
+Ilium,part_of,lower_limb,anatomy_textbook
+Sacrum,articulates_with,Ilium,anatomy_textbook
+Sacrum,articulates_with,L5,anatomy_textbook
+Sacrum,articulates_with,Coccyx,anatomy_textbook
+Sacrum,part_of,trunk,anatomy_textbook
+Occipital Bone,articulates_with,C1 (Atlas),anatomy_textbook
+Occipital Bone,part_of,head,anatomy_textbook
+C1 (Atlas),articulates_with,Occipital Bone,anatomy_textbook
+C1 (Atlas),articulates_with,C2 (Axis),anatomy_textbook
+C1 (Atlas),part_of,neck,anatomy_textbook
+C2 (Axis),articulates_with,C1 (Atlas),anatomy_textbook
+C2 (Axis),articulates_with,C3,anatomy_textbook
+C2 (Axis),part_of,neck,anatomy_textbook
+Mandible,articulates_with,Temporal Bone,anatomy_textbook
+Mandible,part_of,head,anatomy_textbook
+Patella,articulates_with,Femur,anatomy_textbook
+Patella,part_of,lower_limb,anatomy_textbook
+Calcaneus,articulates_with,Tibia,anatomy_textbook
+Calcaneus,articulates_with,Cuboid,anatomy_textbook
+Calcaneus,articulates_with,Navicular,anatomy_textbook
+Calcaneus,part_of,lower_limb,anatomy_textbook
+Ischium,articulates_with,Ilium,anatomy_textbook
+Ischium,articulates_with,Pubis,anatomy_textbook
+Ischium,part_of,lower_limb,anatomy_textbook
+Pubis,articulates_with,Ischium,anatomy_textbook
+Pubis,articulates_with,Ilium,anatomy_textbook
+Pubis,part_of,lower_limb,anatomy_textbook
+Musculocutaneous Nerve,spinal_level,C5,anatomy_textbook
+Musculocutaneous Nerve,spinal_level,C6,anatomy_textbook
+Musculocutaneous Nerve,spinal_level,C7,anatomy_textbook
+Radial Nerve,spinal_level,C5,anatomy_textbook
+Radial Nerve,spinal_level,C6,anatomy_textbook
+Radial Nerve,spinal_level,C7,anatomy_textbook
+Radial Nerve,spinal_level,C8,anatomy_textbook
+Radial Nerve,spinal_level,T1,anatomy_textbook
+Median Nerve,spinal_level,C6,anatomy_textbook
+Median Nerve,spinal_level,C7,anatomy_textbook
+Median Nerve,spinal_level,C8,anatomy_textbook
+Median Nerve,spinal_level,T1,anatomy_textbook
+Ulnar Nerve,spinal_level,C8,anatomy_textbook
+Ulnar Nerve,spinal_level,T1,anatomy_textbook
+Axillary Nerve,spinal_level,C5,anatomy_textbook
+Axillary Nerve,spinal_level,C6,anatomy_textbook
+Femoral Nerve,spinal_level,L2,anatomy_textbook
+Femoral Nerve,spinal_level,L3,anatomy_textbook
+Femoral Nerve,spinal_level,L4,anatomy_textbook
+Obturator Nerve,spinal_level,L2,anatomy_textbook
+Obturator Nerve,spinal_level,L3,anatomy_textbook
+Obturator Nerve,spinal_level,L4,anatomy_textbook
+Sciatic Nerve,spinal_level,L4,anatomy_textbook
+Sciatic Nerve,spinal_level,L5,anatomy_textbook
+Sciatic Nerve,spinal_level,S1,anatomy_textbook
+Sciatic Nerve,spinal_level,S2,anatomy_textbook
+Sciatic Nerve,spinal_level,S3,anatomy_textbook
+Tibial Nerve,spinal_level,L4,anatomy_textbook
+Tibial Nerve,spinal_level,L5,anatomy_textbook
+Tibial Nerve,spinal_level,S1,anatomy_textbook
+Tibial Nerve,spinal_level,S2,anatomy_textbook
+Tibial Nerve,spinal_level,S3,anatomy_textbook
+Deep Peroneal Nerve,spinal_level,L4,anatomy_textbook
+Deep Peroneal Nerve,spinal_level,L5,anatomy_textbook
+Deep Peroneal Nerve,spinal_level,S1,anatomy_textbook
+Superficial Peroneal Nerve,spinal_level,L5,anatomy_textbook
+Superficial Peroneal Nerve,spinal_level,S1,anatomy_textbook
+Phrenic Nerve,spinal_level,C3,anatomy_textbook
+Phrenic Nerve,spinal_level,C4,anatomy_textbook
+Phrenic Nerve,spinal_level,C5,anatomy_textbook
+Superior Gluteal Nerve,spinal_level,L4,anatomy_textbook
+Superior Gluteal Nerve,spinal_level,L5,anatomy_textbook
+Superior Gluteal Nerve,spinal_level,S1,anatomy_textbook
+Inferior Gluteal Nerve,spinal_level,L5,anatomy_textbook
+Inferior Gluteal Nerve,spinal_level,S1,anatomy_textbook
+Inferior Gluteal Nerve,spinal_level,S2,anatomy_textbook
+Accessory Nerve (XI),spinal_level,C3,anatomy_textbook
+Accessory Nerve (XI),spinal_level,C4,anatomy_textbook
+Long Thoracic Nerve,spinal_level,C5,anatomy_textbook
+Long Thoracic Nerve,spinal_level,C6,anatomy_textbook
+Long Thoracic Nerve,spinal_level,C7,anatomy_textbook
+Thoracodorsal Nerve,spinal_level,C6,anatomy_textbook
+Thoracodorsal Nerve,spinal_level,C7,anatomy_textbook
+Thoracodorsal Nerve,spinal_level,C8,anatomy_textbook
+Dorsal Scapular Nerve,spinal_level,C4,anatomy_textbook
+Dorsal Scapular Nerve,spinal_level,C5,anatomy_textbook
+Suprascapular Nerve,spinal_level,C5,anatomy_textbook
+Suprascapular Nerve,spinal_level,C6,anatomy_textbook
+Medial Plantar Nerve,spinal_level,S1,anatomy_textbook
+Medial Plantar Nerve,spinal_level,S2,anatomy_textbook
+Lateral Plantar Nerve,spinal_level,S1,anatomy_textbook
+Lateral Plantar Nerve,spinal_level,S2,anatomy_textbook
+Lateral Plantar Nerve,spinal_level,S3,anatomy_textbook
+External intercostal 1,attaches_to,Ribs 1,anatomy_textbook
+External intercostal 1,attaches_to,Ribs 2,anatomy_textbook
+External intercostal 1,innervated_by,Intercostal Nerve T1,anatomy_textbook
+External intercostal 1,has_action,rib_elevation,anatomy_textbook
+External intercostal 2,attaches_to,Ribs 2,anatomy_textbook
+External intercostal 2,attaches_to,Ribs 3,anatomy_textbook
+External intercostal 2,innervated_by,Intercostal Nerve T2,anatomy_textbook
+External intercostal 2,has_action,rib_elevation,anatomy_textbook
+External intercostal 3,attaches_to,Ribs 3,anatomy_textbook
+External intercostal 3,attaches_to,Ribs 4,anatomy_textbook
+External intercostal 3,innervated_by,Intercostal Nerve T3,anatomy_textbook
+External intercostal 3,has_action,rib_elevation,anatomy_textbook
+External intercostal 4,attaches_to,Ribs 4,anatomy_textbook
+External intercostal 4,attaches_to,Ribs 5,anatomy_textbook
+External intercostal 4,innervated_by,Intercostal Nerve T4,anatomy_textbook
+External intercostal 4,has_action,rib_elevation,anatomy_textbook
+External intercostal 5,attaches_to,Ribs 5,anatomy_textbook
+External intercostal 5,attaches_to,Ribs 6,anatomy_textbook
+External intercostal 5,innervated_by,Intercostal Nerve T5,anatomy_textbook
+External intercostal 5,has_action,rib_elevation,anatomy_textbook
+External intercostal 6,attaches_to,Ribs 6,anatomy_textbook
+External intercostal 6,attaches_to,Ribs 7,anatomy_textbook
+External intercostal 6,innervated_by,Intercostal Nerve T6,anatomy_textbook
+External intercostal 6,has_action,rib_elevation,anatomy_textbook
+External intercostal 7,attaches_to,Ribs 7,anatomy_textbook
+External intercostal 7,attaches_to,Ribs 8,anatomy_textbook
+External intercostal 7,innervated_by,Intercostal Nerve T7,anatomy_textbook
+External intercostal 7,has_action,rib_elevation,anatomy_textbook
+External intercostal 8,attaches_to,Ribs 8,anatomy_textbook
+External intercostal 8,attaches_to,Ribs 9,anatomy_textbook
+External intercostal 8,innervated_by,Intercostal Nerve T8,anatomy_textbook
+External intercostal 8,has_action,rib_elevation,anatomy_textbook
+External intercostal 9,attaches_to,Ribs 9,anatomy_textbook
+External intercostal 9,attaches_to,Ribs 10,anatomy_textbook
+External intercostal 9,innervated_by,Intercostal Nerve T9,anatomy_textbook
+External intercostal 9,has_action,rib_elevation,anatomy_textbook
+External intercostal 10,attaches_to,Ribs 10,anatomy_textbook
+External intercostal 10,attaches_to,Ribs 11,anatomy_textbook
+External intercostal 10,innervated_by,Intercostal Nerve T10,anatomy_textbook
+External intercostal 10,has_action,rib_elevation,anatomy_textbook
+External intercostal 11,attaches_to,Ribs 11,anatomy_textbook
+External intercostal 11,attaches_to,Ribs 12,anatomy_textbook
+External intercostal 11,innervated_by,Intercostal Nerve T11,anatomy_textbook
+External intercostal 11,has_action,rib_elevation,anatomy_textbook
+Internal intercostal 1,attaches_to,Ribs 1,anatomy_textbook
+Internal intercostal 1,attaches_to,Ribs 2,anatomy_textbook
+Internal intercostal 1,innervated_by,Intercostal Nerve T1,anatomy_textbook
+Internal intercostal 1,has_action,rib_depression,anatomy_textbook
+Internal intercostal 2,attaches_to,Ribs 2,anatomy_textbook
+Internal intercostal 2,attaches_to,Ribs 3,anatomy_textbook
+Internal intercostal 2,innervated_by,Intercostal Nerve T2,anatomy_textbook
+Internal intercostal 2,has_action,rib_depression,anatomy_textbook
+Internal intercostal 3,attaches_to,Ribs 3,anatomy_textbook
+Internal intercostal 3,attaches_to,Ribs 4,anatomy_textbook
+Internal intercostal 3,innervated_by,Intercostal Nerve T3,anatomy_textbook
+Internal intercostal 3,has_action,rib_depression,anatomy_textbook
+Internal intercostal 4,attaches_to,Ribs 4,anatomy_textbook
+Internal intercostal 4,attaches_to,Ribs 5,anatomy_textbook
+Internal intercostal 4,innervated_by,Intercostal Nerve T4,anatomy_textbook
+Internal intercostal 4,has_action,rib_depression,anatomy_textbook
+Internal intercostal 5,attaches_to,Ribs 5,anatomy_textbook
+Internal intercostal 5,attaches_to,Ribs 6,anatomy_textbook
+Internal intercostal 5,innervated_by,Intercostal Nerve T5,anatomy_textbook
+Internal intercostal 5,has_action,rib_depression,anatomy_textbook
+Internal intercostal 6,attaches_to,Ribs 6,anatomy_textbook
+Internal intercostal 6,attaches_to,Ribs 7,anatomy_textbook
+Internal intercostal 6,innervated_by,Intercostal Nerve T6,anatomy_textbook
+Internal intercostal 6,has_action,rib_depression,anatomy_textbook
+Internal intercostal 7,attaches_to,Ribs 7,anatomy_textbook
+Internal intercostal 7,attaches_to,Ribs 8,anatomy_textbook
+Internal intercostal 7,innervated_by,Intercostal Nerve T7,anatomy_textbook
+Internal intercostal 7,has_action,rib_depression,anatomy_textbook
+Internal intercostal 8,attaches_to,Ribs 8,anatomy_textbook
+Internal intercostal 8,attaches_to,Ribs 9,anatomy_textbook
+Internal intercostal 8,innervated_by,Intercostal Nerve T8,anatomy_textbook
+Internal intercostal 8,has_action,rib_depression,anatomy_textbook
+Internal intercostal 9,attaches_to,Ribs 9,anatomy_textbook
+Internal intercostal 9,attaches_to,Ribs 10,anatomy_textbook
+Internal intercostal 9,innervated_by,Intercostal Nerve T9,anatomy_textbook
+Internal intercostal 9,has_action,rib_depression,anatomy_textbook
+Internal intercostal 10,attaches_to,Ribs 10,anatomy_textbook
+Internal intercostal 10,attaches_to,Ribs 11,anatomy_textbook
+Internal intercostal 10,innervated_by,Intercostal Nerve T10,anatomy_textbook
+Internal intercostal 10,has_action,rib_depression,anatomy_textbook
+Internal intercostal 11,attaches_to,Ribs 11,anatomy_textbook
+Internal intercostal 11,attaches_to,Ribs 12,anatomy_textbook
+Internal intercostal 11,innervated_by,Intercostal Nerve T11,anatomy_textbook
+Internal intercostal 11,has_action,rib_depression,anatomy_textbook
+Innermost intercostal 1,attaches_to,Ribs 1,anatomy_textbook
+Innermost intercostal 1,attaches_to,Ribs 2,anatomy_textbook
+Innermost intercostal 1,innervated_by,Intercostal Nerve T1,anatomy_textbook
+Innermost intercostal 1,has_action,rib_depression,anatomy_textbook
+Innermost intercostal 2,attaches_to,Ribs 2,anatomy_textbook
+Innermost intercostal 2,attaches_to,Ribs 3,anatomy_textbook
+Innermost intercostal 2,innervated_by,Intercostal Nerve T2,anatomy_textbook
+Innermost intercostal 2,has_action,rib_depression,anatomy_textbook
+Innermost intercostal 3,attaches_to,Ribs 3,anatomy_textbook
+Innermost intercostal 3,attaches_to,Ribs 4,anatomy_textbook
+Innermost intercostal 3,innervated_by,Intercostal Nerve T3,anatomy_textbook
+Innermost intercostal 3,has_action,rib_depression,anatomy_textbook
+Innermost intercostal 4,attaches_to,Ribs 4,anatomy_textbook
+Innermost intercostal 4,attaches_to,Ribs 5,anatomy_textbook
+Innermost intercostal 4,innervated_by,Intercostal Nerve T4,anatomy_textbook
+Innermost intercostal 4,has_action,rib_depression,anatomy_textbook
+Innermost intercostal 5,attaches_to,Ribs 5,anatomy_textbook
+Innermost intercostal 5,attaches_to,Ribs 6,anatomy_textbook
+Innermost intercostal 5,innervated_by,Intercostal Nerve T5,anatomy_textbook
+Innermost intercostal 5,has_action,rib_depression,anatomy_textbook
+Innermost intercostal 6,attaches_to,Ribs 6,anatomy_textbook
+Innermost intercostal 6,attaches_to,Ribs 7,anatomy_textbook
+Innermost intercostal 6,innervated_by,Intercostal Nerve T6,anatomy_textbook
+Innermost intercostal 6,has_action,rib_depression,anatomy_textbook
+Innermost intercostal 7,attaches_to,Ribs 7,anatomy_textbook
+Innermost intercostal 7,attaches_to,Ribs 8,anatomy_textbook
+Innermost intercostal 7,innervated_by,Intercostal Nerve T7,anatomy_textbook
+Innermost intercostal 7,has_action,rib_depression,anatomy_textbook
+Innermost intercostal 8,attaches_to,Ribs 8,anatomy_textbook
+Innermost intercostal 8,attaches_to,Ribs 9,anatomy_textbook
+Innermost intercostal 8,innervated_by,Intercostal Nerve T8,anatomy_textbook
+Innermost intercostal 8,has_action,rib_depression,anatomy_textbook
+Innermost intercostal 9,attaches_to,Ribs 9,anatomy_textbook
+Innermost intercostal 9,attaches_to,Ribs 10,anatomy_textbook
+Innermost intercostal 9,innervated_by,Intercostal Nerve T9,anatomy_textbook
+Innermost intercostal 9,has_action,rib_depression,anatomy_textbook
+Innermost intercostal 10,attaches_to,Ribs 10,anatomy_textbook
+Innermost intercostal 10,attaches_to,Ribs 11,anatomy_textbook
+Innermost intercostal 10,innervated_by,Intercostal Nerve T10,anatomy_textbook
+Innermost intercostal 10,has_action,rib_depression,anatomy_textbook
+Innermost intercostal 11,attaches_to,Ribs 11,anatomy_textbook
+Innermost intercostal 11,attaches_to,Ribs 12,anatomy_textbook
+Innermost intercostal 11,innervated_by,Intercostal Nerve T11,anatomy_textbook
+Innermost intercostal 11,has_action,rib_depression,anatomy_textbook
+Ribs 1,articulates_with,T1,anatomy_textbook
+Ribs 1,articulates_with,Sternum,anatomy_textbook
+Ribs 1,part_of,trunk,anatomy_textbook
+Ribs 2,articulates_with,T2,anatomy_textbook
+Ribs 2,articulates_with,Sternum,anatomy_textbook
+Ribs 2,part_of,trunk,anatomy_textbook
+Ribs 3,articulates_with,T3,anatomy_textbook
+Ribs 3,articulates_with,Sternum,anatomy_textbook
+Ribs 3,part_of,trunk,anatomy_textbook
+Ribs 4,articulates_with,T4,anatomy_textbook
+Ribs 4,articulates_with,Sternum,anatomy_textbook
+Ribs 4,part_of,trunk,anatomy_textbook
+Ribs 5,articulates_with,T5,anatomy_textbook
+Ribs 5,articulates_with,Sternum,anatomy_textbook
+Ribs 5,part_of,trunk,anatomy_textbook
+Ribs 6,articulates_with,T6,anatomy_textbook
+Ribs 6,articulates_with,Sternum,anatomy_textbook
+Ribs 6,part_of,trunk,anatomy_textbook
+Ribs 7,articulates_with,T7,anatomy_textbook
+Ribs 7,articulates_with,Sternum,anatomy_textbook
+Ribs 7,part_of,trunk,anatomy_textbook
+Ribs 8,articulates_with,T8,anatomy_textbook
+Ribs 8,part_of,trunk,anatomy_textbook
+Ribs 9,articulates_with,T9,anatomy_textbook
+Ribs 9,part_of,trunk,anatomy_textbook
+Ribs 10,articulates_with,T10,anatomy_textbook
+Ribs 10,part_of,trunk,anatomy_textbook
+Ribs 11,articulates_with,T11,anatomy_textbook
+Ribs 11,part_of,trunk,anatomy_textbook
+Ribs 12,articulates_with,T12,anatomy_textbook
+Ribs 12,part_of,trunk,anatomy_textbook
+Frontal Bone,part_of,head,anatomy_textbook
+Temporal Bone,part_of,head,anatomy_textbook
+Sphenoid,part_of,head,anatomy_textbook
+Zygomatic Bone,part_of,head,anatomy_textbook
+Maxilla,part_of,head,anatomy_textbook
+Lacrimal Bone,part_of,head,anatomy_textbook
+Palatine bone,part_of,head,anatomy_textbook
+Hyoid Bone,part_of,neck,anatomy_textbook
+Navicular,part_of,lower_limb,anatomy_textbook
+Cuboid,part_of,lower_limb,anatomy_textbook
+Metatarsal 1,part_of,lower_limb,anatomy_textbook
+Metatarsal 2,part_of,lower_limb,anatomy_textbook
+Metatarsal 3,part_of,lower_limb,anatomy_textbook
+Metatarsal 4,part_of,lower_limb,anatomy_textbook
+Metatarsal 5,part_of,lower_limb,anatomy_textbook
+Pisiform,part_of,upper_limb,anatomy_textbook
+Hamate,part_of,upper_limb,anatomy_textbook
+Trapezium,part_of,upper_limb,anatomy_textbook
+Trapezoid,part_of,upper_limb,anatomy_textbook
+Capitate,part_of,upper_limb,anatomy_textbook
+Palmaris Brevis,attaches_to,Hand Flexor Retinaculum,anatomy_textbook
+Palmaris Brevis,attaches_to,Palmar Aponeurosis,anatomy_textbook
+Palmaris Brevis,innervated_by,Ulnar Nerve,anatomy_textbook
+Palmaris Brevis,has_action,palmar_skin_wrinkling,anatomy_textbook
+Abductor Digiti Minimi,attaches_to,Pisiform,anatomy_textbook
+Abductor Digiti Minimi,attaches_to,Hand Proximal Phalanx 5,anatomy_textbook
+Abductor Digiti Minimi,innervated_by,Ulnar Nerve,anatomy_textbook
+Abductor Digiti Minimi,has_action,little_finger_abduction,anatomy_textbook
+Flexor Digiti Minimi Brevis,attaches_to,Hamate,anatomy_textbook
+Flexor Digiti Minimi Brevis,attaches_to,Hand Flexor Retinaculum,anatomy_textbook
+Flexor Digiti Minimi Brevis,attaches_to,Hand Proximal Phalanx 5,anatomy_textbook
+Flexor Digiti Minimi Brevis,innervated_by,Ulnar Nerve,anatomy_textbook
+Flexor Digiti Minimi Brevis,has_action,little_finger_flexion,anatomy_textbook
+Opponens Digiti Minimi,attaches_to,Hamate,anatomy_textbook
+Opponens Digiti Minimi,attaches_to,Hand Flexor Retinaculum,anatomy_textbook
+Opponens Digiti Minimi,attaches_to,Hand Metacarpal 5,anatomy_textbook
+Opponens Digiti Minimi,innervated_by,Ulnar Nerve,anatomy_textbook
+Opponens Digiti Minimi,has_action,little_finger_opposition,anatomy_textbook
+Palmar Interossei 1,attaches_to,Hand Metacarpal 2,anatomy_textbook
+Palmar Interossei 1,attaches_to,Hand Proximal Phalanx 2,anatomy_textbook
+Palmar Interossei 1,innervated_by,Ulnar Nerve,anatomy_textbook
+Palmar Interossei 1,has_action,finger_adduction,anatomy_textbook
+Palmar Interossei 2,attaches_to,Hand Metacarpal 4,anatomy_textbook
+Palmar Interossei 2,attaches_to,Hand Proximal Phalanx 4,anatomy_textbook
+Palmar Interossei 2,innervated_by,Ulnar Nerve,anatomy_textbook
+Palmar Interossei 2,has_action,finger_adduction,anatomy_textbook
+Palmar Interossei  3,attaches_to,Hand Metacarpal 5,anatomy_textbook
+Palmar Interossei  3,attaches_to,Hand Proximal Phalanx 5,anatomy_textbook
+Palmar Interossei  3,innervated_by,Ulnar Nerve,anatomy_textbook
+Palmar Interossei  3,has_action,finger_adduction,anatomy_textbook
+Dorsal Interossei 1,attaches_to,Hand Metacarpal 1,anatomy_textbook
+Dorsal Interossei 1,attaches_to,Hand Metacarpal 2,anatomy_textbook
+Dorsal Interossei 1,attaches_to,Hand Proximal Phalanx 2,anatomy_textbook
+Dorsal Interossei 1,innervated_by,Ulnar Nerve,anatomy_textbook
+Dorsal Interossei 1,has_action,finger_abduction,anatomy_textbook
+Dorsal Interossei 2,attaches_to,Hand Metacarpal 2,anatomy_textbook
+Dorsal Interossei 2,attaches_to,Hand Metacarpal 3,anatomy_textbook
+Dorsal Interossei 2,attaches_to,Hand Proximal Phalanx 3,anatomy_textbook
+Dorsal Interossei 2,innervated_by,Ulnar Nerve,anatomy_textbook
+Dorsal Interossei 2,has_action,finger_abduction,anatomy_textbook
+Dorsal Interossei 3,attaches_to,Hand Metacarpal 3,anatomy_textbook
+Dorsal Interossei 3,attaches_to,Hand Metacarpal 4,anatomy_textbook
+Dorsal Interossei 3,attaches_to,Hand Proximal Phalanx 4,anatomy_textbook
+Dorsal Interossei 3,innervated_by,Ulnar Nerve,anatomy_textbook
+Dorsal Interossei 3,has_action,finger_abduction,anatomy_textbook
+Dorsal Interossei 4,attaches_to,Hand Metacarpal 4,anatomy_textbook
+Dorsal Interossei 4,attaches_to,Hand Metacarpal 5,anatomy_textbook
+Dorsal Interossei 4,attaches_to,Hand Proximal Phalanx 5,anatomy_textbook
+Dorsal Interossei 4,innervated_by,Ulnar Nerve,anatomy_textbook
+Dorsal Interossei 4,has_action,finger_abduction,anatomy_textbook
+Lumbrical 1,attaches_to,Flexor Digitorum Profundus Tendon,anatomy_textbook
+Lumbrical 1,attaches_to,Hand Extensor Hood 2,anatomy_textbook
+Lumbrical 1,innervated_by,Median Nerve,anatomy_textbook
+Lumbrical 1,has_action,MCP_flexion,anatomy_textbook
+Lumbrical 2,attaches_to,Flexor Digitorum Profundus Tendon,anatomy_textbook
+Lumbrical 2,attaches_to,Hand Extensor Hood 3,anatomy_textbook
+Lumbrical 2,innervated_by,Median Nerve,anatomy_textbook
+Lumbrical 2,has_action,MCP_flexion,anatomy_textbook
+Lumbrical 3,attaches_to,Flexor Digitorum Profundus Tendon,anatomy_textbook
+Lumbrical 3,attaches_to,Hand Extensor Hood 4,anatomy_textbook
+Lumbrical 3,innervated_by,Ulnar Nerve,anatomy_textbook
+Lumbrical 3,has_action,MCP_flexion,anatomy_textbook
+Lumbrical 4,attaches_to,Flexor Digitorum Profundus Tendon,anatomy_textbook
+Lumbrical 4,attaches_to,Hand Extensor Hood 5,anatomy_textbook
+Lumbrical 4,innervated_by,Ulnar Nerve,anatomy_textbook
+Lumbrical 4,has_action,MCP_flexion,anatomy_textbook
+Plantar Interossei 1,attaches_to,Metatarsal 3,anatomy_textbook
+Plantar Interossei 1,attaches_to,Foot Proximal Phalanx 3,anatomy_textbook
+Plantar Interossei 1,innervated_by,Lateral Plantar Nerve,anatomy_textbook
+Plantar Interossei 1,has_action,toe_adduction,anatomy_textbook
+Plantar Interossei 2,attaches_to,Metatarsal 4,anatomy_textbook
+Plantar Interossei 2,attaches_to,Foot Proximal Phalanx 4,anatomy_textbook
+Plantar Interossei 2,innervated_by,Lateral Plantar Nerve,anatomy_textbook
+Plantar Interossei 2,has_action,toe_adduction,anatomy_textbook
+Plantar Interossei 3,attaches_to,Metatarsal 5,anatomy_textbook
+Plantar Interossei 3,attaches_to,Foot Proximal Phalanx 5,anatomy_textbook
+Plantar Interossei 3,innervated_by,Lateral Plantar Nerve,anatomy_textbook
+Plantar Interossei 3,has_action,toe_adduction,anatomy_textbook
+Dorsal Interossei 1,attaches_to,Metatarsal 1,anatomy_textbook
+Dorsal Interossei 1,attaches_to,Metatarsal 2,anatomy_textbook
+Dorsal Interossei 1,attaches_to,Foot Proximal Phalanx 2,anatomy_textbook
+Dorsal Interossei 2,attaches_to,Metatarsal 2,anatomy_textbook
+Dorsal Interossei 2,attaches_to,Metatarsal 3,anatomy_textbook
+Dorsal Interossei 2,attaches_to,Foot Proximal Phalanx 3,anatomy_textbook
+Dorsal Interossei 3,attaches_to,Metatarsal 3,anatomy_textbook
+Dorsal Interossei 3,attaches_to,Metatarsal 4,anatomy_textbook
+Dorsal Interossei 3,attaches_to,Foot Proximal Phalanx 4,anatomy_textbook
+Dorsal Interossei 4,attaches_to,Metatarsal 4,anatomy_textbook
+Dorsal Interossei 4,attaches_to,Metatarsal 5,anatomy_textbook
+Dorsal Interossei 4,attaches_to,Foot Proximal Phalanx 5,anatomy_textbook
+Lumbrical 1,attaches_to,Flexor Digitorum Longus Tendon,anatomy_textbook
+Lumbrical 1,attaches_to,Foot Proximal Phalanx 2,anatomy_textbook
+Lumbrical 1,innervated_by,Medial Plantar Nerve,anatomy_textbook
+Lumbrical 2,attaches_to,Flexor Digitorum Longus Tendon,anatomy_textbook
+Lumbrical 2,attaches_to,Foot Proximal Phalanx 3,anatomy_textbook
+Lumbrical 2,innervated_by,Lateral Plantar Nerve,anatomy_textbook
+Lumbrical 3,attaches_to,Flexor Digitorum Longus Tendon,anatomy_textbook
+Lumbrical 3,attaches_to,Foot Proximal Phalanx 4,anatomy_textbook
+Lumbrical 3,innervated_by,Lateral Plantar Nerve,anatomy_textbook
+Lumbrical 4,attaches_to,Flexor Digitorum Longus Tendon,anatomy_textbook
+Lumbrical 4,attaches_to,Foot Proximal Phalanx 5,anatomy_textbook
+Lumbrical 4,innervated_by,Lateral Plantar Nerve,anatomy_textbook
+Flexor Digiti Minimi Brevis,attaches_to,Metatarsal 5,anatomy_textbook
+Flexor Digiti Minimi Brevis,attaches_to,Foot Proximal Phalanx 5,anatomy_textbook
+Flexor Digiti Minimi Brevis,innervated_by,Lateral Plantar Nerve,anatomy_textbook
+Flexor Digiti Minimi Brevis,has_action,little_toe_flexion,anatomy_textbook
+Abductor Digiti Minimi,attaches_to,Calcaneus,anatomy_textbook
+Abductor Digiti Minimi,attaches_to,Foot Proximal Phalanx 5,anatomy_textbook
+Abductor Digiti Minimi,innervated_by,Lateral Plantar Nerve,anatomy_textbook
+Abductor Digiti Minimi,has_action,little_toe_abduction,anatomy_textbook
+Obliquus Capitis Inferior,attaches_to,C1 (Atlas),anatomy_textbook
+Obliquus Capitis Inferior,attaches_to,C2 (Axis),anatomy_textbook
+Obliquus Capitis Inferior,innervated_by,Suboccipital Nerve,anatomy_textbook
+Obliquus Capitis Inferior,has_action,head_rotation,anatomy_textbook
+Obliquus Capitis Superior,attaches_to,C1 (Atlas),anatomy_textbook
+Obliquus Capitis Superior,attaches_to,Occipital Bone,anatomy_textbook
+Obliquus Capitis Superior,innervated_by,Suboccipital Nerve,anatomy_textbook
+Obliquus Capitis Superior,has_action,head_extension,anatomy_textbook
+Rectus Capitis Posterior Major,attaches_to,C2 (Axis),anatomy_textbook
+Rectus Capitis Posterior Major,attaches_to,Occipital Bone,anatomy_textbook
+Rectus Capitis Posterior Major,innervated_by,Suboccipital Nerve,anatomy_textbook
+Rectus Capitis Posterior Major,has_action,head_extension,anatomy_textbook
+Rectus Capitis Posterior Minor,attaches_to,C1 (Atlas),anatomy_textbook
+Rectus Capitis Posterior Minor,attaches_to,Occipital Bone,anatomy_textbook
+Rectus Capitis Posterior Minor,innervated_by,Suboccipital Nerve,anatomy_textbook
+Rectus Capitis Posterior Minor,has_action,head_extension,anatomy_textbook
+Longus Capitis,attaches_to,C3,anatomy_textbook
+Longus Capitis,attaches_to,C4,anatomy_textbook
+Longus Capitis,attaches_to,C5,anatomy_textbook
+Longus Capitis,attaches_to,C6,anatomy_textbook
+Longus Capitis,attaches_to,Occipital Bone,anatomy_textbook
+Longus Capitis,innervated_by,Anterior Rami Cervical Nerves,anatomy_textbook
+Longus Capitis,has_action,head_flexion,anatomy_textbook
+Rectus Capitis Anterior,attaches_to,C1 (Atlas),anatomy_textbook
+Rectus Capitis Anterior,attaches_to,Occipital Bone,anatomy_textbook
+Rectus Capitis Anterior,innervated_by,Anterior Rami Cervical Nerves,anatomy_textbook
+Rectus Capitis Anterior,has_action,head_flexion,anatomy_textbook
+Rectus Capitis Lateralis,attaches_to,C1 (Atlas),anatomy_textbook
+Rectus Capitis Lateralis,attaches_to,Occipital Bone,anatomy_textbook
+Rectus Capitis Lateralis,innervated_by,Anterior Rami Cervical Nerves,anatomy_textbook
+Rectus Capitis Lateralis,has_action,head_lateral_flexion,anatomy_textbook
+Scalene Minimus,attaches_to,C6,anatomy_textbook
+Scalene Minimus,attaches_to,C7,anatomy_textbook
+Scalene Minimus,attaches_to,Ribs 1,anatomy_textbook
+Scalene Minimus,innervated_by,Anterior Rami Cervical Nerves,anatomy_textbook
+Scalene Minimus,has_action,rib_elevation,anatomy_textbook
+Semispinalis Thoracis,attaches_to,T6,anatomy_textbook
+Semispinalis Thoracis,attaches_to,T7,anatomy_textbook
+Semispinalis Thoracis,attaches_to,T8,anatomy_textbook
+Semispinalis Thoracis,attaches_to,T9,anatomy_textbook
+Semispinalis Thoracis,attaches_to,T10,anatomy_textbook
+Semispinalis Thoracis,attaches_to,C6,anatomy_textbook
+Semispinalis Thoracis,attaches_to,C7,anatomy_textbook
+Semispinalis Thoracis,attaches_to,T1,anatomy_textbook
+Semispinalis Thoracis,attaches_to,T2,anatomy_textbook
+Semispinalis Thoracis,attaches_to,T3,anatomy_textbook
+Semispinalis Thoracis,attaches_to,T4,anatomy_textbook
+Semispinalis Thoracis,innervated_by,Posterior Rami Spinal Nerves,anatomy_textbook
+Semispinalis Thoracis,has_action,trunk_extension,anatomy_textbook
+Semispinalis Thoracis,has_action,trunk_rotation,anatomy_textbook
+Semispinalis Cervicis,attaches_to,T1,anatomy_textbook
+Semispinalis Cervicis,attaches_to,T2,anatomy_textbook
+Semispinalis Cervicis,attaches_to,T3,anatomy_textbook
+Semispinalis Cervicis,attaches_to,T4,anatomy_textbook
+Semispinalis Cervicis,attaches_to,T5,anatomy_textbook
+Semispinalis Cervicis,attaches_to,T6,anatomy_textbook
+Semispinalis Cervicis,attaches_to,C2 (Axis),anatomy_textbook
+Semispinalis Cervicis,attaches_to,C3,anatomy_textbook
+Semispinalis Cervicis,attaches_to,C4,anatomy_textbook
+Semispinalis Cervicis,attaches_to,C5,anatomy_textbook
+Semispinalis Cervicis,innervated_by,Posterior Rami Spinal Nerves,anatomy_textbook
+Semispinalis Cervicis,has_action,cervical_extension,anatomy_textbook
+Semispinalis Capitis,attaches_to,C4,anatomy_textbook
+Semispinalis Capitis,attaches_to,C5,anatomy_textbook
+Semispinalis Capitis,attaches_to,C6,anatomy_textbook
+Semispinalis Capitis,attaches_to,C7,anatomy_textbook
+Semispinalis Capitis,attaches_to,T1,anatomy_textbook
+Semispinalis Capitis,attaches_to,T2,anatomy_textbook
+Semispinalis Capitis,attaches_to,T3,anatomy_textbook
+Semispinalis Capitis,attaches_to,T4,anatomy_textbook
+Semispinalis Capitis,attaches_to,T5,anatomy_textbook
+Semispinalis Capitis,attaches_to,T6,anatomy_textbook
+Semispinalis Capitis,attaches_to,Occipital Bone,anatomy_textbook
+Semispinalis Capitis,innervated_by,Posterior Rami Spinal Nerves,anatomy_textbook
+Semispinalis Capitis,has_action,head_extension,anatomy_textbook
+Spinalis Thoracis,attaches_to,T11,anatomy_textbook
+Spinalis Thoracis,attaches_to,T12,anatomy_textbook
+Spinalis Thoracis,attaches_to,L1,anatomy_textbook
+Spinalis Thoracis,attaches_to,L2,anatomy_textbook
+Spinalis Thoracis,attaches_to,T4,anatomy_textbook
+Spinalis Thoracis,attaches_to,T5,anatomy_textbook
+Spinalis Thoracis,attaches_to,T6,anatomy_textbook
+Spinalis Thoracis,attaches_to,T7,anatomy_textbook
+Spinalis Thoracis,attaches_to,T8,anatomy_textbook
+Spinalis Thoracis,innervated_by,Posterior Rami Spinal Nerves,anatomy_textbook
+Spinalis Thoracis,has_action,trunk_extension,anatomy_textbook
+Spinalis Cervicis,attaches_to,C6,anatomy_textbook
+Spinalis Cervicis,attaches_to,C7,anatomy_textbook
+Spinalis Cervicis,attaches_to,C2 (Axis),anatomy_textbook
+Spinalis Cervicis,attaches_to,C3,anatomy_textbook
+Spinalis Cervicis,attaches_to,C4,anatomy_textbook
+Spinalis Cervicis,innervated_by,Posterior Rami Spinal Nerves,anatomy_textbook
+Spinalis Cervicis,has_action,cervical_extension,anatomy_textbook
+Spinalis Capitis,attaches_to,C7,anatomy_textbook
+Spinalis Capitis,attaches_to,T1,anatomy_textbook
+Spinalis Capitis,attaches_to,Occipital Bone,anatomy_textbook
+Spinalis Capitis,innervated_by,Posterior Rami Spinal Nerves,anatomy_textbook
+Spinalis Capitis,has_action,head_extension,anatomy_textbook
+Subcostalis 1,attaches_to,Ribs 1,anatomy_textbook
+Subcostalis 1,attaches_to,Ribs 3,anatomy_textbook
+Subcostalis 1,innervated_by,Intercostal Nerves,anatomy_textbook
+Subcostalis 1,has_action,rib_depression,anatomy_textbook
+Subcostalis 2,attaches_to,Ribs 2,anatomy_textbook
+Subcostalis 2,attaches_to,Ribs 4,anatomy_textbook
+Subcostalis 2,innervated_by,Intercostal Nerves,anatomy_textbook
+Subcostalis 2,has_action,rib_depression,anatomy_textbook
+Subcostalis 3,attaches_to,Ribs 3,anatomy_textbook
+Subcostalis 3,attaches_to,Ribs 5,anatomy_textbook
+Subcostalis 3,innervated_by,Intercostal Nerves,anatomy_textbook
+Subcostalis 3,has_action,rib_depression,anatomy_textbook
+Subcostalis 4,attaches_to,Ribs 4,anatomy_textbook
+Subcostalis 4,attaches_to,Ribs 6,anatomy_textbook
+Subcostalis 4,innervated_by,Intercostal Nerves,anatomy_textbook
+Subcostalis 4,has_action,rib_depression,anatomy_textbook
+Subcostalis 6,attaches_to,Ribs 6,anatomy_textbook
+Subcostalis 6,attaches_to,Ribs 8,anatomy_textbook
+Subcostalis 6,innervated_by,Intercostal Nerves,anatomy_textbook
+Subcostalis 6,has_action,rib_depression,anatomy_textbook
+Gastrocnemius,synergist_of,Plantaris,anatomy_textbook
+Tibialis Anterior,synergist_of,Extensor Hallucis Longus,anatomy_textbook
+Tibialis Anterior,synergist_of,Extensor Digitorum Longus,anatomy_textbook
+Peroneus Longus,antagonist_of,Tibialis Posterior,anatomy_textbook
+Tibialis Posterior,synergist_of,Tibialis Anterior,anatomy_textbook
+Flexor Digitorum Longus,synergist_of,Flexor Hallucis Longus,anatomy_textbook
+Flexor Hallucis Longus,synergist_of,Flexor Digitorum Longus,anatomy_textbook
+Extensor Digitorum Longus,synergist_of,Extensor Hallucis Longus,anatomy_textbook
+Extensor Hallucis Longus,synergist_of,Extensor Digitorum Longus,anatomy_textbook
+Extensor Digitorum Longus,antagonist_of,Flexor Digitorum Longus,anatomy_textbook
+Extensor Hallucis Longus,antagonist_of,Flexor Hallucis Longus,anatomy_textbook
+Soleus,antagonist_of,Tibialis Anterior,anatomy_textbook
+Flexor Digitorum Superficialis,synergist_of,Flexor Digitorum Profundus,anatomy_textbook
+Flexor Digitorum Profundus,synergist_of,Flexor Digitorum Superficialis,anatomy_textbook
+Extensor Digitorum,synergist_of,Extensor Indicis,anatomy_textbook
+Extensor Digitorum,antagonist_of,Flexor Digitorum Profundus,anatomy_textbook
+Extensor Carpi Radialis Longus,synergist_of,Extensor Carpi Radialis Brevis,anatomy_textbook
+Extensor Carpi Radialis Brevis,synergist_of,Extensor Carpi Radialis Longus,anatomy_textbook
+Flexor Carpi Radialis,synergist_of,Palmaris Longus,anatomy_textbook
+Palmaris Longus,synergist_of,Flexor Carpi Radialis,anatomy_textbook
+Rectus Femoris,synergist_of,Sartorius,anatomy_textbook
+Sartorius,synergist_of,Rectus Femoris,anatomy_textbook
+Gracilis,synergist_of,Adductor Longus,anatomy_textbook
+Adductor Longus,synergist_of,Gracilis,anatomy_textbook
+Adductor Magnus,synergist_of,Gluteus Maximus,anatomy_textbook
+Gluteus Maximus,synergist_of,Biceps Femoris,anatomy_textbook
+Biceps Femoris,synergist_of,Semimembranosus,anatomy_textbook
+Semimembranosus,synergist_of,Biceps Femoris,anatomy_textbook
+Rectus Femoris,antagonist_of,Semimembranosus,anatomy_textbook
+Gluteus Maximus,antagonist_of,Iliacus,anatomy_textbook
+Gluteus Medius,antagonist_of,Adductor Longus,anatomy_textbook
+Gluteus Medius,antagonist_of,Adductor Brevis,anatomy_textbook
+Gluteus Medius,antagonist_of,Adductor Magnus,anatomy_textbook
+Pectoralis Major,synergist_of,Latissimus Dorsi,anatomy_textbook
+Pectoralis Major,synergist_of,Subscapularis,anatomy_textbook
+Deltoid,synergist_of,Coracobrachialis,anatomy_textbook
+Teres Major,antagonist_of,Deltoid,anatomy_textbook
+Teres Major,synergist_of,Subscapularis,anatomy_textbook
+Infraspinatus,antagonist_of,Subscapularis,anatomy_textbook
+Teres Minor,antagonist_of,Subscapularis,anatomy_textbook
+Pronator Teres,synergist_of,Pronator Quadratus,anatomy_textbook
+Pronator Quadratus,antagonist_of,Supinator,anatomy_textbook
+Supinator,synergist_of,Biceps Brachii,anatomy_textbook
+Brachialis,antagonist_of,Triceps Brachii,anatomy_textbook
+Brachioradialis,antagonist_of,Triceps Brachii,anatomy_textbook
+Masseter,synergist_of,Lateral Pterygoid,anatomy_textbook
+Digastric,antagonist_of,Masseter,anatomy_textbook
+Digastric,synergist_of,Mylohyoid,anatomy_textbook
+Mylohyoid,synergist_of,Geniohyoid,anatomy_textbook
+Sternohyoid,antagonist_of,Stylohyoid,anatomy_textbook
+Sternocleidomastoid,synergist_of,Anterior Scalene,anatomy_textbook
+Sternocleidomastoid,antagonist_of,Splenius Capitis,anatomy_textbook
+Diaphragm,antagonist_of,Rectus abdominis,anatomy_textbook
+Diaphragm,synergist_of,External intercostal 1,anatomy_textbook
+Rectus abdominis,synergist_of,External oblique,anatomy_textbook
+Rectus abdominis,synergist_of,Internal oblique,anatomy_textbook
+External oblique,antagonist_of,Iliocostalis Lumborum,anatomy_textbook
+Internal oblique,synergist_of,Transversus abdominis,anatomy_textbook
+Quadratus lumborum,synergist_of,Iliocostalis Lumborum,anatomy_textbook
+Multifidus,synergist_of,Longissimus Thoracis,anatomy_textbook
+Iliocostalis Lumborum,synergist_of,Longissimus Thoracis,anatomy_textbook
+Iliocostalis Thoracis,synergist_of,Longissimus Thoracis,anatomy_textbook
+Splenius Capitis,synergist_of,Semispinalis Capitis,anatomy_textbook
+Splenius Cervicis,synergist_of,Semispinalis Cervicis,anatomy_textbook
+Longus Colli,synergist_of,Longus Capitis,anatomy_textbook
+Longus Colli,antagonist_of,Splenius Cervicis,anatomy_textbook
+Anterior Scalene,synergist_of,Middle Scalene,anatomy_textbook
+Middle Scalene,synergist_of,Posterior Scalene,anatomy_textbook
+Lateral cricoarytenoid,synergist_of,Transversus arytenoid,anatomy_textbook
+Posterior cricoarytenoid,antagonist_of,Lateral cricoarytenoid,anatomy_textbook
+Cricothryoid,synergist_of,Vocalis,anatomy_textbook
+Thyroarytenoid,antagonist_of,Cricothryoid,anatomy_textbook
+C3,articulates_with,C2 (Axis),anatomy_textbook
+C3,articulates_with,C4,anatomy_textbook
+C3,part_of,neck,anatomy_textbook
+C4,articulates_with,C3,anatomy_textbook
+C4,articulates_with,C5,anatomy_textbook
+C4,part_of,neck,anatomy_textbook
+C5,articulates_with,C4,anatomy_textbook
+C5,articulates_with,C6,anatomy_textbook
+C5,part_of,neck,anatomy_textbook
+C6,articulates_with,C5,anatomy_textbook
+C6,articulates_with,C7,anatomy_textbook
+C6,part_of,neck,anatomy_textbook
+C7,articulates_with,C6,anatomy_textbook
+C7,articulates_with,T1,anatomy_textbook
+C7,part_of,neck,anatomy_textbook
+T1,articulates_with,C7,anatomy_textbook
+T1,articulates_with,T2,anatomy_textbook
+T1,part_of,trunk,anatomy_textbook
+T2,articulates_with,T1,anatomy_textbook
+T2,articulates_with,T3,anatomy_textbook
+T2,part_of,trunk,anatomy_textbook
+T3,articulates_with,T2,anatomy_textbook
+T3,articulates_with,T4,anatomy_textbook
+T3,part_of,trunk,anatomy_textbook
+T4,articulates_with,T3,anatomy_textbook
+T4,articulates_with,T5,anatomy_textbook
+T4,part_of,trunk,anatomy_textbook
+T5,articulates_with,T4,anatomy_textbook
+T5,articulates_with,T6,anatomy_textbook
+T5,part_of,trunk,anatomy_textbook
+T6,articulates_with,T5,anatomy_textbook
+T6,articulates_with,T7,anatomy_textbook
+T6,part_of,trunk,anatomy_textbook
+T7,articulates_with,T6,anatomy_textbook
+T7,articulates_with,T8,anatomy_textbook
+T7,part_of,trunk,anatomy_textbook
+T8,articulates_with,T7,anatomy_textbook
+T8,articulates_with,T9,anatomy_textbook
+T8,part_of,trunk,anatomy_textbook
+T9,articulates_with,T8,anatomy_textbook
+T9,articulates_with,T10,anatomy_textbook
+T9,part_of,trunk,anatomy_textbook
+T10,articulates_with,T9,anatomy_textbook
+T10,articulates_with,T11,anatomy_textbook
+T10,part_of,trunk,anatomy_textbook
+T11,articulates_with,T10,anatomy_textbook
+T11,articulates_with,T12,anatomy_textbook
+T11,part_of,trunk,anatomy_textbook
+T12,articulates_with,T11,anatomy_textbook
+T12,articulates_with,L1,anatomy_textbook
+T12,part_of,trunk,anatomy_textbook
+L1,articulates_with,T12,anatomy_textbook
+L1,articulates_with,L2,anatomy_textbook
+L1,part_of,trunk,anatomy_textbook
+L2,articulates_with,L1,anatomy_textbook
+L2,articulates_with,L3,anatomy_textbook
+L2,part_of,trunk,anatomy_textbook
+L3,articulates_with,L2,anatomy_textbook
+L3,articulates_with,L4,anatomy_textbook
+L3,part_of,trunk,anatomy_textbook
+L4,articulates_with,L3,anatomy_textbook
+L4,articulates_with,L5,anatomy_textbook
+L4,part_of,trunk,anatomy_textbook
+L5,articulates_with,L4,anatomy_textbook
+L5,articulates_with,Sacrum,anatomy_textbook
+L5,part_of,trunk,anatomy_textbook
+Coccyx,articulates_with,Sacrum,anatomy_textbook
+Coccyx,part_of,trunk,anatomy_textbook
+Hand Metacarpal 1,articulates_with,Trapezium,anatomy_textbook
+Hand Metacarpal 1,articulates_with,Hand Proximal Phalanx 1,anatomy_textbook
+Hand Metacarpal 2,articulates_with,Trapezoid,anatomy_textbook
+Hand Metacarpal 2,articulates_with,Hand Proximal Phalanx 2,anatomy_textbook
+Hand Metacarpal 3,articulates_with,Capitate,anatomy_textbook
+Hand Metacarpal 3,articulates_with,Hand Proximal Phalanx 3,anatomy_textbook
+Hand Metacarpal 4,articulates_with,Hamate,anatomy_textbook
+Hand Metacarpal 4,articulates_with,Hand Proximal Phalanx 4,anatomy_textbook
+Hand Metacarpal 5,articulates_with,Hamate,anatomy_textbook
+Hand Metacarpal 5,articulates_with,Hand Proximal Phalanx 5,anatomy_textbook
+Hand Proximal Phalanx 1,articulates_with,Hand Distal Phalanx 1,anatomy_textbook
+Hand Proximal Phalanx 2,articulates_with,Hand Middle Phalanx 2,anatomy_textbook
+Hand Proximal Phalanx 3,articulates_with,Hand Middle Phalanx 3,anatomy_textbook
+Hand Proximal Phalanx 4,articulates_with,Hand Middle Phalanx 4,anatomy_textbook
+Hand Proximal Phalanx 5,articulates_with,Hand Middle Phalanx 5,anatomy_textbook
+Hand Middle Phalanx 2,articulates_with,Hand Distal Phalanx 2,anatomy_textbook
+Hand Middle Phalanx 3,articulates_with,Hand Distal Phalanx 3,anatomy_textbook
+Hand Middle Phalanx 4,articulates_with,Hand Distal Phalanx 4,anatomy_textbook
+Hand Middle Phalanx 5,articulates_with,Hand Distal Phalanx 5,anatomy_textbook
+Metatarsal 1,articulates_with,Foot Proximal Phalanx 1,anatomy_textbook
+Metatarsal 2,articulates_with,Foot Proximal Phalanx 2,anatomy_textbook
+Metatarsal 3,articulates_with,Foot Proximal Phalanx 3,anatomy_textbook
+Metatarsal 4,articulates_with,Foot Proximal Phalanx 4,anatomy_textbook
+Metatarsal 5,articulates_with,Foot Proximal Phalanx 5,anatomy_textbook
+Metatarsal 1,articulates_with,Medial Cuneiform 1,anatomy_textbook
+Metatarsal 2,articulates_with,Medial Cuneiform 2,anatomy_textbook
+Metatarsal 3,articulates_with,Medial Cuneiform 3,anatomy_textbook
+Metatarsal 4,articulates_with,Cuboid,anatomy_textbook
+Metatarsal 5,articulates_with,Cuboid,anatomy_textbook
+Navicular,articulates_with,Medial Cuneiform 1,anatomy_textbook
+Navicular,articulates_with,Medial Cuneiform 2,anatomy_textbook
+Navicular,articulates_with,Medial Cuneiform 3,anatomy_textbook
+Navicular,articulates_with,Cuboid,anatomy_textbook
+Navicular,articulates_with,Calcaneus,anatomy_textbook
+Cuboid,articulates_with,Calcaneus,anatomy_textbook
+Cuboid,articulates_with,Navicular,anatomy_textbook
+Foot Proximal Phalanx 1,articulates_with,Foot Distal Phalanx 1 (Hallux),anatomy_textbook
+Foot Proximal Phalanx 2,articulates_with,Foot Middle Phalanx 2,anatomy_textbook
+Foot Proximal Phalanx 3,articulates_with,Foot Middle Phalanx 3,anatomy_textbook
+Foot Proximal Phalanx 4,articulates_with,Foot Middle Phalanx 4,anatomy_textbook
+Foot Proximal Phalanx 5,articulates_with,Foot Middle Phalanx 5,anatomy_textbook
+Foot Middle Phalanx 2,articulates_with,Foot Distal Phalanx 2,anatomy_textbook
+Foot Middle Phalanx 3,articulates_with,Foot Distal Phalanx 3,anatomy_textbook
+Foot Middle Phalanx 4,articulates_with,Foot Distal Phalanx 4,anatomy_textbook
+Foot Middle Phalanx 5,articulates_with,Foot Distal Phalanx 5,anatomy_textbook
+Recurrent Laryngeal Nerve,spinal_level,C5,anatomy_textbook
+Recurrent Laryngeal Nerve,spinal_level,C6,anatomy_textbook
+Recurrent Laryngeal Nerve,spinal_level,T1,anatomy_textbook
+External Laryngeal Nerve,spinal_level,C3,anatomy_textbook
+External Laryngeal Nerve,spinal_level,C4,anatomy_textbook
+Ansa Cervicalis,spinal_level,C1,anatomy_textbook
+Ansa Cervicalis,spinal_level,C2,anatomy_textbook
+Ansa Cervicalis,spinal_level,C3,anatomy_textbook
+Suboccipital Nerve,spinal_level,C1,anatomy_textbook
+Intercostal Nerve T1,spinal_level,T1,anatomy_textbook
+Intercostal Nerve T2,spinal_level,T2,anatomy_textbook
+Intercostal Nerve T3,spinal_level,T3,anatomy_textbook
+Intercostal Nerve T4,spinal_level,T4,anatomy_textbook
+Intercostal Nerve T5,spinal_level,T5,anatomy_textbook
+Intercostal Nerve T6,spinal_level,T6,anatomy_textbook
+Intercostal Nerve T7,spinal_level,T7,anatomy_textbook
+Intercostal Nerve T8,spinal_level,T8,anatomy_textbook
+Intercostal Nerve T9,spinal_level,T9,anatomy_textbook
+Intercostal Nerve T10,spinal_level,T10,anatomy_textbook
+Intercostal Nerve T11,spinal_level,T11,anatomy_textbook
+Subcostal Nerve,spinal_level,T12,anatomy_textbook
+Nerve to Piriformis,spinal_level,S1,anatomy_textbook
+Nerve to Piriformis,spinal_level,S2,anatomy_textbook
+Nerve to Obturator Internus,spinal_level,L5,anatomy_textbook
+Nerve to Obturator Internus,spinal_level,S1,anatomy_textbook
+Nerve to Obturator Internus,spinal_level,S2,anatomy_textbook
+Nerve to Quadratus Femoris,spinal_level,L4,anatomy_textbook
+Nerve to Quadratus Femoris,spinal_level,L5,anatomy_textbook
+Nerve to Quadratus Femoris,spinal_level,S1,anatomy_textbook
+Semitendinosus,crosses_joint,hip,anatomy_textbook
+Semimembranosus,crosses_joint,hip,anatomy_textbook
+Semimembranosus,crosses_joint,knee,anatomy_textbook
+Biceps Femoris,crosses_joint,hip,anatomy_textbook
+Adductor Longus,crosses_joint,hip,anatomy_textbook
+Adductor Brevis,crosses_joint,hip,anatomy_textbook
+Adductor Magnus,crosses_joint,hip,anatomy_textbook
+Gracilis,crosses_joint,knee,anatomy_textbook
+Sartorius,crosses_joint,hip,anatomy_textbook
+Rectus Femoris,crosses_joint,hip,anatomy_textbook
+Vastus Lateralis,crosses_joint,knee,anatomy_textbook
+Vastus Intermedius,crosses_joint,knee,anatomy_textbook
+Vastus Medialis,crosses_joint,knee,anatomy_textbook
+Psoas Major,crosses_joint,hip,anatomy_textbook
+Iliacus,crosses_joint,hip,anatomy_textbook
+Pectineus,crosses_joint,hip,anatomy_textbook
+Gastrocnemius,crosses_joint,ankle,anatomy_textbook
+Soleus,crosses_joint,ankle,anatomy_textbook
+Plantaris,crosses_joint,ankle,anatomy_textbook
+Plantaris,crosses_joint,knee,anatomy_textbook
+Popliteus,crosses_joint,knee,anatomy_textbook
+Tibialis Posterior,crosses_joint,ankle,anatomy_textbook
+Flexor Hallucis Longus,crosses_joint,ankle,anatomy_textbook
+Peroneus Longus,crosses_joint,ankle,anatomy_textbook
+Peroneus Brevis,crosses_joint,ankle,anatomy_textbook
+Tibialis Anterior,crosses_joint,ankle,anatomy_textbook
+Extensor Hallucis Longus,crosses_joint,ankle,anatomy_textbook
+Extensor Digitorum Longus,crosses_joint,ankle,anatomy_textbook
+Peroneus Tertius,crosses_joint,ankle,anatomy_textbook
+Coracobrachialis,crosses_joint,shoulder,anatomy_textbook
+Biceps Brachii,crosses_joint,elbow,anatomy_textbook
+Brachialis,crosses_joint,elbow,anatomy_textbook
+Triceps Brachii,crosses_joint,elbow,anatomy_textbook
+Triceps Brachii,crosses_joint,shoulder,anatomy_textbook
+Anconeus,crosses_joint,elbow,anatomy_textbook
+Brachioradialis,crosses_joint,elbow,anatomy_textbook
+Pronator Teres,crosses_joint,elbow,anatomy_textbook
+Flexor Carpi Radialis,crosses_joint,wrist,anatomy_textbook
+Palmaris Longus,crosses_joint,wrist,anatomy_textbook
+Flexor Carpi Ulnaris,crosses_joint,wrist,anatomy_textbook
+Flexor Digitorum Superficialis,crosses_joint,wrist,anatomy_textbook
+Flexor Digitorum Profundus,crosses_joint,wrist,anatomy_textbook
+Flexor Pollicis Longus,crosses_joint,wrist,anatomy_textbook
+Extensor Carpi Radialis Longus,crosses_joint,wrist,anatomy_textbook
+Extensor Carpi Radialis Brevis,crosses_joint,wrist,anatomy_textbook
+Extensor Digitorum,crosses_joint,wrist,anatomy_textbook
+Extensor Carpi Ulnaris,crosses_joint,wrist,anatomy_textbook
+Abductor Pollicis Longus,crosses_joint,wrist,anatomy_textbook
+Extensor Pollicis Brevis,crosses_joint,wrist,anatomy_textbook
+Extensor Pollicis Longus,crosses_joint,wrist,anatomy_textbook
+Extensor Indicis,crosses_joint,wrist,anatomy_textbook
+Tensor Fascia Lata,crosses_joint,hip,anatomy_textbook
+Gluteus Maximus,crosses_joint,hip,anatomy_textbook
+Gluteus Medius,crosses_joint,hip,anatomy_textbook
+Gluteus Minimus,crosses_joint,hip,anatomy_textbook
+Piriformis,crosses_joint,hip,anatomy_textbook
+Superior Gemellus,crosses_joint,hip,anatomy_textbook
+Inferior Gemellus,crosses_joint,hip,anatomy_textbook
+Obturator Internus,crosses_joint,hip,anatomy_textbook
+Quadratus Femoris,crosses_joint,hip,anatomy_textbook
+Obturator Externus,crosses_joint,hip,anatomy_textbook
+Masseter,crosses_joint,temporomandibular,anatomy_textbook
+Medial Pterygoid,crosses_joint,temporomandibular,anatomy_textbook
+Lateral Pterygoid,crosses_joint,temporomandibular,anatomy_textbook
+Digastric,crosses_joint,temporomandibular,anatomy_textbook
+Sternocleidomastoid,crosses_joint,cervical,anatomy_textbook
+Splenius Capitis,crosses_joint,cervical,anatomy_textbook
+Splenius Cervicis,crosses_joint,cervical,anatomy_textbook
+Longus Colli,crosses_joint,cervical,anatomy_textbook
+Longus Capitis,crosses_joint,cervical,anatomy_textbook
+Anterior Scalene,crosses_joint,cervical,anatomy_textbook
+Middle Scalene,crosses_joint,cervical,anatomy_textbook
+Posterior Scalene,crosses_joint,cervical,anatomy_textbook
+Rectus abdominis,crosses_joint,thoracolumbar,anatomy_textbook
+External oblique,crosses_joint,thoracolumbar,anatomy_textbook
+Internal oblique,crosses_joint,thoracolumbar,anatomy_textbook
+Multifidus,crosses_joint,spinal,anatomy_textbook
+Iliocostalis Lumborum,crosses_joint,lumbar,anatomy_textbook
+Iliocostalis Thoracis,crosses_joint,thoracic,anatomy_textbook
+Iliocostalis Cervicis,crosses_joint,cervical,anatomy_textbook
+Longissimus Thoracis,crosses_joint,thoracolumbar,anatomy_textbook
+Longissimus Cervicis,crosses_joint,cervical,anatomy_textbook
+Longissimus Capitis,crosses_joint,cervical,anatomy_textbook
+Spinalis Thoracis,crosses_joint,thoracic,anatomy_textbook
+Spinalis Cervicis,crosses_joint,cervical,anatomy_textbook
+Spinalis Capitis,crosses_joint,cervical,anatomy_textbook
+Semispinalis Thoracis,crosses_joint,thoracic,anatomy_textbook
+Semispinalis Cervicis,crosses_joint,cervical,anatomy_textbook
+Semispinalis Capitis,crosses_joint,cervical,anatomy_textbook
+Diaphragm,crosses_joint,thoracoabdominal,anatomy_textbook
+Quadratus lumborum,crosses_joint,lumbar,anatomy_textbook
+Psoas Major,crosses_joint,lumbar,anatomy_textbook
+Trapezius,crosses_joint,shoulder,anatomy_textbook
+Latissimus Dorsi,crosses_joint,shoulder,anatomy_textbook
+Pectoralis Major,crosses_joint,shoulder,anatomy_textbook
+Serratus Anterior,crosses_joint,shoulder,anatomy_textbook
+Levator Scapulae,crosses_joint,shoulder,anatomy_textbook
+Rhomboid Major,crosses_joint,shoulder,anatomy_textbook
+Rhomboid Minor,crosses_joint,shoulder,anatomy_textbook
+Pectoralis Minor,crosses_joint,shoulder,anatomy_textbook
+Teres Major,crosses_joint,shoulder,anatomy_textbook
+Subscapularis,crosses_joint,shoulder,anatomy_textbook
+Infraspinatus,crosses_joint,shoulder,anatomy_textbook
+Teres Minor,crosses_joint,shoulder,anatomy_textbook
+Supraspinatus,crosses_joint,shoulder,anatomy_textbook
+Deltoid,crosses_joint,shoulder,anatomy_textbook
+Gastrocnemius,crosses_joint,knee,anatomy_textbook
+Flexor Digitorum Longus,crosses_joint,ankle,anatomy_textbook
+External intercostal 1,crosses_joint,costovertebral,anatomy_textbook
+External intercostal 2,crosses_joint,costovertebral,anatomy_textbook
+External intercostal 3,crosses_joint,costovertebral,anatomy_textbook
+External intercostal 4,crosses_joint,costovertebral,anatomy_textbook
+External intercostal 5,crosses_joint,costovertebral,anatomy_textbook
+External intercostal 6,crosses_joint,costovertebral,anatomy_textbook
+External intercostal 7,crosses_joint,costovertebral,anatomy_textbook
+External intercostal 8,crosses_joint,costovertebral,anatomy_textbook
+External intercostal 9,crosses_joint,costovertebral,anatomy_textbook
+External intercostal 10,crosses_joint,costovertebral,anatomy_textbook
+External intercostal 11,crosses_joint,costovertebral,anatomy_textbook
+Internal intercostal 1,crosses_joint,costovertebral,anatomy_textbook
+Internal intercostal 2,crosses_joint,costovertebral,anatomy_textbook
+Internal intercostal 3,crosses_joint,costovertebral,anatomy_textbook
+Internal intercostal 4,crosses_joint,costovertebral,anatomy_textbook
+Internal intercostal 5,crosses_joint,costovertebral,anatomy_textbook
+Internal intercostal 6,crosses_joint,costovertebral,anatomy_textbook
+Internal intercostal 7,crosses_joint,costovertebral,anatomy_textbook
+Internal intercostal 8,crosses_joint,costovertebral,anatomy_textbook
+Internal intercostal 9,crosses_joint,costovertebral,anatomy_textbook
+Internal intercostal 10,crosses_joint,costovertebral,anatomy_textbook
+Internal intercostal 11,crosses_joint,costovertebral,anatomy_textbook
+Innermost intercostal 1,crosses_joint,costovertebral,anatomy_textbook
+Innermost intercostal 2,crosses_joint,costovertebral,anatomy_textbook
+Innermost intercostal 3,crosses_joint,costovertebral,anatomy_textbook
+Innermost intercostal 4,crosses_joint,costovertebral,anatomy_textbook
+Innermost intercostal 5,crosses_joint,costovertebral,anatomy_textbook
+Innermost intercostal 6,crosses_joint,costovertebral,anatomy_textbook
+Innermost intercostal 7,crosses_joint,costovertebral,anatomy_textbook
+Innermost intercostal 8,crosses_joint,costovertebral,anatomy_textbook
+Innermost intercostal 9,crosses_joint,costovertebral,anatomy_textbook
+Innermost intercostal 10,crosses_joint,costovertebral,anatomy_textbook
+Innermost intercostal 11,crosses_joint,costovertebral,anatomy_textbook
+Subcostalis 1,crosses_joint,costovertebral,anatomy_textbook
+Subcostalis 2,crosses_joint,costovertebral,anatomy_textbook
+Subcostalis 3,crosses_joint,costovertebral,anatomy_textbook
+Subcostalis 4,crosses_joint,costovertebral,anatomy_textbook
+Subcostalis 6,crosses_joint,costovertebral,anatomy_textbook
+Cricothryoid,crosses_joint,cricothyroid,anatomy_textbook
+Posterior cricoarytenoid,crosses_joint,cricoarytenoid,anatomy_textbook
+Lateral cricoarytenoid,crosses_joint,cricoarytenoid,anatomy_textbook
+Thyroarytenoid,crosses_joint,cricoarytenoid,anatomy_textbook
+Vocalis,crosses_joint,cricoarytenoid,anatomy_textbook
+Oblique arytenoid,crosses_joint,arytenoid,anatomy_textbook
+Transversus arytenoid,crosses_joint,arytenoid,anatomy_textbook
+Aryepiglottic,crosses_joint,aryepiglottic,anatomy_textbook
+Thyroepiglottic,crosses_joint,thyroepiglottic,anatomy_textbook
+Hand Metacarpal 1,part_of,upper_limb,anatomy_textbook
+Hand Metacarpal 2,part_of,upper_limb,anatomy_textbook
+Hand Metacarpal 3,part_of,upper_limb,anatomy_textbook
+Hand Metacarpal 4,part_of,upper_limb,anatomy_textbook
+Hand Metacarpal 5,part_of,upper_limb,anatomy_textbook
+Hand Proximal Phalanx 1,part_of,upper_limb,anatomy_textbook
+Hand Proximal Phalanx 2,part_of,upper_limb,anatomy_textbook
+Hand Proximal Phalanx 3,part_of,upper_limb,anatomy_textbook
+Hand Proximal Phalanx 4,part_of,upper_limb,anatomy_textbook
+Hand Proximal Phalanx 5,part_of,upper_limb,anatomy_textbook
+Hand Middle Phalanx 2,part_of,upper_limb,anatomy_textbook
+Hand Middle Phalanx 3,part_of,upper_limb,anatomy_textbook
+Hand Middle Phalanx 4,part_of,upper_limb,anatomy_textbook
+Hand Middle Phalanx 5,part_of,upper_limb,anatomy_textbook
+Hand Distal Phalanx 1,part_of,upper_limb,anatomy_textbook
+Hand Distal Phalanx 2,part_of,upper_limb,anatomy_textbook
+Hand Distal Phalanx 3,part_of,upper_limb,anatomy_textbook
+Hand Distal Phalanx 4,part_of,upper_limb,anatomy_textbook
+Hand Distal Phalanx 5,part_of,upper_limb,anatomy_textbook
+Foot Proximal Phalanx 1,part_of,lower_limb,anatomy_textbook
+Foot Proximal Phalanx 2,part_of,lower_limb,anatomy_textbook
+Foot Proximal Phalanx 3,part_of,lower_limb,anatomy_textbook
+Foot Proximal Phalanx 4,part_of,lower_limb,anatomy_textbook
+Foot Proximal Phalanx 5,part_of,lower_limb,anatomy_textbook
+Foot Middle Phalanx 1,part_of,lower_limb,anatomy_textbook
+Foot Middle Phalanx 2,part_of,lower_limb,anatomy_textbook
+Foot Middle Phalanx 3,part_of,lower_limb,anatomy_textbook
+Foot Middle Phalanx 4,part_of,lower_limb,anatomy_textbook
+Foot Middle Phalanx 5,part_of,lower_limb,anatomy_textbook
+Foot Distal Phalanx 1 (Hallux),part_of,lower_limb,anatomy_textbook
+Foot Distal Phalanx 2,part_of,lower_limb,anatomy_textbook
+Foot Distal Phalanx 3,part_of,lower_limb,anatomy_textbook
+Foot Distal Phalanx 4,part_of,lower_limb,anatomy_textbook
+Foot Distal Phalanx 5,part_of,lower_limb,anatomy_textbook
+Medial Cuneiform 1,part_of,lower_limb,anatomy_textbook
+Medial Cuneiform 2,part_of,lower_limb,anatomy_textbook
+Medial Cuneiform 3,part_of,lower_limb,anatomy_textbook
+Ligamentum Nuchae,part_of,neck,anatomy_textbook
+External Occipital Protuberance,part_of,head,anatomy_textbook
+Acromion,part_of,upper_limb,anatomy_textbook
+Iliac Crest,part_of,lower_limb,anatomy_textbook
+Thyroid Cartilage,part_of,neck,anatomy_textbook
+Cricoid Cartilage,part_of,neck,anatomy_textbook
+Arytenoid Cartilage,part_of,neck,anatomy_textbook
+Epiglottis,part_of,neck,anatomy_textbook
+Hyoid Bone,part_of,neck,anatomy_textbook
+Clavicle,articulates_with,Acromion,anatomy_textbook
+Humerus,part_of,upper_limb,anatomy_textbook
+Radius,part_of,upper_limb,anatomy_textbook
+Ulna,part_of,upper_limb,anatomy_textbook
+Femur,part_of,lower_limb,anatomy_textbook
+Tibia,part_of,lower_limb,anatomy_textbook
+Fibula,part_of,lower_limb,anatomy_textbook
+Ilium,part_of,lower_limb,anatomy_textbook
+Ischium,part_of,lower_limb,anatomy_textbook
+Pubis,part_of,lower_limb,anatomy_textbook

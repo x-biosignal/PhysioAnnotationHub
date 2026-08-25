@@ -1,0 +1,19 @@
+core_set_id,condition,icf_code,category_title,component,brief_vs_comprehensive
+stroke_brief,Stroke,b110,"Consciousness functions",body_functions,brief
+stroke_brief,Stroke,b114,"Orientation functions",body_functions,brief
+stroke_brief,Stroke,b140,"Attention functions",body_functions,brief
+stroke_brief,Stroke,b144,"Memory functions",body_functions,brief
+stroke_brief,Stroke,b167,"Mental functions of language",body_functions,brief
+stroke_brief,Stroke,b730,"Muscle power functions",body_functions,brief
+stroke_brief,Stroke,s110,"Structure of brain",body_structures,brief
+stroke_brief,Stroke,s730,"Structure of upper extremity",body_structures,brief
+stroke_brief,Stroke,d310,"Communicating with - receiving - spoken messages",activities_participation,brief
+stroke_brief,Stroke,d330,"Speaking",activities_participation,brief
+stroke_brief,Stroke,d450,"Walking",activities_participation,brief
+stroke_brief,Stroke,d510,"Washing oneself",activities_participation,brief
+stroke_brief,Stroke,d530,"Toileting",activities_participation,brief
+stroke_brief,Stroke,d540,"Dressing",activities_participation,brief
+stroke_brief,Stroke,d550,"Eating",activities_participation,brief
+stroke_brief,Stroke,e310,"Immediate family",environmental_factors,brief
+stroke_brief,Stroke,e355,"Health professionals",environmental_factors,brief
+stroke_brief,Stroke,e580,"Health services, systems and policies",environmental_factors,brief
