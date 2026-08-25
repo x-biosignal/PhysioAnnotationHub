@@ -82,8 +82,7 @@ install.packages("PhysioAnnotationHub",
 ``` r
 
 # install.packages("remotes")
-remotes::install_github("x-biosignal/PhysioExperiment",
-                        subdir = "physio-ecosystem/PhysioAnnotationHub")
+remotes::install_github("x-biosignal/PhysioAnnotationHub")
 ```
 
 ## Quick Start
