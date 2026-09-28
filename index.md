@@ -72,9 +72,10 @@ loaded at runtime. No external downloads are required.
 
 ``` r
 
+# the containers build on Bioconductor, so its repositories are needed too
+install.packages("BiocManager", repos = "https://cloud.r-project.org")
 install.packages("PhysioAnnotationHub",
-                  repos = c("https://x-biosignal.r-universe.dev",
-                            "https://cloud.r-project.org"))
+                  repos = c("https://x-biosignal.r-universe.dev", BiocManager::repositories()))
 ```
 
 ### From GitHub
