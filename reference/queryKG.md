@@ -5,7 +5,13 @@ Query the Knowledge Graph by triple pattern
 ## Usage
 
 ``` r
-queryKG(subject = NULL, predicate = NULL, object = NULL, hub = NULL, exact = FALSE)
+queryKG(
+  subject = NULL,
+  predicate = NULL,
+  object = NULL,
+  hub = NULL,
+  exact = FALSE
+)
 ```
 
 ## Arguments
@@ -33,3 +39,17 @@ queryKG(subject = NULL, predicate = NULL, object = NULL, hub = NULL, exact = FAL
 ## Value
 
 data.frame of matching triples
+
+## Examples
+
+``` r
+# All triples with Trapezius as the subject:
+head(queryKG(subject = "Trapezius"))
+#>     subject   predicate                          object    evidence_type
+#> 1 Trapezius attaches_to External Occipital Protuberance anatomy_textbook
+#> 2 Trapezius attaches_to               Ligamentum Nuchae anatomy_textbook
+#> 3 Trapezius attaches_to                              C7 anatomy_textbook
+#> 4 Trapezius attaches_to                              T1 anatomy_textbook
+#> 5 Trapezius attaches_to                              T2 anatomy_textbook
+#> 6 Trapezius attaches_to                              T3 anatomy_textbook
+```

@@ -7,7 +7,7 @@
 
     <a class="navbar-brand me-2" href="../index.html">PhysioAnnotationHub</a>
 
-    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">0.2.0</small>
+    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">0.2.1</small>
 
 
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -47,7 +47,7 @@
   <main id="main" class="col-md-9"><div class="page-header">
 
       <h1>Get clinical codes for muscles</h1>
-
+      <small class="dont-index">Source: <a href="https://github.com/x-biosignal/PhysioAnnotationHub/blob/main/R/query-annotation.R" class="external-link"><code>R/query-annotation.R</code></a></small>
       <div class="d-none name"><code>getClinicalCodes.Rd</code></div>
     </div>
 
@@ -67,8 +67,10 @@
 <dl><dt id="arg-muscles">muscles<a class="anchor" aria-label="anchor" href="#arg-muscles"></a></dt>
 <dd><p>Character vector of muscle names</p></dd>
 
+
 <dt id="arg-system">system<a class="anchor" aria-label="anchor" href="#arg-system"></a></dt>
 <dd><p>Character; "icd10" or "icf" (default "icd10")</p></dd>
+
 
 <dt id="arg-hub">hub<a class="anchor" aria-label="anchor" href="#arg-hub"></a></dt>
 <dd><p>AnnotationHub object</p></dd>
@@ -79,6 +81,17 @@
     <p>data.frame of matching clinical codes</p>
     </div>
 
+    <div class="section level2">
+    <h2 id="ref-examples">Examples<a class="anchor" aria-label="anchor" href="#ref-examples"></a></h2>
+    <div class="sourceCode"><pre class="sourceCode r"><code><span class="r-in"><span><span class="fu">getClinicalCodes</span><span class="op">(</span><span class="st">"Rectus abdominis"</span>, system <span class="op">=</span> <span class="st">"icd10"</span><span class="op">)</span></span></span>
+<span class="r-out co"><span class="r-pr">#&gt;</span>    icd10_code                   description</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 1       M62.0 Diastasis of muscle - general</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 33      M79.1             Myalgia - general</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span>                                  affected_muscles body_region severity_class</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 1                                Rectus abdominis       trunk       moderate</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 33 Trapezius;Sternocleidomastoid;Rectus abdominis     general           mild</span>
+</code></pre></div>
+    </div>
   </main><aside class="col-md-3"><nav id="toc" aria-label="Table of contents"><h2>On this page</h2>
     </nav></aside></div>
 

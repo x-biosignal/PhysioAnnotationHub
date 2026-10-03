@@ -22,7 +22,7 @@
 
     <a class="navbar-brand me-2" href="index.html">PhysioAnnotationHub</a>
 
-    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">0.2.0</small>
+    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">0.2.1</small>
 
 
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -220,7 +220,7 @@
 <h3 id="from-github">From GitHub<a class="anchor" aria-label="anchor" href="#from-github"></a>
 </h3>
 <div class="sourceCode" id="cb2"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span><span class="co"># install.packages("remotes")</span></span>
+<code class="sourceCode R"><span><span class="co"># install.packages("remotes", repos = "https://cloud.r-project.org")</span></span>
 <span><span class="fu">remotes</span><span class="fu">::</span><span class="fu">install_github</span><span class="op">(</span><span class="st">"x-biosignal/PhysioAnnotationHub"</span><span class="op">)</span></span></code></pre></div>
 </div>
 </div>
@@ -230,54 +230,34 @@
 <div class="sourceCode" id="cb3"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span><span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va"><a href="https://github.com/x-biosignal/PhysioAnnotationHub" class="external-link">PhysioAnnotationHub</a></span><span class="op">)</span></span>
 <span></span>
-<span><span class="co"># --- Load the annotation hub ---</span></span>
+<span><span class="co"># --- Load the annotation hub (bundled CSVs, no download) ---</span></span>
 <span><span class="va">hub</span> <span class="op">&lt;-</span> <span class="fu"><a href="reference/loadAnnotationHub.html">loadAnnotationHub</a></span><span class="op">(</span><span class="op">)</span></span>
-<span><span class="fu"><a href="https://rdrr.io/r/base/print.html" class="external-link">print</a></span><span class="op">(</span><span class="va">hub</span><span class="op">)</span></span>
-<span><span class="co">#&gt; PhysioAnnotationHub</span></span>
-<span><span class="co">#&gt;   Muscles: 320 entries</span></span>
-<span><span class="co">#&gt;   Bones:   206 entries</span></span>
-<span><span class="co">#&gt;   Nerves:  58 entries</span></span>
-<span><span class="co">#&gt;   ICD-10:  245 codes</span></span>
-<span><span class="co">#&gt;   ICF:     189 codes</span></span>
-<span><span class="co">#&gt;   KG:      1284 triples</span></span>
+<span><span class="va">hub</span></span>
 <span></span>
-<span><span class="co"># --- Query muscle annotations ---</span></span>
-<span><span class="fu"><a href="reference/getMuscleAnnotation.html">getMuscleAnnotation</a></span><span class="op">(</span><span class="st">"biceps_brachii"</span><span class="op">)</span></span>
-<span><span class="co">#&gt;             name          origin    insertion   innervation          action</span></span>
-<span><span class="co">#&gt; 1 biceps_brachii scapula (short) radius (tub) musculocutan elbow_flexion...</span></span>
+<span><span class="co"># --- Query anatomical annotations (names are matched fuzzily) ---</span></span>
+<span><span class="fu"><a href="reference/getMuscleAnnotation.html">getMuscleAnnotation</a></span><span class="op">(</span><span class="st">"Biceps Brachii"</span><span class="op">)</span>   <span class="co"># body region, action, innervation, spinal level</span></span>
+<span><span class="fu"><a href="reference/getMuscleAnnotation.html">getMuscleAnnotation</a></span><span class="op">(</span><span class="st">"Vastus"</span><span class="op">)</span>           <span class="co"># all matching muscles (lateralis/medialis/intermedius)</span></span>
+<span><span class="fu"><a href="reference/getBoneAnnotation.html">getBoneAnnotation</a></span><span class="op">(</span><span class="st">"Femur"</span><span class="op">)</span></span>
+<span><span class="fu"><a href="reference/getNerveAnnotation.html">getNerveAnnotation</a></span><span class="op">(</span><span class="st">"Median Nerve"</span><span class="op">)</span></span>
 <span></span>
-<span><span class="fu"><a href="reference/getMuscleAnnotation.html">getMuscleAnnotation</a></span><span class="op">(</span><span class="st">"quadriceps"</span><span class="op">)</span></span>
-<span><span class="co"># Returns all muscles matching the pattern</span></span>
+<span><span class="co"># --- Clinical codes associated with a muscle ---</span></span>
+<span><span class="fu"><a href="reference/getClinicalCodes.html">getClinicalCodes</a></span><span class="op">(</span><span class="st">"Biceps Brachii"</span><span class="op">)</span>                 <span class="co"># ICD-10 (default)</span></span>
+<span><span class="fu"><a href="reference/getClinicalCodes.html">getClinicalCodes</a></span><span class="op">(</span><span class="st">"Biceps Brachii"</span>, system <span class="op">=</span> <span class="st">"icf"</span><span class="op">)</span> <span class="co"># ICF</span></span>
 <span></span>
-<span><span class="co"># --- Query bone annotations ---</span></span>
-<span><span class="fu"><a href="reference/getBoneAnnotation.html">getBoneAnnotation</a></span><span class="op">(</span><span class="st">"femur"</span><span class="op">)</span></span>
+<span><span class="co"># --- Knowledge graph: neighbours within a given depth ---</span></span>
+<span><span class="fu"><a href="reference/kgNeighbors.html">kgNeighbors</a></span><span class="op">(</span><span class="st">"Biceps Brachii"</span>, depth <span class="op">=</span> <span class="fl">1</span><span class="op">)</span></span>
 <span></span>
-<span><span class="co"># --- Query nerve annotations ---</span></span>
-<span><span class="fu"><a href="reference/getNerveAnnotation.html">getNerveAnnotation</a></span><span class="op">(</span><span class="st">"median"</span><span class="op">)</span></span>
+<span><span class="co"># --- Knowledge graph: shortest path between two anatomical entities ---</span></span>
+<span><span class="fu"><a href="reference/kgShortestPath.html">kgShortestPath</a></span><span class="op">(</span><span class="st">"Scapula"</span>, <span class="st">"Radius"</span><span class="op">)</span></span>
+<span><span class="co">#&gt; $path: "Scapula" "Humerus" "Radius"; $found: TRUE</span></span>
 <span></span>
-<span><span class="co"># --- Look up clinical codes ---</span></span>
-<span><span class="fu"><a href="reference/getClinicalCodes.html">getClinicalCodes</a></span><span class="op">(</span><span class="st">"M54"</span><span class="op">)</span>        <span class="co"># ICD-10 dorsalgia codes</span></span>
-<span><span class="fu"><a href="reference/getClinicalCodes.html">getClinicalCodes</a></span><span class="op">(</span><span class="st">"b710"</span><span class="op">)</span>       <span class="co"># ICF joint mobility</span></span>
+<span><span class="co"># --- Knowledge graph: triple-pattern query ---</span></span>
+<span><span class="fu"><a href="reference/queryKG.html">queryKG</a></span><span class="op">(</span>predicate <span class="op">=</span> <span class="st">"innervated_by"</span>, object <span class="op">=</span> <span class="st">"Median Nerve"</span><span class="op">)</span></span>
 <span></span>
-<span><span class="co"># --- Knowledge graph: find neighbors ---</span></span>
-<span><span class="fu"><a href="reference/kgNeighbors.html">kgNeighbors</a></span><span class="op">(</span><span class="st">"femur"</span>, radius <span class="op">=</span> <span class="fl">1</span><span class="op">)</span></span>
-<span><span class="co">#&gt;           subject       predicate          object</span></span>
-<span><span class="co">#&gt; 1  vastus_medialis  originates_from         femur</span></span>
-<span><span class="co">#&gt; 2  vastus_lateralis originates_from         femur</span></span>
-<span><span class="co">#&gt; 3  rectus_femoris   inserts_on           patella</span></span>
-<span><span class="co">#&gt; ...</span></span>
-<span></span>
-<span><span class="co"># --- Knowledge graph: shortest path ---</span></span>
-<span><span class="fu"><a href="reference/kgShortestPath.html">kgShortestPath</a></span><span class="op">(</span><span class="st">"scapula"</span>, <span class="st">"radius"</span><span class="op">)</span></span>
-<span><span class="co">#&gt; scapula -&gt; biceps_brachii -&gt; radius</span></span>
-<span></span>
-<span><span class="co"># --- Knowledge graph: SPARQL-like query ---</span></span>
-<span><span class="fu"><a href="reference/queryKG.html">queryKG</a></span><span class="op">(</span>predicate <span class="op">=</span> <span class="st">"innervated_by"</span>, object <span class="op">=</span> <span class="st">"median_nerve"</span><span class="op">)</span></span>
-<span></span>
-<span><span class="co"># --- Knowledge graph: enrichment analysis ---</span></span>
-<span><span class="va">my_muscles</span> <span class="op">&lt;-</span> <span class="fu"><a href="https://rdrr.io/r/base/c.html" class="external-link">c</a></span><span class="op">(</span><span class="st">"biceps_brachii"</span>, <span class="st">"brachialis"</span>, <span class="st">"pronator_teres"</span><span class="op">)</span></span>
-<span><span class="fu"><a href="reference/kgEnrichment.html">kgEnrichment</a></span><span class="op">(</span><span class="va">my_muscles</span>, category <span class="op">=</span> <span class="st">"innervation"</span><span class="op">)</span></span>
-<span><span class="co">#&gt; Enriched for: musculocutaneous_nerve (p = 0.003), median_nerve (p = 0.012)</span></span></code></pre></div>
+<span><span class="co"># --- Knowledge graph: over-representation analysis ---</span></span>
+<span><span class="va">my_muscles</span> <span class="op">&lt;-</span> <span class="fu"><a href="https://rdrr.io/r/base/c.html" class="external-link">c</a></span><span class="op">(</span><span class="st">"Biceps Brachii"</span>, <span class="st">"Brachialis"</span>, <span class="st">"Pronator Teres"</span><span class="op">)</span></span>
+<span><span class="fu"><a href="reference/kgEnrichment.html">kgEnrichment</a></span><span class="op">(</span><span class="va">my_muscles</span>, annotation_type <span class="op">=</span> <span class="st">"nerve"</span><span class="op">)</span></span>
+<span><span class="co">#&gt; Musculocutaneous Nerve over-represented (fold ~60, p ~2e-4)</span></span></code></pre></div>
 </div>
 <div class="section level2">
 <h2 id="dependencies">Dependencies<a class="anchor" aria-label="anchor" href="#dependencies"></a>

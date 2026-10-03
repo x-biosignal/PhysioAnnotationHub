@@ -7,7 +7,7 @@
 
     <a class="navbar-brand me-2" href="../index.html">PhysioAnnotationHub</a>
 
-    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">0.2.0</small>
+    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">0.2.1</small>
 
 
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -47,7 +47,7 @@
   <main id="main" class="col-md-9"><div class="page-header">
 
       <h1>Get muscle annotations</h1>
-
+      <small class="dont-index">Source: <a href="https://github.com/x-biosignal/PhysioAnnotationHub/blob/main/R/query-annotation.R" class="external-link"><code>R/query-annotation.R</code></a></small>
       <div class="d-none name"><code>getMuscleAnnotation.Rd</code></div>
     </div>
 
@@ -67,8 +67,10 @@
 <dl><dt id="arg-muscles">muscles<a class="anchor" aria-label="anchor" href="#arg-muscles"></a></dt>
 <dd><p>Character vector of muscle names (NULL for all)</p></dd>
 
+
 <dt id="arg-hub">hub<a class="anchor" aria-label="anchor" href="#arg-hub"></a></dt>
 <dd><p>AnnotationHub object</p></dd>
+
 
 <dt id="arg-fuzzy">fuzzy<a class="anchor" aria-label="anchor" href="#arg-fuzzy"></a></dt>
 <dd><p>Logical; use fuzzy matching (default TRUE)</p></dd>
@@ -79,6 +81,17 @@
     <p>data.frame of muscle annotations</p>
     </div>
 
+    <div class="section level2">
+    <h2 id="ref-examples">Examples<a class="anchor" aria-label="anchor" href="#ref-examples"></a></h2>
+    <div class="sourceCode"><pre class="sourceCode r"><code><span class="r-in"><span><span class="fu">getMuscleAnnotation</span><span class="op">(</span><span class="st">"Trapezius"</span><span class="op">)</span></span></span>
+<span class="r-out co"><span class="r-pr">#&gt;</span>   muscle_name body_region sub_region     action_primary    action_secondary</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 1   Trapezius       trunk       back scapular_elevation scapular_retraction</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span>                  nerve spinal_level muscle_type joint_crossed</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 1 Accessory Nerve (XI)        C3-C4    skeletal      shoulder</span>
+<span class="r-in"><span><span class="fu"><a href="https://rdrr.io/r/base/nrow.html" class="external-link">nrow</a></span><span class="op">(</span><span class="fu">getMuscleAnnotation</span><span class="op">(</span><span class="op">)</span><span class="op">)</span>   <span class="co"># the whole muscle table</span></span></span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> [1] 270</span>
+</code></pre></div>
+    </div>
   </main><aside class="col-md-3"><nav id="toc" aria-label="Table of contents"><h2>On this page</h2>
     </nav></aside></div>
 

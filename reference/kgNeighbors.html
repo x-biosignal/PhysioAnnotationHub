@@ -7,7 +7,7 @@
 
     <a class="navbar-brand me-2" href="../index.html">PhysioAnnotationHub</a>
 
-    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">0.2.0</small>
+    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">0.2.1</small>
 
 
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -47,7 +47,7 @@
   <main id="main" class="col-md-9"><div class="page-header">
 
       <h1>Get KG neighbors of an entity</h1>
-
+      <small class="dont-index">Source: <a href="https://github.com/x-biosignal/PhysioAnnotationHub/blob/main/R/query-kg.R" class="external-link"><code>R/query-kg.R</code></a></small>
       <div class="d-none name"><code>kgNeighbors.Rd</code></div>
     </div>
 
@@ -67,8 +67,10 @@
 <dl><dt id="arg-entity">entity<a class="anchor" aria-label="anchor" href="#arg-entity"></a></dt>
 <dd><p>Character; entity name</p></dd>
 
+
 <dt id="arg-depth">depth<a class="anchor" aria-label="anchor" href="#arg-depth"></a></dt>
 <dd><p>Integer; traversal depth (default 1)</p></dd>
+
 
 <dt id="arg-hub">hub<a class="anchor" aria-label="anchor" href="#arg-hub"></a></dt>
 <dd><p>AnnotationHub object</p></dd>
@@ -79,6 +81,18 @@
     <p>data.frame of all triples within depth hops</p>
     </div>
 
+    <div class="section level2">
+    <h2 id="ref-examples">Examples<a class="anchor" aria-label="anchor" href="#ref-examples"></a></h2>
+    <div class="sourceCode"><pre class="sourceCode r"><code><span class="r-in"><span><span class="fu"><a href="https://rdrr.io/r/utils/head.html" class="external-link">head</a></span><span class="op">(</span><span class="fu">kgNeighbors</span><span class="op">(</span><span class="st">"Trapezius"</span><span class="op">)</span><span class="op">)</span></span></span>
+<span class="r-out co"><span class="r-pr">#&gt;</span>     subject   predicate                          object    evidence_type</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 1 Trapezius attaches_to External Occipital Protuberance anatomy_textbook</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 2 Trapezius attaches_to               Ligamentum Nuchae anatomy_textbook</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 3 Trapezius attaches_to                              C7 anatomy_textbook</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 4 Trapezius attaches_to                              T1 anatomy_textbook</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 5 Trapezius attaches_to                              T2 anatomy_textbook</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 6 Trapezius attaches_to                              T3 anatomy_textbook</span>
+</code></pre></div>
+    </div>
   </main><aside class="col-md-3"><nav id="toc" aria-label="Table of contents"><h2>On this page</h2>
     </nav></aside></div>
 

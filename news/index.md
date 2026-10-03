@@ -1,5 +1,23 @@
 # Changelog
 
+## PhysioAnnotationHub 0.2.1
+
+### Documentation
+
+- [`?PhysioAnnotationHub`](https://x-biosignal.github.io/PhysioAnnotationHub/reference/PhysioAnnotationHub-package.md)
+  now answers: a package help page gives one paragraph on what the
+  package is for, the main entry points grouped by task, and where to go
+  next.
+- A vignette carries one task end to end on synthetic or bundled data,
+  offline, and is built and run by `R CMD check`.
+- Runnable `@examples` added or corrected across 11 help pages. Each
+  runs offline in seconds, writes nothing outside
+  [`tempdir()`](https://rdrr.io/r/base/tempfile.html), and is executed
+  by `R CMD check`; anything needing a device, a download or an optional
+  backend is fenced with the reason stated.
+- The README’s quick start runs as written: it attaches the package,
+  builds its own inputs, and uses only hard dependencies.
+
 ## PhysioAnnotationHub 0.2.0
 
 - Add free-living physical-behaviour metric -\> ICF Activities &

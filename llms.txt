@@ -82,7 +82,7 @@ install.packages("PhysioAnnotationHub",
 
 ``` r
 
-# install.packages("remotes")
+# install.packages("remotes", repos = "https://cloud.r-project.org")
 remotes::install_github("x-biosignal/PhysioAnnotationHub")
 ```
 
@@ -92,54 +92,34 @@ remotes::install_github("x-biosignal/PhysioAnnotationHub")
 
 library(PhysioAnnotationHub)
 
-# --- Load the annotation hub ---
+# --- Load the annotation hub (bundled CSVs, no download) ---
 hub <- loadAnnotationHub()
-print(hub)
-#> PhysioAnnotationHub
-#>   Muscles: 320 entries
-#>   Bones:   206 entries
-#>   Nerves:  58 entries
-#>   ICD-10:  245 codes
-#>   ICF:     189 codes
-#>   KG:      1284 triples
+hub
 
-# --- Query muscle annotations ---
-getMuscleAnnotation("biceps_brachii")
-#>             name          origin    insertion   innervation          action
-#> 1 biceps_brachii scapula (short) radius (tub) musculocutan elbow_flexion...
+# --- Query anatomical annotations (names are matched fuzzily) ---
+getMuscleAnnotation("Biceps Brachii")   # body region, action, innervation, spinal level
+getMuscleAnnotation("Vastus")           # all matching muscles (lateralis/medialis/intermedius)
+getBoneAnnotation("Femur")
+getNerveAnnotation("Median Nerve")
 
-getMuscleAnnotation("quadriceps")
-# Returns all muscles matching the pattern
+# --- Clinical codes associated with a muscle ---
+getClinicalCodes("Biceps Brachii")                 # ICD-10 (default)
+getClinicalCodes("Biceps Brachii", system = "icf") # ICF
 
-# --- Query bone annotations ---
-getBoneAnnotation("femur")
+# --- Knowledge graph: neighbours within a given depth ---
+kgNeighbors("Biceps Brachii", depth = 1)
 
-# --- Query nerve annotations ---
-getNerveAnnotation("median")
+# --- Knowledge graph: shortest path between two anatomical entities ---
+kgShortestPath("Scapula", "Radius")
+#> $path: "Scapula" "Humerus" "Radius"; $found: TRUE
 
-# --- Look up clinical codes ---
-getClinicalCodes("M54")        # ICD-10 dorsalgia codes
-getClinicalCodes("b710")       # ICF joint mobility
+# --- Knowledge graph: triple-pattern query ---
+queryKG(predicate = "innervated_by", object = "Median Nerve")
 
-# --- Knowledge graph: find neighbors ---
-kgNeighbors("femur", radius = 1)
-#>           subject       predicate          object
-#> 1  vastus_medialis  originates_from         femur
-#> 2  vastus_lateralis originates_from         femur
-#> 3  rectus_femoris   inserts_on           patella
-#> ...
-
-# --- Knowledge graph: shortest path ---
-kgShortestPath("scapula", "radius")
-#> scapula -> biceps_brachii -> radius
-
-# --- Knowledge graph: SPARQL-like query ---
-queryKG(predicate = "innervated_by", object = "median_nerve")
-
-# --- Knowledge graph: enrichment analysis ---
-my_muscles <- c("biceps_brachii", "brachialis", "pronator_teres")
-kgEnrichment(my_muscles, category = "innervation")
-#> Enriched for: musculocutaneous_nerve (p = 0.003), median_nerve (p = 0.012)
+# --- Knowledge graph: over-representation analysis ---
+my_muscles <- c("Biceps Brachii", "Brachialis", "Pronator Teres")
+kgEnrichment(my_muscles, annotation_type = "nerve")
+#> Musculocutaneous Nerve over-represented (fold ~60, p ~2e-4)
 ```
 
 ## Dependencies
@@ -227,3 +207,9 @@ Community and policy documents live in the umbrella repository:
 - [`tagICF()`](https://x-biosignal.github.io/PhysioAnnotationHub/reference/tagICF.md)
   : Tag a metric or instrument with ICF categories
 
+# Articles
+
+### All vignettes
+
+- [Querying the anatomical and clinical annotation
+  hub](https://x-biosignal.github.io/PhysioAnnotationHub/articles/annotation-hub.md):

@@ -30,3 +30,14 @@ kgEnrichment(
 ## Value
 
 data.frame with term, count, expected, fold_enrichment, p_value
+
+## Examples
+
+``` r
+kgEnrichment(
+  c("Trapezius", "Latissimus Dorsi", "Serratus Posterior Superior"),
+  annotation_type = "body_region"
+)
+#>    term count total_in_background  expected fold_enrichment     p_value
+#> 1 trunk     3                  47 0.5222222        5.744681 0.004998243
+```

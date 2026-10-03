@@ -29,3 +29,21 @@ kgShortestPath(from, to, hub = NULL, max_depth = 5)
 ## Value
 
 List with path (entities), predicates, and depth
+
+## Examples
+
+``` r
+kgShortestPath("Trapezius", "External Occipital Protuberance")
+#> $path
+#> [1] "Trapezius"                       "External Occipital Protuberance"
+#> 
+#> $predicates
+#> [1] "attaches_to"
+#> 
+#> $depth
+#> [1] 1
+#> 
+#> $found
+#> [1] TRUE
+#> 
+```

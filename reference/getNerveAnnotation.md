@@ -21,3 +21,11 @@ getNerveAnnotation(nerves = NULL, hub = NULL)
 ## Value
 
 data.frame of nerve annotations
+
+## Examples
+
+``` r
+getNerveAnnotation("Accessory")
+#>             nerve_name spinal_levels    type body_region         plexus
+#> 1 Accessory Nerve (XI)         C3-C4 cranial        neck cranial_nerves
+```

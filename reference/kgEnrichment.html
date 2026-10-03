@@ -9,7 +9,7 @@
 
     <a class="navbar-brand me-2" href="../index.html">PhysioAnnotationHub</a>
 
-    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">0.2.0</small>
+    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">0.2.1</small>
 
 
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -49,7 +49,7 @@
   <main id="main" class="col-md-9"><div class="page-header">
 
       <h1>Functional enrichment analysis for a set of muscles</h1>
-
+      <small class="dont-index">Source: <a href="https://github.com/x-biosignal/PhysioAnnotationHub/blob/main/R/enrichment.R" class="external-link"><code>R/enrichment.R</code></a></small>
       <div class="d-none name"><code>kgEnrichment.Rd</code></div>
     </div>
 
@@ -74,8 +74,10 @@
 <dl><dt id="arg-muscles">muscles<a class="anchor" aria-label="anchor" href="#arg-muscles"></a></dt>
 <dd><p>Character vector of muscle names (query set)</p></dd>
 
+
 <dt id="arg-annotation-type">annotation_type<a class="anchor" aria-label="anchor" href="#arg-annotation-type"></a></dt>
 <dd><p>Character; "action", "nerve", "body_region", "spinal_level"</p></dd>
+
 
 <dt id="arg-hub">hub<a class="anchor" aria-label="anchor" href="#arg-hub"></a></dt>
 <dd><p>AnnotationHub object</p></dd>
@@ -86,6 +88,16 @@
     <p>data.frame with term, count, expected, fold_enrichment, p_value</p>
     </div>
 
+    <div class="section level2">
+    <h2 id="ref-examples">Examples<a class="anchor" aria-label="anchor" href="#ref-examples"></a></h2>
+    <div class="sourceCode"><pre class="sourceCode r"><code><span class="r-in"><span><span class="fu">kgEnrichment</span><span class="op">(</span></span></span>
+<span class="r-in"><span>  <span class="fu"><a href="https://rdrr.io/r/base/c.html" class="external-link">c</a></span><span class="op">(</span><span class="st">"Trapezius"</span>, <span class="st">"Latissimus Dorsi"</span>, <span class="st">"Serratus Posterior Superior"</span><span class="op">)</span>,</span></span>
+<span class="r-in"><span>  annotation_type <span class="op">=</span> <span class="st">"body_region"</span></span></span>
+<span class="r-in"><span><span class="op">)</span></span></span>
+<span class="r-out co"><span class="r-pr">#&gt;</span>    term count total_in_background  expected fold_enrichment     p_value</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> 1 trunk     3                  47 0.5222222        5.744681 0.004998243</span>
+</code></pre></div>
+    </div>
   </main><aside class="col-md-3"><nav id="toc" aria-label="Table of contents"><h2>On this page</h2>
     </nav></aside></div>
 
