@@ -1,0 +1,42 @@
+icf_code,description,related_muscles,functional_domain
+b710,Mobility of joint functions,Deltoid;Supraspinatus;Infraspinatus;Subscapularis;Gluteus Maximus;Psoas Major,body_functions
+b715,Stability of joint functions,Subscapularis;Supraspinatus;Infraspinatus;Teres Minor;Multifidus;Transversus abdominis,body_functions
+b720,Mobility of bone functions,Trapezius;Serratus Anterior;Levator Scapulae;Rhomboid Major,body_functions
+b730,Muscle power functions,Deltoid;Biceps Brachii;Triceps Brachii;Rectus Femoris;Gluteus Maximus;Gastrocnemius,body_functions
+b735,Muscle tone functions,Biceps Brachii;Triceps Brachii;Rectus Femoris;Gastrocnemius;Soleus;Tibialis Anterior,body_functions
+b740,Muscle endurance functions,Soleus;Gastrocnemius;Rectus Femoris;Vastus Lateralis;Erector Spinae;Multifidus,body_functions
+b750,Motor reflex functions,Biceps Brachii;Triceps Brachii;Brachioradialis;Rectus Femoris;Gastrocnemius,body_functions
+b755,Involuntary movement reaction functions,Rectus Femoris;Gastrocnemius;Tibialis Anterior;Gluteus Medius;Soleus,body_functions
+b760,Control of voluntary movement functions,Deltoid;Biceps Brachii;Rectus Femoris;Tibialis Anterior;Flexor Digitorum Profundus,body_functions
+b765,Involuntary movement functions,Masseter;Orbicularis Oculi;Trapezius;Sternocleidomastoid,body_functions
+b770,Gait pattern functions,Gluteus Maximus;Gluteus Medius;Rectus Femoris;Gastrocnemius;Tibialis Anterior;Soleus,body_functions
+b780,Sensations related to muscles and movement,Trapezius;Sternocleidomastoid;Multifidus;Gastrocnemius;Soleus,body_functions
+d410,Changing basic body position,Rectus abdominis;External oblique;Gluteus Maximus;Psoas Major;Quadratus lumborum,activities_participation
+d415,Maintaining a body position,Multifidus;Transversus abdominis;Rectus abdominis;Gluteus Medius;Soleus,activities_participation
+d420,Transferring oneself,Deltoid;Triceps Brachii;Latissimus Dorsi;Gluteus Maximus;Rectus Femoris,activities_participation
+d430,Lifting and carrying objects,Biceps Brachii;Deltoid;Trapezius;Latissimus Dorsi;Rectus Femoris;Gluteus Maximus,activities_participation
+d440,Fine hand use,Flexor Digitorum Profundus;Flexor Digitorum Superficialis;Lumbrical 1;Dorsal Interossei 1;Opponens Pollicis,activities_participation
+d445,Hand and arm use,Deltoid;Biceps Brachii;Triceps Brachii;Flexor Digitorum Profundus;Extensor Digitorum,activities_participation
+d450,Walking,Gluteus Maximus;Gluteus Medius;Rectus Femoris;Gastrocnemius;Tibialis Anterior;Soleus,activities_participation
+d455,Moving around,Gluteus Maximus;Rectus Femoris;Gastrocnemius;Tibialis Anterior;Psoas Major;Gluteus Medius,activities_participation
+d460,Moving around in different locations,Gluteus Maximus;Gluteus Medius;Rectus Femoris;Gastrocnemius;Soleus;Tibialis Anterior,activities_participation
+d465,Moving around using equipment,Deltoid;Biceps Brachii;Triceps Brachii;Gluteus Maximus;Rectus Femoris,activities_participation
+d470,Using transportation,Psoas Major;Rectus Femoris;Gluteus Maximus;Deltoid;Biceps Brachii,activities_participation
+d475,Driving,Deltoid;Biceps Brachii;Triceps Brachii;Rectus Femoris;Gastrocnemius;Tibialis Anterior,activities_participation
+d510,Washing oneself,Deltoid;Supraspinatus;Biceps Brachii;Triceps Brachii;Flexor Digitorum Superficialis,activities_participation
+d520,Caring for body parts,Deltoid;Biceps Brachii;Flexor Digitorum Profundus;Opponens Pollicis;Abductor Pollicis Brevis,activities_participation
+d530,Toileting,Psoas Major;Rectus Femoris;Gluteus Maximus;Rectus abdominis;External oblique,activities_participation
+d540,Dressing,Deltoid;Biceps Brachii;Triceps Brachii;Flexor Digitorum Profundus;Opponens Pollicis,activities_participation
+d550,Eating,Masseter;Medial Pterygoid;Lateral Pterygoid;Biceps Brachii;Deltoid;Flexor Digitorum Profundus,activities_participation
+d560,Drinking,Biceps Brachii;Deltoid;Orbicularis Oris;Buccinator;Flexor Digitorum Profundus,activities_participation
+d570,Looking after ones health,Diaphragm;Rectus abdominis;External oblique;Internal oblique;Transversus abdominis,activities_participation
+d620,Acquisition of goods and services,Deltoid;Biceps Brachii;Rectus Femoris;Gluteus Maximus;Gastrocnemius,activities_participation
+d640,Doing housework,Deltoid;Biceps Brachii;Triceps Brachii;Rectus Femoris;Gluteus Maximus;Gastrocnemius,activities_participation
+d710,Basic interpersonal interactions,Orbicularis Oris;Zygomaticus Major;Frontalis;Orbicularis Oculi,activities_participation
+d810,Informal education,Deltoid;Biceps Brachii;Flexor Digitorum Profundus;Opponens Pollicis,activities_participation
+d820,School education,Flexor Digitorum Profundus;Opponens Pollicis;Trapezius;Multifidus;Rectus abdominis,activities_participation
+d845,Acquiring and keeping a job,Deltoid;Biceps Brachii;Triceps Brachii;Rectus Femoris;Gluteus Maximus,activities_participation
+d910,Community life,Gluteus Maximus;Rectus Femoris;Gastrocnemius;Deltoid;Biceps Brachii,activities_participation
+d920,Recreation and leisure,Deltoid;Biceps Brachii;Rectus Femoris;Gluteus Maximus;Gastrocnemius;Soleus,activities_participation
+b440,Respiration functions,Diaphragm;External intercostal 1;Internal intercostal 1;Rectus abdominis;External oblique,body_functions
+b310,Voice functions,Cricothryoid;Thyroarytenoid;Posterior cricoarytenoid;Lateral cricoarytenoid;Vocalis,body_functions

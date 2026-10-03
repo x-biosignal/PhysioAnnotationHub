@@ -1,0 +1,12 @@
+citHeader("To cite PhysioAnnotationHub in publications use:")
+
+bibentry(
+  bibtype  = "Manual",
+  title    = "PhysioAnnotationHub: Anatomical and Clinical Knowledge Graph for Physiological Data",
+  author   = person("Yusuke", "Matsui"),
+  year     = "2026",
+  note     = paste("R package version", meta$Version),
+  url      = "https://github.com/x-biosignal/PhysioAnnotationHub"
+  # doi    = "10.5281/zenodo.XXXXXXX"  # add once minted
+)
+

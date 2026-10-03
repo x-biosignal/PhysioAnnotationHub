@@ -1,0 +1,271 @@
+muscle_name,body_region,sub_region,action_primary,action_secondary,nerve,spinal_level,muscle_type,joint_crossed
+Trapezius,trunk,back,scapular_elevation,scapular_retraction,Accessory Nerve (XI),C3-C4,skeletal,shoulder
+Latissimus Dorsi,trunk,back,shoulder_extension,shoulder_adduction,Thoracodorsal Nerve,C6-C8,skeletal,shoulder
+Serratus Posterior Superior,trunk,back,rib_elevation,respiration,Intercostal Nerves,T2-T5,skeletal,thorax
+Serratus Posterior Inferior,trunk,back,rib_depression,respiration,Intercostal Nerves,T9-T12,skeletal,thorax
+Levator Scapulae,trunk,back,scapular_elevation,cervical_lateral_flexion,Dorsal Scapular Nerve,C3-C5,skeletal,shoulder
+Rhomboid Minor,trunk,back,scapular_retraction,scapular_elevation,Dorsal Scapular Nerve,C4-C5,skeletal,shoulder
+Rhomboid Major,trunk,back,scapular_retraction,scapular_downward_rotation,Dorsal Scapular Nerve,C4-C5,skeletal,shoulder
+Serratus Anterior,trunk,back,scapular_protraction,scapular_upward_rotation,Long Thoracic Nerve,C5-C7,skeletal,shoulder
+Deltoid,upper_limb,shoulder,shoulder_abduction,shoulder_flexion,Axillary Nerve,C5-C6,skeletal,shoulder
+Supraspinatus,upper_limb,shoulder,shoulder_abduction,shoulder_stabilization,Suprascapular Nerve,C5-C6,skeletal,shoulder
+Infraspinatus,upper_limb,shoulder,shoulder_external_rotation,shoulder_stabilization,Suprascapular Nerve,C5-C6,skeletal,shoulder
+Teres Minor,upper_limb,shoulder,shoulder_external_rotation,shoulder_adduction,Axillary Nerve,C5-C6,skeletal,shoulder
+Teres Major,upper_limb,shoulder,shoulder_internal_rotation,shoulder_adduction,Lower Subscapular Nerve,C5-C7,skeletal,shoulder
+Subscapularis,upper_limb,shoulder,shoulder_internal_rotation,shoulder_stabilization,Subscapular Nerves,C5-C7,skeletal,shoulder
+Subclavius,trunk,chest,clavicle_depression,shoulder_stabilization,Nerve to Subclavius,C5-C6,skeletal,sternoclavicular
+Pectoralis Major,trunk,chest,shoulder_flexion,shoulder_adduction,Medial and Lateral Pectoral Nerves,C5-T1,skeletal,shoulder
+Pectoralis Minor,trunk,chest,scapular_depression,scapular_protraction,Medial Pectoral Nerve,C8-T1,skeletal,shoulder
+Coracobrachialis,upper_limb,arm,shoulder_flexion,shoulder_adduction,Musculocutaneous Nerve,C5-C7,skeletal,shoulder
+Biceps Brachii,upper_limb,arm,elbow_flexion,forearm_supination,Musculocutaneous Nerve,C5-C6,skeletal,elbow
+Brachialis,upper_limb,arm,elbow_flexion,none,Musculocutaneous Nerve,C5-C6,skeletal,elbow
+Triceps Brachii,upper_limb,arm,elbow_extension,shoulder_extension,Radial Nerve,C6-C8,skeletal,elbow
+Anconeus,upper_limb,arm,elbow_extension,elbow_stabilization,Radial Nerve,C7-C8,skeletal,elbow
+Pronator Teres,upper_limb,forearm,forearm_pronation,elbow_flexion,Median Nerve,C6-C7,skeletal,elbow
+Flexor Carpi Radialis,upper_limb,forearm,wrist_flexion,wrist_abduction,Median Nerve,C6-C7,skeletal,wrist
+Palmaris Longus,upper_limb,forearm,wrist_flexion,palmar_tensioning,Median Nerve,C7-C8,skeletal,wrist
+Flexor Carpi Ulnaris,upper_limb,forearm,wrist_flexion,wrist_adduction,Ulnar Nerve,C8-T1,skeletal,wrist
+Flexor Digitorum Superficialis,upper_limb,forearm,finger_flexion,wrist_flexion,Median Nerve,C7-T1,skeletal,wrist
+Flexor Digitorum Profundus,upper_limb,forearm,finger_flexion,wrist_flexion,Median Nerve; Ulnar Nerve,C8-T1,skeletal,wrist
+Flexor Pollicis Longus,upper_limb,forearm,thumb_flexion,wrist_flexion,Anterior Interosseous Nerve,C8-T1,skeletal,wrist
+Pronator Quadratus,upper_limb,forearm,forearm_pronation,none,Anterior Interosseous Nerve,C8-T1,skeletal,radioulnar
+Brachioradialis,upper_limb,forearm,elbow_flexion,forearm_pronation,Radial Nerve,C5-C6,skeletal,elbow
+Extensor Carpi Radialis Longus,upper_limb,forearm,wrist_extension,wrist_abduction,Radial Nerve,C6-C7,skeletal,wrist
+Extensor Carpi Radialis Brevis,upper_limb,forearm,wrist_extension,wrist_abduction,Posterior Interosseous Nerve,C7-C8,skeletal,wrist
+Extensor Digitorum,upper_limb,forearm,finger_extension,wrist_extension,Posterior Interosseous Nerve,C7-C8,skeletal,wrist
+Extensor Digiti Minimi,upper_limb,forearm,little_finger_extension,wrist_extension,Posterior Interosseous Nerve,C7-C8,skeletal,wrist
+Extensor Carpi Ulnaris,upper_limb,forearm,wrist_extension,wrist_adduction,Posterior Interosseous Nerve,C7-C8,skeletal,wrist
+Supinator,upper_limb,forearm,forearm_supination,none,Posterior Interosseous Nerve,C5-C6,skeletal,radioulnar
+Abductor Pollicis Longus,upper_limb,forearm,thumb_abduction,wrist_abduction,Posterior Interosseous Nerve,C7-C8,skeletal,wrist
+Extensor Pollicis Brevis,upper_limb,forearm,thumb_extension,wrist_abduction,Posterior Interosseous Nerve,C7-C8,skeletal,wrist
+Extensor Pollicis Longus,upper_limb,forearm,thumb_extension,thumb_adduction,Posterior Interosseous Nerve,C7-C8,skeletal,wrist
+Extensor Indicis,upper_limb,forearm,index_finger_extension,wrist_extension,Posterior Interosseous Nerve,C7-C8,skeletal,wrist
+Abductor Pollicis Brevis,upper_limb,hand,thumb_abduction,thumb_opposition,Median Nerve,C8-T1,skeletal,thumb_CMC
+Flexor Pollicis Brevis,upper_limb,hand,thumb_flexion,thumb_opposition,Median Nerve; Ulnar Nerve,C8-T1,skeletal,thumb_MCP
+Opponens Pollicis,upper_limb,hand,thumb_opposition,thumb_flexion,Median Nerve,C8-T1,skeletal,thumb_CMC
+Adductor Pollicis,upper_limb,hand,thumb_adduction,thumb_flexion,Ulnar Nerve,C8-T1,skeletal,thumb_MCP
+Palmaris Brevis,upper_limb,hand,palmar_skin_wrinkling,grip_assist,Ulnar Nerve,C8-T1,skeletal,none
+Abductor Digiti Minimi,upper_limb,hand,little_finger_abduction,little_finger_flexion,Ulnar Nerve,C8-T1,skeletal,MCP5
+Flexor Digiti Minimi Brevis,upper_limb,hand,little_finger_flexion,none,Ulnar Nerve,C8-T1,skeletal,MCP5
+Opponens Digiti Minimi,upper_limb,hand,little_finger_opposition,none,Ulnar Nerve,C8-T1,skeletal,MCP5
+Palmar Interossei 1,upper_limb,hand,finger_adduction,MCP_flexion,Ulnar Nerve,C8-T1,skeletal,MCP
+Palmar Interossei 2,upper_limb,hand,finger_adduction,MCP_flexion,Ulnar Nerve,C8-T1,skeletal,MCP
+Palmar Interossei  3,upper_limb,hand,finger_adduction,MCP_flexion,Ulnar Nerve,C8-T1,skeletal,MCP
+Dorsal Interossei 1,upper_limb,hand,finger_abduction,MCP_flexion,Ulnar Nerve,C8-T1,skeletal,MCP
+Dorsal Interossei 2,upper_limb,hand,finger_abduction,MCP_flexion,Ulnar Nerve,C8-T1,skeletal,MCP
+Dorsal Interossei 3,upper_limb,hand,finger_abduction,MCP_flexion,Ulnar Nerve,C8-T1,skeletal,MCP
+Dorsal Interossei 4,upper_limb,hand,finger_abduction,MCP_flexion,Ulnar Nerve,C8-T1,skeletal,MCP
+Lumbrical 1,upper_limb,hand,MCP_flexion,IP_extension,Median Nerve,C8-T1,skeletal,MCP
+Lumbrical 2,upper_limb,hand,MCP_flexion,IP_extension,Median Nerve,C8-T1,skeletal,MCP
+Lumbrical 3,upper_limb,hand,MCP_flexion,IP_extension,Ulnar Nerve,C8-T1,skeletal,MCP
+Lumbrical 4,upper_limb,hand,MCP_flexion,IP_extension,Ulnar Nerve,C8-T1,skeletal,MCP
+Splenius Capitis,neck,posterior,head_extension,head_rotation,Posterior Rami Cervical Nerves,C1-C4,skeletal,cervical
+Splenius Cervicis,neck,posterior,cervical_extension,cervical_rotation,Posterior Rami Cervical Nerves,C4-C6,skeletal,cervical
+Iliocostalis Lumborum,trunk,back,trunk_extension,trunk_lateral_flexion,Posterior Rami Spinal Nerves,L1-L5,skeletal,lumbar
+Iliocostalis Thoracis,trunk,back,trunk_extension,trunk_lateral_flexion,Posterior Rami Spinal Nerves,T1-T12,skeletal,thoracic
+Iliocostalis Cervicis,trunk,back,cervical_extension,cervical_lateral_flexion,Posterior Rami Spinal Nerves,C4-C6,skeletal,cervical
+Longissimus Thoracis,trunk,back,trunk_extension,trunk_lateral_flexion,Posterior Rami Spinal Nerves,T1-L5,skeletal,thoracolumbar
+Longissimus Cervicis,trunk,back,cervical_extension,cervical_lateral_flexion,Posterior Rami Spinal Nerves,C2-C6,skeletal,cervical
+Longissimus Capitis,trunk,back,head_extension,head_lateral_flexion,Posterior Rami Spinal Nerves,C1-C4,skeletal,cervical
+Spinalis Thoracis,trunk,back,trunk_extension,none,Posterior Rami Spinal Nerves,T1-T12,skeletal,thoracic
+Spinalis Cervicis,trunk,back,cervical_extension,none,Posterior Rami Spinal Nerves,C2-C6,skeletal,cervical
+Spinalis Capitis,trunk,back,head_extension,none,Posterior Rami Spinal Nerves,C1-C4,skeletal,cervical
+Semispinalis Thoracis,trunk,back,trunk_extension,trunk_rotation,Posterior Rami Spinal Nerves,T1-T12,skeletal,thoracic
+Semispinalis Cervicis,neck,posterior,cervical_extension,cervical_rotation,Posterior Rami Spinal Nerves,C2-C6,skeletal,cervical
+Semispinalis Capitis,neck,posterior,head_extension,head_rotation,Posterior Rami Spinal Nerves,C1-C6,skeletal,cervical
+Multifidus,trunk,back,spinal_stabilization,spinal_rotation,Posterior Rami Spinal Nerves,C3-S4,skeletal,spinal
+Interspinalis 1,neck,posterior,cervical_extension,spinal_stabilization,Posterior Rami Spinal Nerves,C2-C3,skeletal,cervical
+Interspinalis 2,neck,posterior,cervical_extension,spinal_stabilization,Posterior Rami Spinal Nerves,C3-C4,skeletal,cervical
+Interspinalis 3,neck,posterior,cervical_extension,spinal_stabilization,Posterior Rami Spinal Nerves,C4-C5,skeletal,cervical
+Interspinalis 4,neck,posterior,cervical_extension,spinal_stabilization,Posterior Rami Spinal Nerves,C5-C6,skeletal,cervical
+Interspinalis 5,neck,posterior,cervical_extension,spinal_stabilization,Posterior Rami Spinal Nerves,C6-C7,skeletal,cervical
+Interspinalis 6,neck,posterior,cervical_extension,spinal_stabilization,Posterior Rami Spinal Nerves,C7-T1,skeletal,cervical
+Interspinalis 7,trunk,back,trunk_extension,spinal_stabilization,Posterior Rami Spinal Nerves,T1-T2,skeletal,thoracic
+Interspinalis 8,trunk,back,trunk_extension,spinal_stabilization,Posterior Rami Spinal Nerves,T2-T3,skeletal,thoracic
+Interspinalis 9,trunk,back,trunk_extension,spinal_stabilization,Posterior Rami Spinal Nerves,T10-T11,skeletal,thoracic
+Interspinalis 10,trunk,back,trunk_extension,spinal_stabilization,Posterior Rami Spinal Nerves,T11-T12,skeletal,lumbar
+Interspinalis 11,trunk,back,trunk_extension,spinal_stabilization,Posterior Rami Spinal Nerves,L1-L2,skeletal,lumbar
+Interspinalis 12,trunk,back,trunk_extension,spinal_stabilization,Posterior Rami Spinal Nerves,L2-L3,skeletal,lumbar
+Rotatores 1,neck,posterior,cervical_rotation,cervical_extension,Posterior Rami Spinal Nerves,C2-C3,skeletal,cervical
+Rotatores 2,neck,posterior,cervical_rotation,cervical_extension,Posterior Rami Spinal Nerves,C3-C4,skeletal,cervical
+Rotatores 3,neck,posterior,cervical_rotation,cervical_extension,Posterior Rami Spinal Nerves,C4-C5,skeletal,cervical
+Rotatores 4,neck,posterior,cervical_rotation,cervical_extension,Posterior Rami Spinal Nerves,C5-C6,skeletal,cervical
+Rotatores 5,neck,posterior,cervical_rotation,cervical_extension,Posterior Rami Spinal Nerves,C6-C7,skeletal,cervical
+Rotatores 6,trunk,back,trunk_rotation,trunk_extension,Posterior Rami Spinal Nerves,T1-T2,skeletal,thoracic
+Rotatores 7,trunk,back,trunk_rotation,trunk_extension,Posterior Rami Spinal Nerves,T2-T3,skeletal,thoracic
+Rotatores 8,trunk,back,trunk_rotation,trunk_extension,Posterior Rami Spinal Nerves,T3-T4,skeletal,thoracic
+Rotatores 9,trunk,back,trunk_rotation,trunk_extension,Posterior Rami Spinal Nerves,T4-T5,skeletal,thoracic
+Rotatores 10,trunk,back,trunk_rotation,trunk_extension,Posterior Rami Spinal Nerves,T5-T6,skeletal,thoracic
+Rotatores 11,trunk,back,trunk_rotation,trunk_extension,Posterior Rami Spinal Nerves,T6-T7,skeletal,thoracic
+Intertransverse 1,neck,posterior,cervical_lateral_flexion,cervical_stabilization,Anterior Rami Spinal Nerves,C1-C2,skeletal,cervical
+Intertransverse 2,neck,posterior,cervical_lateral_flexion,cervical_stabilization,Anterior Rami Spinal Nerves,C2-C3,skeletal,cervical
+Intertransverse 3,neck,posterior,cervical_lateral_flexion,cervical_stabilization,Anterior Rami Spinal Nerves,C3-C4,skeletal,cervical
+Intertransverse 4,neck,posterior,cervical_lateral_flexion,cervical_stabilization,Anterior Rami Spinal Nerves,C4-C5,skeletal,cervical
+Intertransverse 5,neck,posterior,cervical_lateral_flexion,cervical_stabilization,Anterior Rami Spinal Nerves,C5-C6,skeletal,cervical
+Intertransverse 6,neck,posterior,cervical_lateral_flexion,cervical_stabilization,Anterior Rami Spinal Nerves,C6-C7,skeletal,cervical
+Intertransverse 7,neck,posterior,cervical_lateral_flexion,cervical_stabilization,Anterior Rami Spinal Nerves,C7-T1,skeletal,cervical
+Intertransverse 8,trunk,back,trunk_lateral_flexion,trunk_stabilization,Anterior Rami Spinal Nerves,T1-T2,skeletal,thoracic
+Intertransverse 9,trunk,back,trunk_lateral_flexion,trunk_stabilization,Anterior Rami Spinal Nerves,T2-T3,skeletal,thoracic
+Intertransverse 10,trunk,back,trunk_lateral_flexion,trunk_stabilization,Anterior Rami Spinal Nerves,T10-T11,skeletal,thoracic
+Intertransverse 11,trunk,back,trunk_lateral_flexion,trunk_stabilization,Anterior Rami Spinal Nerves,T11-T12,skeletal,lumbar
+Intertransverse 12,trunk,back,trunk_lateral_flexion,trunk_stabilization,Anterior Rami Spinal Nerves,L1-L2,skeletal,lumbar
+Intertransverse 13,trunk,back,trunk_lateral_flexion,trunk_stabilization,Anterior Rami Spinal Nerves,L2-L3,skeletal,lumbar
+Intertransverse 14,trunk,back,trunk_lateral_flexion,trunk_stabilization,Anterior Rami Spinal Nerves,L3-L4,skeletal,lumbar
+Obliquus Capitis Inferior,neck,suboccipital,head_rotation,head_stabilization,Suboccipital Nerve,C1,skeletal,atlantoaxial
+Obliquus Capitis Superior,neck,suboccipital,head_extension,head_lateral_flexion,Suboccipital Nerve,C1,skeletal,atlantooccipital
+Rectus Capitis Posterior Major,neck,suboccipital,head_extension,head_rotation,Suboccipital Nerve,C1,skeletal,atlantooccipital
+Rectus Capitis Posterior Minor,neck,suboccipital,head_extension,head_stabilization,Suboccipital Nerve,C1,skeletal,atlantooccipital
+Longus Colli,neck,anterior,cervical_flexion,cervical_lateral_flexion,Anterior Rami Cervical Nerves,C2-C6,skeletal,cervical
+Longus Capitis,neck,anterior,head_flexion,head_lateral_flexion,Anterior Rami Cervical Nerves,C1-C3,skeletal,cervical
+Rectus Capitis Anterior,neck,anterior,head_flexion,head_stabilization,Anterior Rami Cervical Nerves,C1-C2,skeletal,atlantooccipital
+Rectus Capitis Lateralis,neck,anterior,head_lateral_flexion,head_stabilization,Anterior Rami Cervical Nerves,C1-C2,skeletal,atlantooccipital
+Anterior Scalene,neck,lateral,cervical_flexion,rib_elevation,Anterior Rami Cervical Nerves,C4-C6,skeletal,cervical
+Scalene Minimus,neck,lateral,rib_elevation,cervical_stabilization,Anterior Rami Cervical Nerves,C6-C7,skeletal,cervical
+Middle Scalene,neck,lateral,cervical_lateral_flexion,rib_elevation,Anterior Rami Cervical Nerves,C3-C8,skeletal,cervical
+Posterior Scalene,neck,lateral,cervical_lateral_flexion,rib_elevation,Anterior Rami Cervical Nerves,C6-C8,skeletal,cervical
+Sternocleidomastoid,neck,lateral,head_flexion,head_rotation,Accessory Nerve (XI),C2-C3,skeletal,cervical
+Platysma,neck,superficial,mandible_depression,facial_expression,Facial Nerve (VII),C2-C3,skeletal,none
+Sternohyoid,neck,anterior,hyoid_depression,swallowing_assist,Ansa Cervicalis,C1-C3,skeletal,hyoid
+Omohyoid,neck,anterior,hyoid_depression,hyoid_stabilization,Ansa Cervicalis,C1-C3,skeletal,hyoid
+Sternothyroid,neck,anterior,larynx_depression,swallowing_assist,Ansa Cervicalis,C1-C3,skeletal,thyroid
+Thryohyoid,neck,anterior,hyoid_depression,larynx_elevation,C1 via Hypoglossal Nerve,C1,skeletal,hyoid
+Stylohyoid,neck,anterior,hyoid_elevation,hyoid_retraction,Facial Nerve (VII),C2-C3,skeletal,hyoid
+Digastric,head,face,mandible_depression,hyoid_elevation,Trigeminal (V3); Facial Nerve (VII),C1-C2,skeletal,temporomandibular
+Mylohyoid,head,face,hyoid_elevation,mandible_depression,Trigeminal (V3),C1,skeletal,hyoid
+Geniohyoid,head,face,hyoid_elevation,mandible_depression,C1 via Hypoglossal Nerve,C1,skeletal,hyoid
+Occipitalis,head,scalp,scalp_retraction,facial_expression,Facial Nerve (VII),C2,skeletal,none
+Frontalis,head,scalp,eyebrow_elevation,facial_expression,Facial Nerve (VII),C2,skeletal,none
+Orbicularis Oculi,head,face,eyelid_closure,facial_expression,Facial Nerve (VII),C2,skeletal,none
+Corrugator Supercilii,head,face,eyebrow_depression,facial_expression,Facial Nerve (VII),C2,skeletal,none
+Orbicularis Oris,head,face,lip_closure,facial_expression,Facial Nerve (VII),C2-C3,skeletal,none
+Levator Labii Superioris Alaeque Nasi,head,face,upper_lip_elevation,nasal_dilation,Facial Nerve (VII),C2-C3,skeletal,none
+Levator Labii Superioris,head,face,upper_lip_elevation,facial_expression,Facial Nerve (VII),C2-C3,skeletal,none
+Zygomaticus Minor,head,face,upper_lip_elevation,facial_expression,Facial Nerve (VII),C2-C3,skeletal,none
+Zygomaticus Major,head,face,mouth_corner_elevation,facial_expression,Facial Nerve (VII),C2-C3,skeletal,none
+Levator Anguli Oris,head,face,mouth_corner_elevation,facial_expression,Facial Nerve (VII),C2-C3,skeletal,none
+Buccinator,head,face,cheek_compression,mastication,Facial Nerve (VII),C2-C3,skeletal,none
+Depressor Anguli Oris,head,face,mouth_corner_depression,facial_expression,Facial Nerve (VII),C2-C3,skeletal,none
+Masseter,head,face,mandible_elevation,mastication,Trigeminal (V3),C2-C3,skeletal,temporomandibular
+Medial Pterygoid,head,face,mandible_elevation,mandible_lateral_movement,Trigeminal (V3),C2-C3,skeletal,temporomandibular
+Lateral Pterygoid,head,face,mandible_protrusion,mouth_opening,Trigeminal (V3),C2-C3,skeletal,temporomandibular
+Levator Palpebrae Superioris,head,orbit,eyelid_elevation,none,Oculomotor Nerve (III),midbrain,skeletal,none
+Lateral Rectus,head,orbit,eye_abduction,none,Abducens Nerve (VI),pons,skeletal,none
+Medial Rectus,head,orbit,eye_adduction,none,Oculomotor Nerve (III),midbrain,skeletal,none
+Superior Rectus,head,orbit,eye_elevation,eye_intorsion,Oculomotor Nerve (III),midbrain,skeletal,none
+Inferior Rectus,head,orbit,eye_depression,eye_extorsion,Oculomotor Nerve (III),midbrain,skeletal,none
+Superior Oblique,head,orbit,eye_intorsion,eye_depression,Trochlear Nerve (IV),midbrain,skeletal,none
+Inferior Oblique,head,orbit,eye_extorsion,eye_elevation,Oculomotor Nerve (III),midbrain,skeletal,none
+Tensor Fascia Lata,lower_limb,hip,hip_flexion,hip_abduction,Superior Gluteal Nerve,L4-S1,skeletal,hip
+Gluteus Maximus,lower_limb,hip,hip_extension,hip_external_rotation,Inferior Gluteal Nerve,L5-S2,skeletal,hip
+Gluteus Medius,lower_limb,hip,hip_abduction,hip_internal_rotation,Superior Gluteal Nerve,L4-S1,skeletal,hip
+Gluteus Minimus,lower_limb,hip,hip_abduction,hip_internal_rotation,Superior Gluteal Nerve,L4-S1,skeletal,hip
+Piriformis,lower_limb,hip,hip_external_rotation,hip_abduction,Nerve to Piriformis,S1-S2,skeletal,hip
+Superior Gemellus,lower_limb,hip,hip_external_rotation,hip_stabilization,Nerve to Obturator Internus,L5-S2,skeletal,hip
+Inferior Gemellus,lower_limb,hip,hip_external_rotation,hip_stabilization,Nerve to Quadratus Femoris,L4-S1,skeletal,hip
+Obturator Internus,lower_limb,hip,hip_external_rotation,hip_abduction,Nerve to Obturator Internus,L5-S2,skeletal,hip
+Quadratus Femoris,lower_limb,hip,hip_external_rotation,hip_adduction,Nerve to Quadratus Femoris,L4-S1,skeletal,hip
+Semitendinosus,lower_limb,thigh,knee_flexion,hip_extension,Tibial Division Sciatic Nerve,L5-S2,skeletal,knee
+Semimembranosus,lower_limb,thigh,knee_flexion,hip_extension,Tibial Division Sciatic Nerve,L5-S2,skeletal,knee
+Biceps Femoris,lower_limb,thigh,knee_flexion,hip_extension,Sciatic Nerve,L5-S2,skeletal,knee
+Adductor Longus,lower_limb,thigh,hip_adduction,hip_flexion,Obturator Nerve,L2-L4,skeletal,hip
+Adductor Brevis,lower_limb,thigh,hip_adduction,hip_flexion,Obturator Nerve,L2-L4,skeletal,hip
+Adductor Magnus,lower_limb,thigh,hip_adduction,hip_extension,Obturator Nerve; Tibial Division Sciatic Nerve,L2-L4,skeletal,hip
+Gracilis,lower_limb,thigh,hip_adduction,knee_flexion,Obturator Nerve,L2-L3,skeletal,hip
+Obturator Externus,lower_limb,hip,hip_external_rotation,hip_adduction,Obturator Nerve,L3-L4,skeletal,hip
+Sartorius,lower_limb,thigh,hip_flexion,knee_flexion,Femoral Nerve,L2-L3,skeletal,hip
+Rectus Femoris,lower_limb,thigh,knee_extension,hip_flexion,Femoral Nerve,L2-L4,skeletal,knee
+Vastus Lateralis,lower_limb,thigh,knee_extension,none,Femoral Nerve,L2-L4,skeletal,knee
+Vastus Intermedius,lower_limb,thigh,knee_extension,none,Femoral Nerve,L2-L4,skeletal,knee
+Vastus Medialis,lower_limb,thigh,knee_extension,none,Femoral Nerve,L2-L4,skeletal,knee
+Articularis Genus,lower_limb,thigh,knee_stabilization,suprapatellar_bursa_retraction,Femoral Nerve,L3-L4,skeletal,knee
+Psoas Major,lower_limb,hip,hip_flexion,trunk_flexion,Lumbar Plexus,L1-L3,skeletal,hip
+Iliacus,lower_limb,hip,hip_flexion,hip_external_rotation,Femoral Nerve,L2-L4,skeletal,hip
+Pectineus,lower_limb,thigh,hip_adduction,hip_flexion,Femoral Nerve; Obturator Nerve,L2-L3,skeletal,hip
+Gastrocnemius,lower_limb,leg,ankle_plantarflexion,knee_flexion,Tibial Nerve,S1-S2,skeletal,ankle
+Soleus,lower_limb,leg,ankle_plantarflexion,none,Tibial Nerve,S1-S2,skeletal,ankle
+Plantaris,lower_limb,leg,ankle_plantarflexion,knee_flexion,Tibial Nerve,S1-S2,skeletal,ankle
+Popliteus,lower_limb,leg,knee_flexion,knee_internal_rotation,Tibial Nerve,L4-S1,skeletal,knee
+Flexor Digitorum Longus,lower_limb,leg,toe_flexion,ankle_plantarflexion,Tibial Nerve,L5-S2,skeletal,ankle
+Tibialis Posterior,lower_limb,leg,ankle_plantarflexion,foot_inversion,Tibial Nerve,L4-L5,skeletal,ankle
+Flexor Hallucis Longus,lower_limb,leg,great_toe_flexion,ankle_plantarflexion,Tibial Nerve,L5-S2,skeletal,ankle
+Peroneus Longus,lower_limb,leg,ankle_plantarflexion,foot_eversion,Superficial Peroneal Nerve,L5-S1,skeletal,ankle
+Peroneus Brevis,lower_limb,leg,foot_eversion,ankle_plantarflexion,Superficial Peroneal Nerve,L5-S1,skeletal,ankle
+Tibialis Anterior,lower_limb,leg,ankle_dorsiflexion,foot_inversion,Deep Peroneal Nerve,L4-L5,skeletal,ankle
+Extensor Hallucis Longus,lower_limb,leg,great_toe_extension,ankle_dorsiflexion,Deep Peroneal Nerve,L5-S1,skeletal,ankle
+Extensor Digitorum Longus,lower_limb,leg,toe_extension,ankle_dorsiflexion,Deep Peroneal Nerve,L5-S1,skeletal,ankle
+Peroneus Tertius,lower_limb,leg,ankle_dorsiflexion,foot_eversion,Deep Peroneal Nerve,L5-S1,skeletal,ankle
+Abductor Hallucis,lower_limb,foot,great_toe_abduction,great_toe_flexion,Medial Plantar Nerve,S1-S2,skeletal,MTP1
+Flexor Digitorum Brevis,lower_limb,foot,toe_flexion,foot_stabilization,Medial Plantar Nerve,S1-S2,skeletal,MTP
+Abductor Digiti Minimi,lower_limb,foot,little_toe_abduction,little_toe_flexion,Lateral Plantar Nerve,S1-S3,skeletal,MTP5
+Abductor Ossis Metatarsi Quinti,lower_limb,foot,fifth_metatarsal_abduction,foot_stabilization,Lateral Plantar Nerve,S1-S3,skeletal,MTP5
+Quadratus Plantae,lower_limb,foot,toe_flexion,none,Lateral Plantar Nerve,S1-S3,skeletal,MTP
+Lumbrical 1,lower_limb,foot,MTP_flexion,IP_extension,Medial Plantar Nerve,S1-S2,skeletal,MTP
+Lumbrical 2,lower_limb,foot,MTP_flexion,IP_extension,Lateral Plantar Nerve,S1-S3,skeletal,MTP
+Lumbrical 3,lower_limb,foot,MTP_flexion,IP_extension,Lateral Plantar Nerve,S1-S3,skeletal,MTP
+Lumbrical 4,lower_limb,foot,MTP_flexion,IP_extension,Lateral Plantar Nerve,S1-S3,skeletal,MTP
+Flexor Hallucis Brevis,lower_limb,foot,great_toe_flexion,foot_stabilization,Medial Plantar Nerve,S1-S2,skeletal,MTP1
+Adductor Hallucis,lower_limb,foot,great_toe_adduction,forefoot_stabilization,Lateral Plantar Nerve,S1-S3,skeletal,MTP1
+Flexor Digiti Minimi Brevis,lower_limb,foot,little_toe_flexion,foot_stabilization,Lateral Plantar Nerve,S1-S3,skeletal,MTP5
+Plantar Interossei 1,lower_limb,foot,toe_adduction,MTP_flexion,Lateral Plantar Nerve,S1-S3,skeletal,MTP
+Plantar Interossei 2,lower_limb,foot,toe_adduction,MTP_flexion,Lateral Plantar Nerve,S1-S3,skeletal,MTP
+Plantar Interossei 3,lower_limb,foot,toe_adduction,MTP_flexion,Lateral Plantar Nerve,S1-S3,skeletal,MTP
+Dorsal Interossei 1,lower_limb,foot,toe_abduction,MTP_flexion,Lateral Plantar Nerve,S1-S3,skeletal,MTP
+Dorsal Interossei 2,lower_limb,foot,toe_abduction,MTP_flexion,Lateral Plantar Nerve,S1-S3,skeletal,MTP
+Dorsal Interossei 3,lower_limb,foot,toe_abduction,MTP_flexion,Lateral Plantar Nerve,S1-S3,skeletal,MTP
+Dorsal Interossei 4,lower_limb,foot,toe_abduction,MTP_flexion,Lateral Plantar Nerve,S1-S3,skeletal,MTP
+Extensor Hallucis Brevis,lower_limb,foot,great_toe_extension,foot_stabilization,Deep Peroneal Nerve,L5-S1,skeletal,MTP1
+Extensor Digitorum Brevis,lower_limb,foot,toe_extension,foot_stabilization,Deep Peroneal Nerve,L5-S1,skeletal,MTP
+Cricothryoid,neck,larynx,vocal_cord_tensioning,voice_pitch_elevation,External Laryngeal Nerve,C3-C4,skeletal,cricothyroid
+Posterior cricoarytenoid,neck,larynx,vocal_cord_abduction,airway_opening,Recurrent Laryngeal Nerve,C5-T1,skeletal,cricoarytenoid
+Lateral cricoarytenoid,neck,larynx,vocal_cord_adduction,voice_production,Recurrent Laryngeal Nerve,C5-T1,skeletal,cricoarytenoid
+Transversus arytenoid,neck,larynx,vocal_cord_adduction,glottis_closure,Recurrent Laryngeal Nerve,C5-T1,skeletal,arytenoid
+Vocalis,neck,larynx,vocal_cord_tensioning,voice_modulation,Recurrent Laryngeal Nerve,C5-T1,skeletal,cricoarytenoid
+Thyroarytenoid,neck,larynx,vocal_cord_relaxation,glottis_closure,Recurrent Laryngeal Nerve,C5-T1,skeletal,cricoarytenoid
+Oblique arytenoid,neck,larynx,vocal_cord_adduction,glottis_closure,Recurrent Laryngeal Nerve,C5-T1,skeletal,arytenoid
+Aryepiglottic,neck,larynx,epiglottis_closure,airway_protection,Recurrent Laryngeal Nerve,C5-T1,skeletal,aryepiglottic
+Thyroepiglottic,neck,larynx,epiglottis_opening,airway_opening,Recurrent Laryngeal Nerve,C5-T1,skeletal,thyroepiglottic
+External intercostal 1,thorax,chest_wall,rib_elevation,respiration_inspiration,Intercostal Nerve T1,T1,skeletal,costovertebral
+External intercostal 2,thorax,chest_wall,rib_elevation,respiration_inspiration,Intercostal Nerve T2,T2,skeletal,costovertebral
+External intercostal 3,thorax,chest_wall,rib_elevation,respiration_inspiration,Intercostal Nerve T3,T3,skeletal,costovertebral
+External intercostal 4,thorax,chest_wall,rib_elevation,respiration_inspiration,Intercostal Nerve T4,T4,skeletal,costovertebral
+External intercostal 5,thorax,chest_wall,rib_elevation,respiration_inspiration,Intercostal Nerve T5,T5,skeletal,costovertebral
+External intercostal 6,thorax,chest_wall,rib_elevation,respiration_inspiration,Intercostal Nerve T6,T6,skeletal,costovertebral
+External intercostal 7,thorax,chest_wall,rib_elevation,respiration_inspiration,Intercostal Nerve T7,T7,skeletal,costovertebral
+External intercostal 8,thorax,chest_wall,rib_elevation,respiration_inspiration,Intercostal Nerve T8,T8,skeletal,costovertebral
+External intercostal 9,thorax,chest_wall,rib_elevation,respiration_inspiration,Intercostal Nerve T9,T9,skeletal,costovertebral
+External intercostal 10,thorax,chest_wall,rib_elevation,respiration_inspiration,Intercostal Nerve T10,T10,skeletal,costovertebral
+External intercostal 11,thorax,chest_wall,rib_elevation,respiration_inspiration,Intercostal Nerve T11,T11,skeletal,costovertebral
+Internal intercostal 1,thorax,chest_wall,rib_depression,respiration_expiration,Intercostal Nerve T1,T1,skeletal,costovertebral
+Internal intercostal 2,thorax,chest_wall,rib_depression,respiration_expiration,Intercostal Nerve T2,T2,skeletal,costovertebral
+Internal intercostal 3,thorax,chest_wall,rib_depression,respiration_expiration,Intercostal Nerve T3,T3,skeletal,costovertebral
+Internal intercostal 4,thorax,chest_wall,rib_depression,respiration_expiration,Intercostal Nerve T4,T4,skeletal,costovertebral
+Internal intercostal 5,thorax,chest_wall,rib_depression,respiration_expiration,Intercostal Nerve T5,T5,skeletal,costovertebral
+Internal intercostal 6,thorax,chest_wall,rib_depression,respiration_expiration,Intercostal Nerve T6,T6,skeletal,costovertebral
+Internal intercostal 7,thorax,chest_wall,rib_depression,respiration_expiration,Intercostal Nerve T7,T7,skeletal,costovertebral
+Internal intercostal 8,thorax,chest_wall,rib_depression,respiration_expiration,Intercostal Nerve T8,T8,skeletal,costovertebral
+Internal intercostal 9,thorax,chest_wall,rib_depression,respiration_expiration,Intercostal Nerve T9,T9,skeletal,costovertebral
+Internal intercostal 10,thorax,chest_wall,rib_depression,respiration_expiration,Intercostal Nerve T10,T10,skeletal,costovertebral
+Internal intercostal 11,thorax,chest_wall,rib_depression,respiration_expiration,Intercostal Nerve T11,T11,skeletal,costovertebral
+Innermost intercostal 1,thorax,chest_wall,rib_depression,respiration_expiration,Intercostal Nerve T1,T1,skeletal,costovertebral
+Innermost intercostal 2,thorax,chest_wall,rib_depression,respiration_expiration,Intercostal Nerve T2,T2,skeletal,costovertebral
+Innermost intercostal 3,thorax,chest_wall,rib_depression,respiration_expiration,Intercostal Nerve T3,T3,skeletal,costovertebral
+Innermost intercostal 4,thorax,chest_wall,rib_depression,respiration_expiration,Intercostal Nerve T4,T4,skeletal,costovertebral
+Innermost intercostal 5,thorax,chest_wall,rib_depression,respiration_expiration,Intercostal Nerve T5,T5,skeletal,costovertebral
+Innermost intercostal 6,thorax,chest_wall,rib_depression,respiration_expiration,Intercostal Nerve T6,T6,skeletal,costovertebral
+Innermost intercostal 7,thorax,chest_wall,rib_depression,respiration_expiration,Intercostal Nerve T7,T7,skeletal,costovertebral
+Innermost intercostal 8,thorax,chest_wall,rib_depression,respiration_expiration,Intercostal Nerve T8,T8,skeletal,costovertebral
+Innermost intercostal 9,thorax,chest_wall,rib_depression,respiration_expiration,Intercostal Nerve T9,T9,skeletal,costovertebral
+Innermost intercostal 10,thorax,chest_wall,rib_depression,respiration_expiration,Intercostal Nerve T10,T10,skeletal,costovertebral
+Innermost intercostal 11,thorax,chest_wall,rib_depression,respiration_expiration,Intercostal Nerve T11,T11,skeletal,costovertebral
+Subcostalis 1,thorax,chest_wall,rib_depression,respiration_expiration,Intercostal Nerves,T1-T2,skeletal,costovertebral
+Subcostalis 2,thorax,chest_wall,rib_depression,respiration_expiration,Intercostal Nerves,T2-T3,skeletal,costovertebral
+Subcostalis 3,thorax,chest_wall,rib_depression,respiration_expiration,Intercostal Nerves,T3-T4,skeletal,costovertebral
+Subcostalis 4,thorax,chest_wall,rib_depression,respiration_expiration,Intercostal Nerves,T4-T5,skeletal,costovertebral
+Subcostalis 6,thorax,chest_wall,rib_depression,respiration_expiration,Intercostal Nerves,T6-T7,skeletal,costovertebral
+Diaphragm,thorax,chest_wall,respiration_inspiration,intra_abdominal_pressure,Phrenic Nerve,C3-C5,skeletal,thoracoabdominal
+External oblique,trunk,abdomen,trunk_flexion,trunk_rotation,Intercostal Nerves; Subcostal Nerve,T7-T12,skeletal,thoracolumbar
+Internal oblique,trunk,abdomen,trunk_flexion,trunk_rotation,Intercostal Nerves; Iliohypogastric Nerve,T7-L1,skeletal,thoracolumbar
+Transversus abdominis,trunk,abdomen,abdominal_compression,trunk_stabilization,Intercostal Nerves; Iliohypogastric Nerve,T7-L1,skeletal,thoracolumbar
+Rectus abdominis,trunk,abdomen,trunk_flexion,intra_abdominal_pressure,Intercostal Nerves,T7-T12,skeletal,thoracolumbar
+Pyramidalis,trunk,abdomen,linea_alba_tensioning,abdominal_stabilization,Subcostal Nerve,T12,skeletal,none
+Quadratus lumborum,trunk,back,trunk_lateral_flexion,rib_stabilization,Lumbar Plexus,T12-L4,skeletal,lumbar

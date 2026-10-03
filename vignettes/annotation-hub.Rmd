@@ -1,0 +1,96 @@
+---
+title: "Querying the anatomical and clinical annotation hub"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Querying the anatomical and clinical annotation hub}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(collapse = TRUE, comment = "#>")
+```
+
+PhysioAnnotationHub is a lightweight, base-R-only annotation hub for the
+PhysioExperiment ecosystem. It bundles curated anatomical ontology data
+(muscles, bones, nerves), clinical codes (ICD-10, ICF), and an anatomical
+knowledge graph as CSV files under `inst/extdata`. Everything here runs offline
+-- nothing is downloaded at run time.
+
+```{r setup}
+library(PhysioAnnotationHub)
+```
+
+## Load the hub
+
+`loadAnnotationHub()` reads all bundled datasets into one cached object; printing
+it summarises what is available.
+
+```{r load}
+hub <- loadAnnotationHub()
+hub
+```
+
+## Anatomical queries
+
+Look up a muscle, bone, or nerve by name (matching is case-insensitive and
+fuzzy); call a getter with no arguments to get the whole table.
+
+```{r anatomy}
+getMuscleAnnotation("Trapezius")[, c("muscle_name", "body_region",
+                                     "action_primary", "nerve")]
+getNerveAnnotation("Accessory")
+```
+
+Clinical codes that reference a muscle:
+
+```{r clinical}
+getClinicalCodes("Rectus abdominis", system = "icd10")[, c("icd10_code",
+                                                            "description")]
+```
+
+## The knowledge graph
+
+Anatomical relationships are stored as subject-predicate-object triples. Query
+them by any combination of the three slots:
+
+```{r kg-query}
+head(queryKG(subject = "Trapezius"))
+```
+
+Traverse the graph -- neighbours within N hops, or the shortest path between two
+entities:
+
+```{r kg-traverse}
+nrow(kgNeighbors("Trapezius"))
+kgShortestPath("Trapezius", "External Occipital Protuberance")
+```
+
+Over-representation analysis asks whether a muscle set is enriched for an
+annotation (here, body region) relative to the full hub:
+
+```{r kg-enrich}
+kgEnrichment(
+  c("Trapezius", "Latissimus Dorsi", "Serratus Posterior Superior"),
+  annotation_type = "body_region"
+)
+```
+
+## ICF classification
+
+Map a physiological metric or clinical instrument to WHO ICF categories, or pull
+a published ICF Core Set:
+
+```{r icf}
+tagICF("gait_speed")
+icfCategories(c("b730", "d450"))
+```
+
+## Where to go next
+
+* `?loadAnnotationHub` -- the hub object and its tables.
+* `?queryKG`, `?kgShortestPath`, `?kgEnrichment` -- graph queries.
+* `?tagICF`, `?getCoreSet` -- ICF linking.
+
+This hub is designed to be imported by other ecosystem packages (e.g.
+PhysioMSKNet) that need anatomical metadata without carrying their own copy.
